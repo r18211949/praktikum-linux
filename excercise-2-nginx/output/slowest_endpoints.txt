@@ -1,0 +1,7 @@
+3534.76 ms - /admin/reports
+3525.02 ms - /api/v1/checkout
+407.56 ms - /static/css/main.css
+402.91 ms - /cart
+402.69 ms - /products
+398.73 ms - /index.html
+309.25 ms - /admin/login
