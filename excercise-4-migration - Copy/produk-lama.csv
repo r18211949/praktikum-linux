@@ -1,0 +1,2001 @@
+kode_produk,nama_produk,harga,stok,kategori,last_updated
+PROD-0001,NOVEL FIKSI TERJEMAHAN,120,12,buku,"Mar 12, 2026"
+PROD-0002,kaos polos combed,"Rp120000,-",null,pakian,"Nov 01, 2025"
+PROD-0003,LAPTOP gaming i7,45,kosong,elektronik murah,"Jan 24, 2026"
+PROD-0004,mouse WIRELESS,"Rp45000,-",-5,elektronik,1774594800
+PROD-0005,POWERBANK 10000mah,45,null,elektronik,"Mar 23, 2025"
+PROD-0006,BAJU  ANAK PEREMPUAN,15,null,pakaian,2026-03-19 12:00:00
+PROD-0007,Buku Mewarnai anak,"Rp120000,-",12,buku,1766206800
+PROD-0008,buku pemrograman python,45rb,34,buku bacaan,1752559200
+PROD-0009,Buku Mewarnai anak,120000,12,buku bacaan,1744138800
+PROD-0010,KAMUS BAHASA INGGRIS,"Rp120000,-",35,BUKU,09/02/2025
+PROD-0011,NOVEL FIKSI TERJEMAHAN,$8.00,null,BUKU,1755522000
+PROD-0012,KEMEJA FLANEL Keren,15000,12,pakian,01/08/2025
+PROD-0013,buku pemrograman python,"Rp45000,-",null,buku bacaan,2025-12-08 12:00:00
+PROD-0014,komik jepang lama,Rp 120.000,-5,buku,2025-07-24 14:00:00
+PROD-0015,kaos polos combed,$8.00,45,pakaian,1739484000
+PROD-0016,NOVEL FIKSI TERJEMAHAN,$1.00,12,buku bacaan,2025-08-24 11:00:00
+PROD-0017,KEMEJA FLANEL Keren,15rb,kosong,pakian,"Nov 01, 2025"
+PROD-0018,komik jepang lama,Rp 120.000,null,buku bacaan,25/10/2025
+PROD-0019,baju anak laki-laki,120,null,PAKAIAN,"Mar 23, 2025"
+PROD-0020,POWERBANK 10000mah,Rp 15.000,null,elektronik,09/06/2025
+PROD-0021,hP android murah,120000,null,elektronik,20/03/2026
+PROD-0022,POWERBANK 10000mah,15000,null,ELEKTRONIK,"Feb 25, 2025"
+PROD-0023,KAMUS BAHASA INGGRIS,15000,null,buku bacaan,1744660800
+PROD-0024,KEMEJA FLANEL Keren,"Rp120000,-",-5,pakian,1754110800
+PROD-0025,BAJU  ANAK PEREMPUAN,Rp 15.000,12,pakian,2025-08-23 21:00:00
+PROD-0026,POWERBANK 10000mah,null,12,ELEKTRONIK,15/09/2025
+PROD-0027,mouse WIRELESS,$1.00,-5,elektronik murah,"May 28, 2025"
+PROD-0028,BAJU  ANAK PEREMPUAN,15000,null,pakaian,11/01/2025
+PROD-0029,POWERBANK 10000mah,120rb,-5,ELEKTRONIK,"Aug 26, 2025"
+PROD-0030,buku pemrograman python,45rb,kosong,buku,1735830000
+PROD-0031,BaJu Bayi,Rp 45.000,kosong,pakian,"Sep 14, 2025"
+PROD-0032,mouse WIRELESS,120,kosong,ELEKTRONIK,"Sep 28, 2025"
+PROD-0033,kaos polos combed,$3.00,-5,PAKAIAN,2025-01-07 18:00:00
+PROD-0034,komik jepang lama,$3.00,kosong,buku bacaan,2026-01-13 11:00:00
+PROD-0035,BaJu Bayi,Rp 45.000,kosong,PAKAIAN,2025-03-24 23:00:00
+PROD-0036,Buku Mewarnai anak,120rb,12,BUKU,2025-10-17 15:00:00
+PROD-0037,komik jepang lama,15000,12,buku,"Jan 28, 2026"
+PROD-0038,POWERBANK 10000mah,45rb,-5,elektronik,1746547200
+PROD-0039,buku pemrograman python,15000,13,BUKU,1762686000
+PROD-0040,POWERBANK 10000mah,Rp 45.000,12,elektronik murah,"Aug 22, 2025"
+PROD-0041,komik jepang lama,15000,12,buku bacaan,2025-12-06 7:00:00
+PROD-0042,KEMEJA FLANEL Keren,Rp 120.000,kosong,pakian,2025-02-04 14:00:00
+PROD-0043,LAPTOP gaming i7,$8.00,-5,elektronik,"May 19, 2025"
+PROD-0044,LAPTOP gaming i7,$3.00,kosong,elektronik murah,02/03/2026
+PROD-0045,baju anak laki-laki,45,18,pakaian,24/08/2025
+PROD-0046,buku pemrograman python,120rb,12,buku bacaan,29/08/2025
+PROD-0047,Buku Mewarnai anak,120,-5,BUKU,"May 27, 2025"
+PROD-0048,NOVEL FIKSI TERJEMAHAN,15,85,buku bacaan,2026-01-20 6:00:00
+PROD-0049,KEMEJA FLANEL Keren,"Rp15000,-",kosong,pakaian,"Sep 25, 2025"
+PROD-0050,BaJu Bayi,$3.00,77,pakian,"Jan 05, 2026"
+PROD-0051,BaJu Bayi,45rb,-5,PAKAIAN,19/01/2026
+PROD-0052,POWERBANK 10000mah,"Rp15000,-",19,ELEKTRONIK,2025-01-24 1:00:00
+PROD-0053,LAPTOP gaming i7,"Rp120000,-",12,elektronik murah,2025-11-23 0:00:00
+PROD-0054,NOVEL FIKSI TERJEMAHAN,Rp 120.000,kosong,buku,12/01/2026
+PROD-0055,BAJU  ANAK PEREMPUAN,15rb,null,pakaian,"Nov 22, 2025"
+PROD-0056,KEMEJA FLANEL Keren,$3.00,44,pakaian,"Nov 21, 2025"
+PROD-0057,buku pemrograman python,$1.00,12,buku,2025-03-08 4:00:00
+PROD-0058,baju anak laki-laki,45rb,kosong,pakian,"Jul 01, 2025"
+PROD-0059,charger Type-C fast,15,12,ELEKTRONIK,30/09/2025
+PROD-0060,NOVEL FIKSI TERJEMAHAN,15000,-5,buku bacaan,04/12/2025
+PROD-0061,BAJU  ANAK PEREMPUAN,,12,PAKAIAN,"Jan 13, 2026"
+PROD-0062,LAPTOP gaming i7,null,-5,elektronik murah,22/12/2025
+PROD-0063,charger Type-C fast,45000,null,ELEKTRONIK,03/07/2025
+PROD-0064,KAMUS BAHASA INGGRIS,120,12,buku bacaan,1746298800
+PROD-0065,Buku Mewarnai anak,Rp 45.000,kosong,BUKU,2025-12-24 6:00:00
+PROD-0066,hP android murah,$3.00,-5,elektronik murah,02/06/2025
+PROD-0067,NOVEL FIKSI TERJEMAHAN,45rb,-5,BUKU,"Jan 02, 2026"
+PROD-0068,hP android murah,,12,elektronik,2025-01-12 2:00:00
+PROD-0069,buku pemrograman python,15,kosong,buku,2025-06-27 12:00:00
+PROD-0070,mouse WIRELESS,15000,12,elektronik,06/12/2025
+PROD-0071,Buku Mewarnai anak,"Rp45000,-",12,buku bacaan,2025-12-28 8:00:00
+PROD-0072,POWERBANK 10000mah,null,kosong,elektronik murah,"Feb 21, 2025"
+PROD-0073,BaJu Bayi,"Rp120000,-",12,clothes,01/03/2026
+PROD-0074,hP android murah,120rb,-5,elektronik murah,2025-04-18 14:00:00
+PROD-0075,buku pemrograman python,"Rp45000,-",kosong,buku,2025-08-15 9:00:00
+PROD-0076,KEMEJA FLANEL Keren,120000,null,PAKAIAN,1764482400
+PROD-0077,LAPTOP gaming i7,15rb,kosong,elektronik,1743541200
+PROD-0078,LAPTOP gaming i7,$3.00,-5,elektronik,2026-02-01 10:00:00
+PROD-0079,komik jepang lama,120000,12,BUKU,"Feb 17, 2026"
+PROD-0080,hP android murah,$8.00,12,ELEKTRONIK,2025-04-20 7:00:00
+PROD-0081,LAPTOP gaming i7,,12,elektronik murah,1740229200
+PROD-0082,KAMUS BAHASA INGGRIS,15,null,buku,"Aug 20, 2025"
+PROD-0083,NOVEL FIKSI TERJEMAHAN,Rp 15.000,null,BUKU,2025-03-26 23:00:00
+PROD-0084,BaJu Bayi,15rb,66,pakian,05/12/2025
+PROD-0085,baju anak laki-laki,"Rp120000,-",12,pakaian,"Jan 12, 2025"
+PROD-0086,Buku Mewarnai anak,$1.00,-5,buku,"Sep 20, 2025"
+PROD-0087,komik jepang lama,"Rp45000,-",kosong,BUKU,08/06/2025
+PROD-0088,kaos polos combed,45000,12,pakian,2025-10-03 12:00:00
+PROD-0089,KAMUS BAHASA INGGRIS,120000,null,BUKU,2025-04-16 20:00:00
+PROD-0090,mouse WIRELESS,15000,12,elektronik,"Dec 06, 2025"
+PROD-0091,Buku Mewarnai anak,$3.00,12,buku,1740160800
+PROD-0092,charger Type-C fast,"Rp45000,-",12,elektronik murah,05/10/2025
+PROD-0093,mouse WIRELESS,$8.00,kosong,ELEKTRONIK,10/06/2025
+PROD-0094,baju anak laki-laki,$1.00,12,PAKAIAN,12/03/2026
+PROD-0095,BaJu Bayi,,12,pakaian,"Feb 15, 2025"
+PROD-0096,LAPTOP gaming i7,"Rp45000,-",12,ELEKTRONIK,18/02/2026
+PROD-0097,POWERBANK 10000mah,15000,-5,ELEKTRONIK,"Aug 24, 2025"
+PROD-0098,KEMEJA FLANEL Keren,Rp 45.000,kosong,clothes,05/04/2025
+PROD-0099,LAPTOP gaming i7,"Rp15000,-",null,ELEKTRONIK,2026-01-01 20:00:00
+PROD-0100,NOVEL FIKSI TERJEMAHAN,120rb,-5,buku,2025-09-11 22:00:00
+PROD-0101,BAJU  ANAK PEREMPUAN,$3.00,-5,pakaian,13/11/2025
+PROD-0102,baju anak laki-laki,Rp 120.000,null,pakian,03/03/2025
+PROD-0103,BAJU  ANAK PEREMPUAN,45000,kosong,clothes,"Sep 10, 2025"
+PROD-0104,KAMUS BAHASA INGGRIS,$8.00,12,buku,2025-09-11 7:00:00
+PROD-0105,KAMUS BAHASA INGGRIS,Rp 45.000,-5,BUKU,2026-01-07 5:00:00
+PROD-0106,BAJU  ANAK PEREMPUAN,"Rp15000,-",22,pakian,"Jan 19, 2025"
+PROD-0107,LAPTOP gaming i7,Rp 15.000,-5,elektronik murah,"Mar 02, 2026"
+PROD-0108,BAJU  ANAK PEREMPUAN,120rb,-5,PAKAIAN,13/12/2025
+PROD-0109,buku pemrograman python,,-5,BUKU,1750741200
+PROD-0110,BAJU  ANAK PEREMPUAN,$1.00,-5,PAKAIAN,2026-01-07 16:00:00
+PROD-0111,POWERBANK 10000mah,null,null,elektronik,2025-10-19 19:00:00
+PROD-0112,hP android murah,Rp 45.000,kosong,ELEKTRONIK,"Aug 10, 2025"
+PROD-0113,komik jepang lama,null,12,buku bacaan,"Sep 18, 2025"
+PROD-0114,buku pemrograman python,15rb,52,BUKU,2025-10-31 20:00:00
+PROD-0115,hP android murah,$3.00,-5,ELEKTRONIK,1765836000
+PROD-0116,kaos polos combed,"Rp45000,-",-5,clothes,2025-08-29 8:00:00
+PROD-0117,BaJu Bayi,"Rp45000,-",-5,clothes,1746054000
+PROD-0118,komik jepang lama,Rp 15.000,kosong,buku bacaan,27/07/2025
+PROD-0119,Buku Mewarnai anak,"Rp45000,-",kosong,buku,24/03/2026
+PROD-0120,buku pemrograman python,45rb,87,buku bacaan,"Nov 14, 2025"
+PROD-0121,Buku Mewarnai anak,45000,12,BUKU,22/09/2025
+PROD-0122,KEMEJA FLANEL Keren,Rp 45.000,null,clothes,"Mar 06, 2025"
+PROD-0123,BAJU  ANAK PEREMPUAN,Rp 15.000,-5,clothes,31/12/2025
+PROD-0124,LAPTOP gaming i7,Rp 45.000,null,elektronik,2025-06-03 17:00:00
+PROD-0125,komik jepang lama,Rp 45.000,12,BUKU,"Feb 14, 2025"
+PROD-0126,NOVEL FIKSI TERJEMAHAN,15rb,12,buku,16/01/2025
+PROD-0127,charger Type-C fast,null,12,ELEKTRONIK,1765270800
+PROD-0128,NOVEL FIKSI TERJEMAHAN,"Rp45000,-",null,BUKU,2025-07-30 16:00:00
+PROD-0129,KAMUS BAHASA INGGRIS,15rb,12,buku,24/05/2025
+PROD-0130,buku pemrograman python,"Rp15000,-",12,buku,21/04/2025
+PROD-0131,LAPTOP gaming i7,15rb,12,elektronik murah,2025-09-23 21:00:00
+PROD-0132,baju anak laki-laki,$3.00,29,PAKAIAN,2026-01-30 17:00:00
+PROD-0133,POWERBANK 10000mah,120,null,elektronik murah,"Sep 02, 2025"
+PROD-0134,POWERBANK 10000mah,120,-5,elektronik,1747206000
+PROD-0135,kaos polos combed,"Rp45000,-",12,clothes,"Oct 22, 2025"
+PROD-0136,KAMUS BAHASA INGGRIS,Rp 15.000,kosong,BUKU,12/08/2025
+PROD-0137,NOVEL FIKSI TERJEMAHAN,$8.00,kosong,buku bacaan,2025-09-03 16:00:00
+PROD-0138,kaos polos combed,15,kosong,pakaian,26/01/2025
+PROD-0139,hP android murah,$1.00,kosong,elektronik murah,03/03/2025
+PROD-0140,baju anak laki-laki,Rp 45.000,null,clothes,29/03/2025
+PROD-0141,KEMEJA FLANEL Keren,Rp 15.000,-5,pakian,14/08/2025
+PROD-0142,NOVEL FIKSI TERJEMAHAN,45,kosong,buku,14/09/2025
+PROD-0143,mouse WIRELESS,15000,99,elektronik,"Jan 30, 2026"
+PROD-0144,Buku Mewarnai anak,Rp 120.000,3,BUKU,18/08/2025
+PROD-0145,Buku Mewarnai anak,15000,-5,buku,02/01/2026
+PROD-0146,Buku Mewarnai anak,45,41,BUKU,1764558000
+PROD-0147,LAPTOP gaming i7,"Rp120000,-",12,ELEKTRONIK,23/10/2025
+PROD-0148,POWERBANK 10000mah,45000,null,elektronik murah,2025-11-01 17:00:00
+PROD-0149,KAMUS BAHASA INGGRIS,120000,kosong,BUKU,1761184800
+PROD-0150,NOVEL FIKSI TERJEMAHAN,15,kosong,BUKU,26/08/2025
+PROD-0151,mouse WIRELESS,,12,elektronik murah,1773356400
+PROD-0152,POWERBANK 10000mah,45rb,null,elektronik murah,"Apr 21, 2025"
+PROD-0153,NOVEL FIKSI TERJEMAHAN,15000,kosong,BUKU,"Mar 30, 2025"
+PROD-0154,POWERBANK 10000mah,45,38,elektronik murah,2025-10-30 9:00:00
+PROD-0155,mouse WIRELESS,Rp 120.000,12,elektronik,2025-02-15 17:00:00
+PROD-0156,KAMUS BAHASA INGGRIS,Rp 15.000,100,buku bacaan,04/05/2025
+PROD-0157,BaJu Bayi,"Rp15000,-",kosong,pakaian,14/07/2025
+PROD-0158,hP android murah,Rp 15.000,kosong,ELEKTRONIK,"Sep 10, 2025"
+PROD-0159,NOVEL FIKSI TERJEMAHAN,,kosong,buku,"Jan 28, 2025"
+PROD-0160,KAMUS BAHASA INGGRIS,15000,12,buku bacaan,2025-10-07 9:00:00
+PROD-0161,mouse WIRELESS,15000,-5,elektronik murah,1757476800
+PROD-0162,buku pemrograman python,"Rp15000,-",35,buku bacaan,1765789200
+PROD-0163,baju anak laki-laki,Rp 120.000,-5,clothes,25/01/2026
+PROD-0164,KEMEJA FLANEL Keren,$8.00,12,PAKAIAN,"Aug 26, 2025"
+PROD-0165,KAMUS BAHASA INGGRIS,null,null,buku bacaan,2025-04-07 10:00:00
+PROD-0166,hP android murah,Rp 15.000,-5,elektronik murah,12/04/2025
+PROD-0167,mouse WIRELESS,120rb,null,elektronik,2025-02-25 1:00:00
+PROD-0168,hP android murah,Rp 15.000,-5,elektronik murah,2025-02-11 21:00:00
+PROD-0169,mouse WIRELESS,120000,kosong,ELEKTRONIK,16/10/2025
+PROD-0170,BaJu Bayi,120,74,pakian,2025-09-24 3:00:00
+PROD-0171,hP android murah,120,kosong,elektronik,2025-02-19 16:00:00
+PROD-0172,komik jepang lama,$8.00,79,buku bacaan,"May 17, 2025"
+PROD-0173,komik jepang lama,null,null,BUKU,"Apr 12, 2025"
+PROD-0174,KEMEJA FLANEL Keren,45,null,pakian,13/01/2026
+PROD-0175,Buku Mewarnai anak,15,-5,buku bacaan,1749841200
+PROD-0176,KEMEJA FLANEL Keren,"Rp120000,-",-5,clothes,25/03/2026
+PROD-0177,BaJu Bayi,Rp 15.000,kosong,pakian,13/09/2025
+PROD-0178,buku pemrograman python,Rp 45.000,12,buku,"Jan 28, 2025"
+PROD-0179,Buku Mewarnai anak,$8.00,kosong,buku,2025-02-10 13:00:00
+PROD-0180,kaos polos combed,45,12,PAKAIAN,1760774400
+PROD-0181,hP android murah,45,-5,elektronik,"Sep 08, 2025"
+PROD-0182,komik jepang lama,45rb,null,buku,2025-04-07 12:00:00
+PROD-0183,charger Type-C fast,"Rp120000,-",kosong,ELEKTRONIK,"May 07, 2025"
+PROD-0184,LAPTOP gaming i7,$8.00,kosong,elektronik,"Feb 13, 2025"
+PROD-0185,LAPTOP gaming i7,"Rp45000,-",null,elektronik,2025-09-15 6:00:00
+PROD-0186,buku pemrograman python,Rp 45.000,null,BUKU,"Jul 27, 2025"
+PROD-0187,NOVEL FIKSI TERJEMAHAN,15rb,null,BUKU,1755741600
+PROD-0188,baju anak laki-laki,45000,49,pakian,1769925600
+PROD-0189,NOVEL FIKSI TERJEMAHAN,,null,buku bacaan,05/04/2025
+PROD-0190,LAPTOP gaming i7,Rp 15.000,16,elektronik,1757656800
+PROD-0191,charger Type-C fast,15000,null,elektronik murah,"Oct 01, 2025"
+PROD-0192,baju anak laki-laki,Rp 15.000,null,pakian,"Mar 11, 2026"
+PROD-0193,baju anak laki-laki,Rp 15.000,15,pakaian,2025-09-30 1:00:00
+PROD-0194,NOVEL FIKSI TERJEMAHAN,120,-5,BUKU,1753549200
+PROD-0195,Buku Mewarnai anak,Rp 120.000,kosong,buku bacaan,1767657600
+PROD-0196,buku pemrograman python,120000,-5,buku bacaan,1752465600
+PROD-0197,charger Type-C fast,15000,kosong,elektronik murah,"Feb 12, 2025"
+PROD-0198,hP android murah,120rb,-5,ELEKTRONIK,1773255600
+PROD-0199,LAPTOP gaming i7,45rb,null,elektronik,2026-01-22 12:00:00
+PROD-0200,buku pemrograman python,null,null,buku bacaan,"Apr 10, 2025"
+PROD-0201,POWERBANK 10000mah,15,12,ELEKTRONIK,1755079200
+PROD-0202,hP android murah,Rp 15.000,29,elektronik murah,2025-09-23 18:00:00
+PROD-0203,komik jepang lama,"Rp45000,-",kosong,buku bacaan,"Jan 27, 2025"
+PROD-0204,komik jepang lama,120,kosong,BUKU,1737928800
+PROD-0205,KAMUS BAHASA INGGRIS,$8.00,-5,BUKU,"Nov 27, 2025"
+PROD-0206,KEMEJA FLANEL Keren,Rp 120.000,13,pakaian,2025-07-11 4:00:00
+PROD-0207,NOVEL FIKSI TERJEMAHAN,$8.00,11,buku bacaan,1754553600
+PROD-0208,charger Type-C fast,15000,null,elektronik murah,1765846800
+PROD-0209,buku pemrograman python,,12,BUKU,19/08/2025
+PROD-0210,KEMEJA FLANEL Keren,Rp 45.000,-5,pakaian,27/06/2025
+PROD-0211,BaJu Bayi,120,-5,pakian,"Dec 08, 2025"
+PROD-0212,kaos polos combed,120000,36,pakian,"May 04, 2025"
+PROD-0213,buku pemrograman python,Rp 45.000,kosong,BUKU,24/01/2025
+PROD-0214,komik jepang lama,15000,12,BUKU,09/02/2025
+PROD-0215,kaos polos combed,,-5,PAKAIAN,1761213600
+PROD-0216,baju anak laki-laki,15000,kosong,pakaian,1755414000
+PROD-0217,hP android murah,Rp 45.000,23,ELEKTRONIK,19/10/2025
+PROD-0218,POWERBANK 10000mah,null,12,elektronik,"Nov 27, 2025"
+PROD-0219,BAJU  ANAK PEREMPUAN,15,null,PAKAIAN,1744689600
+PROD-0220,kaos polos combed,$1.00,null,pakian,1744837200
+PROD-0221,POWERBANK 10000mah,Rp 45.000,null,elektronik murah,2025-06-01 11:00:00
+PROD-0222,baju anak laki-laki,$3.00,null,pakaian,"Jun 08, 2025"
+PROD-0223,kaos polos combed,"Rp45000,-",kosong,pakaian,"Jun 04, 2025"
+PROD-0224,BaJu Bayi,45,23,clothes,1749866400
+PROD-0225,KAMUS BAHASA INGGRIS,$8.00,-5,buku bacaan,17/02/2025
+PROD-0226,komik jepang lama,45,null,BUKU,31/08/2025
+PROD-0227,baju anak laki-laki,"Rp120000,-",12,pakaian,1736589600
+PROD-0228,komik jepang lama,15rb,null,buku bacaan,"Dec 26, 2025"
+PROD-0229,charger Type-C fast,Rp 120.000,kosong,elektronik,02/10/2025
+PROD-0230,mouse WIRELESS,null,kosong,elektronik murah,10/04/2025
+PROD-0231,buku pemrograman python,45000,-5,buku,2025-11-11 2:00:00
+PROD-0232,buku pemrograman python,120,12,buku,2025-12-20 5:00:00
+PROD-0233,BAJU  ANAK PEREMPUAN,null,12,pakian,1770944400
+PROD-0234,charger Type-C fast,Rp 45.000,null,ELEKTRONIK,2025-12-18 17:00:00
+PROD-0235,BaJu Bayi,15,26,clothes,1743444000
+PROD-0236,hP android murah,45,-5,ELEKTRONIK,19/01/2025
+PROD-0237,NOVEL FIKSI TERJEMAHAN,,-5,buku bacaan,2026-02-13 0:00:00
+PROD-0238,KAMUS BAHASA INGGRIS,15000,kosong,buku,1764950400
+PROD-0239,LAPTOP gaming i7,Rp 15.000,null,elektronik,16/03/2025
+PROD-0240,baju anak laki-laki,120rb,null,PAKAIAN,2025-12-23 9:00:00
+PROD-0241,BAJU  ANAK PEREMPUAN,120rb,12,pakaian,1754935200
+PROD-0242,hP android murah,120,-5,elektronik,2025-06-19 22:00:00
+PROD-0243,BaJu Bayi,15rb,kosong,PAKAIAN,1772442000
+PROD-0244,KEMEJA FLANEL Keren,Rp 15.000,null,pakian,"Jan 23, 2025"
+PROD-0245,hP android murah,Rp 120.000,-5,ELEKTRONIK,1760947200
+PROD-0246,mouse WIRELESS,15,71,elektronik murah,07/10/2025
+PROD-0247,baju anak laki-laki,"Rp15000,-",27,pakaian,1741791600
+PROD-0248,LAPTOP gaming i7,"Rp15000,-",kosong,ELEKTRONIK,21/04/2025
+PROD-0249,kaos polos combed,120rb,kosong,pakian,2025-12-09 17:00:00
+PROD-0250,BAJU  ANAK PEREMPUAN,Rp 120.000,12,pakian,01/03/2025
+PROD-0251,KEMEJA FLANEL Keren,Rp 45.000,kosong,pakian,22/09/2025
+PROD-0252,buku pemrograman python,$1.00,null,buku bacaan,1740164400
+PROD-0253,KEMEJA FLANEL Keren,15rb,-5,PAKAIAN,"Jul 19, 2025"
+PROD-0254,baju anak laki-laki,Rp 15.000,57,pakaian,2025-07-12 21:00:00
+PROD-0255,charger Type-C fast,"Rp120000,-",null,elektronik murah,2025-03-02 9:00:00
+PROD-0256,komik jepang lama,120000,-5,BUKU,1766358000
+PROD-0257,BaJu Bayi,45rb,20,pakian,2025-12-02 5:00:00
+PROD-0258,buku pemrograman python,15rb,45,buku,1738252800
+PROD-0259,KEMEJA FLANEL Keren,120,null,clothes,19/12/2025
+PROD-0260,charger Type-C fast,Rp 120.000,66,ELEKTRONIK,21/04/2025
+PROD-0261,KAMUS BAHASA INGGRIS,$3.00,kosong,buku,1746853200
+PROD-0262,buku pemrograman python,120000,70,buku,2025-06-19 17:00:00
+PROD-0263,kaos polos combed,120000,12,pakaian,1758711600
+PROD-0264,hP android murah,$8.00,null,ELEKTRONIK,1767391200
+PROD-0265,hP android murah,$1.00,12,elektronik murah,27/06/2025
+PROD-0266,KAMUS BAHASA INGGRIS,15000,kosong,BUKU,1744200000
+PROD-0267,komik jepang lama,15,67,buku,"Sep 15, 2025"
+PROD-0268,POWERBANK 10000mah,$3.00,73,elektronik murah,1748034000
+PROD-0269,POWERBANK 10000mah,"Rp120000,-",12,ELEKTRONIK,"Sep 05, 2025"
+PROD-0270,NOVEL FIKSI TERJEMAHAN,Rp 45.000,12,buku bacaan,2025-05-29 9:00:00
+PROD-0271,hP android murah,45,null,elektronik,2026-01-25 1:00:00
+PROD-0272,baju anak laki-laki,120,81,clothes,"Oct 15, 2025"
+PROD-0273,KEMEJA FLANEL Keren,45rb,kosong,PAKAIAN,2025-06-12 22:00:00
+PROD-0274,mouse WIRELESS,"Rp120000,-",null,ELEKTRONIK,"Feb 02, 2026"
+PROD-0275,buku pemrograman python,Rp 15.000,96,BUKU,15/07/2025
+PROD-0276,komik jepang lama,120,42,buku bacaan,1754697600
+PROD-0277,baju anak laki-laki,45,77,pakian,"Dec 19, 2025"
+PROD-0278,buku pemrograman python,Rp 120.000,null,BUKU,1761015600
+PROD-0279,kaos polos combed,15000,null,PAKAIAN,2025-05-24 17:00:00
+PROD-0280,KAMUS BAHASA INGGRIS,120rb,kosong,BUKU,"May 24, 2025"
+PROD-0281,KAMUS BAHASA INGGRIS,45000,12,buku bacaan,2026-01-10 8:00:00
+PROD-0282,baju anak laki-laki,Rp 15.000,kosong,pakaian,1766541600
+PROD-0283,NOVEL FIKSI TERJEMAHAN,15,12,BUKU,2025-07-01 12:00:00
+PROD-0284,kaos polos combed,$1.00,null,PAKAIAN,15/01/2026
+PROD-0285,KEMEJA FLANEL Keren,$1.00,68,pakian,12/02/2025
+PROD-0286,kaos polos combed,$3.00,12,pakian,12/11/2025
+PROD-0287,mouse WIRELESS,"Rp45000,-",12,ELEKTRONIK,"Feb 01, 2025"
+PROD-0288,Buku Mewarnai anak,$3.00,84,buku bacaan,1748066400
+PROD-0289,KEMEJA FLANEL Keren,"Rp15000,-",-5,clothes,2025-01-14 2:00:00
+PROD-0290,Buku Mewarnai anak,$3.00,kosong,buku bacaan,2025-09-05 3:00:00
+PROD-0291,mouse WIRELESS,120rb,-5,elektronik murah,27/04/2025
+PROD-0292,LAPTOP gaming i7,"Rp15000,-",12,ELEKTRONIK,"May 08, 2025"
+PROD-0293,hP android murah,$8.00,-5,elektronik,"Jun 10, 2025"
+PROD-0294,KAMUS BAHASA INGGRIS,"Rp120000,-",null,buku,"Dec 24, 2025"
+PROD-0295,KEMEJA FLANEL Keren,Rp 45.000,-5,PAKAIAN,"Mar 03, 2026"
+PROD-0296,KAMUS BAHASA INGGRIS,45000,null,buku bacaan,2025-12-13 18:00:00
+PROD-0297,kaos polos combed,120000,null,PAKAIAN,30/05/2025
+PROD-0298,KAMUS BAHASA INGGRIS,"Rp15000,-",12,buku,05/05/2025
+PROD-0299,BAJU  ANAK PEREMPUAN,Rp 120.000,-5,clothes,15/08/2025
+PROD-0300,charger Type-C fast,,null,elektronik,2025-08-04 11:00:00
+PROD-0301,BaJu Bayi,15,kosong,pakaian,1740031200
+PROD-0302,BAJU  ANAK PEREMPUAN,$8.00,kosong,pakaian,"Feb 14, 2025"
+PROD-0303,POWERBANK 10000mah,null,kosong,ELEKTRONIK,1751148000
+PROD-0304,BaJu Bayi,15000,12,pakian,28/09/2025
+PROD-0305,NOVEL FIKSI TERJEMAHAN,$8.00,-5,buku,30/09/2025
+PROD-0306,BAJU  ANAK PEREMPUAN,45000,12,pakian,1735977600
+PROD-0307,KEMEJA FLANEL Keren,45rb,37,PAKAIAN,"Apr 13, 2025"
+PROD-0308,komik jepang lama,null,12,buku,"Sep 23, 2025"
+PROD-0309,KAMUS BAHASA INGGRIS,"Rp15000,-",-5,BUKU,30/12/2025
+PROD-0310,komik jepang lama,45rb,36,BUKU,"Feb 21, 2025"
+PROD-0311,Buku Mewarnai anak,15rb,12,buku bacaan,2026-02-27 9:00:00
+PROD-0312,LAPTOP gaming i7,,12,elektronik,"Aug 20, 2025"
+PROD-0313,KAMUS BAHASA INGGRIS,120rb,-5,buku,"Dec 07, 2025"
+PROD-0314,baju anak laki-laki,"Rp45000,-",44,PAKAIAN,"Jan 22, 2026"
+PROD-0315,baju anak laki-laki,"Rp15000,-",-5,clothes,"May 24, 2025"
+PROD-0316,charger Type-C fast,15,null,elektronik,"Feb 10, 2025"
+PROD-0317,BAJU  ANAK PEREMPUAN,Rp 120.000,kosong,pakaian,2025-04-15 12:00:00
+PROD-0318,hP android murah,120rb,-5,ELEKTRONIK,1742407200
+PROD-0319,BAJU  ANAK PEREMPUAN,null,null,pakaian,2025-11-23 2:00:00
+PROD-0320,NOVEL FIKSI TERJEMAHAN,,8,BUKU,"Feb 09, 2025"
+PROD-0321,kaos polos combed,120,91,pakaian,"Jun 02, 2025"
+PROD-0322,baju anak laki-laki,Rp 120.000,-5,pakian,26/09/2025
+PROD-0323,NOVEL FIKSI TERJEMAHAN,null,12,buku bacaan,2025-05-20 0:00:00
+PROD-0324,kaos polos combed,45,null,pakian,18/10/2025
+PROD-0325,baju anak laki-laki,45000,kosong,pakaian,"May 09, 2025"
+PROD-0326,Buku Mewarnai anak,15,-5,buku bacaan,1739242800
+PROD-0327,kaos polos combed,120,82,clothes,2025-11-02 18:00:00
+PROD-0328,POWERBANK 10000mah,45,12,ELEKTRONIK,2026-01-09 16:00:00
+PROD-0329,LAPTOP gaming i7,15,-5,elektronik,08/11/2025
+PROD-0330,hP android murah,"Rp15000,-",kosong,ELEKTRONIK,1746824400
+PROD-0331,BaJu Bayi,$1.00,-5,pakaian,21/01/2026
+PROD-0332,BaJu Bayi,45000,-5,PAKAIAN,2026-01-01 7:00:00
+PROD-0333,mouse WIRELESS,Rp 15.000,12,elektronik murah,2025-02-26 0:00:00
+PROD-0334,mouse WIRELESS,"Rp120000,-",-5,elektronik murah,2025-10-14 8:00:00
+PROD-0335,komik jepang lama,120rb,-5,buku,2025-06-07 3:00:00
+PROD-0336,kaos polos combed,45rb,58,pakian,1737752400
+PROD-0337,buku pemrograman python,"Rp120000,-",12,buku bacaan,18/03/2025
+PROD-0338,POWERBANK 10000mah,$8.00,12,elektronik,1771635600
+PROD-0339,mouse WIRELESS,Rp 120.000,73,elektronik,"Jul 11, 2025"
+PROD-0340,BAJU  ANAK PEREMPUAN,Rp 15.000,12,clothes,2026-01-09 5:00:00
+PROD-0341,BaJu Bayi,$3.00,kosong,PAKAIAN,"Jul 01, 2025"
+PROD-0342,NOVEL FIKSI TERJEMAHAN,$1.00,4,buku,2025-01-11 8:00:00
+PROD-0343,KAMUS BAHASA INGGRIS,$8.00,12,BUKU,1745082000
+PROD-0344,buku pemrograman python,Rp 45.000,31,buku bacaan,2025-07-31 1:00:00
+PROD-0345,charger Type-C fast,120000,81,ELEKTRONIK,10/08/2025
+PROD-0346,komik jepang lama,$3.00,12,buku bacaan,2026-03-26 12:00:00
+PROD-0347,NOVEL FIKSI TERJEMAHAN,120,kosong,BUKU,2025-11-12 0:00:00
+PROD-0348,KAMUS BAHASA INGGRIS,45000,null,BUKU,2026-01-09 6:00:00
+PROD-0349,hP android murah,"Rp45000,-",null,elektronik,1760184000
+PROD-0350,BaJu Bayi,45rb,89,PAKAIAN,18/05/2025
+PROD-0351,mouse WIRELESS,120000,null,elektronik murah,1767052800
+PROD-0352,buku pemrograman python,120000,kosong,BUKU,"Mar 23, 2026"
+PROD-0353,POWERBANK 10000mah,$1.00,kosong,elektronik,"Jan 23, 2026"
+PROD-0354,NOVEL FIKSI TERJEMAHAN,"Rp120000,-",12,buku bacaan,"Feb 06, 2026"
+PROD-0355,komik jepang lama,45000,kosong,buku bacaan,"Apr 20, 2025"
+PROD-0356,komik jepang lama,45,-5,BUKU,1760547600
+PROD-0357,LAPTOP gaming i7,120rb,12,ELEKTRONIK,"Apr 21, 2025"
+PROD-0358,mouse WIRELESS,15,null,elektronik,28/02/2025
+PROD-0359,POWERBANK 10000mah,45,12,ELEKTRONIK,2025-03-04 7:00:00
+PROD-0360,KEMEJA FLANEL Keren,$3.00,null,pakaian,2025-06-11 19:00:00
+PROD-0361,Buku Mewarnai anak,15000,82,buku bacaan,21/03/2025
+PROD-0362,KAMUS BAHASA INGGRIS,"Rp15000,-",85,buku,"Jun 03, 2025"
+PROD-0363,hP android murah,"Rp120000,-",-5,ELEKTRONIK,"Jun 23, 2025"
+PROD-0364,hP android murah,"Rp120000,-",-5,elektronik,1758142800
+PROD-0365,POWERBANK 10000mah,Rp 15.000,12,elektronik,23/01/2026
+PROD-0366,mouse WIRELESS,null,-5,elektronik,"Mar 23, 2025"
+PROD-0367,LAPTOP gaming i7,15rb,null,elektronik,1739595600
+PROD-0368,komik jepang lama,$3.00,-5,BUKU,2025-01-06 8:00:00
+PROD-0369,BaJu Bayi,Rp 120.000,-5,clothes,08/09/2025
+PROD-0370,hP android murah,$3.00,kosong,ELEKTRONIK,05/09/2025
+PROD-0371,baju anak laki-laki,15rb,null,PAKAIAN,2025-03-23 14:00:00
+PROD-0372,charger Type-C fast,Rp 15.000,kosong,elektronik,2025-01-25 9:00:00
+PROD-0373,BaJu Bayi,15rb,-5,clothes,1746676800
+PROD-0374,hP android murah,"Rp120000,-",null,ELEKTRONIK,2025-10-15 21:00:00
+PROD-0375,LAPTOP gaming i7,45,12,elektronik,2025-04-25 3:00:00
+PROD-0376,BAJU  ANAK PEREMPUAN,"Rp120000,-",12,clothes,1766768400
+PROD-0377,hP android murah,120,kosong,elektronik murah,1749945600
+PROD-0378,buku pemrograman python,120000,-5,buku bacaan,"Sep 29, 2025"
+PROD-0379,mouse WIRELESS,$1.00,null,ELEKTRONIK,2025-07-06 23:00:00
+PROD-0380,BaJu Bayi,Rp 45.000,kosong,pakian,"Nov 02, 2025"
+PROD-0381,mouse WIRELESS,15000,null,elektronik murah,"Aug 12, 2025"
+PROD-0382,buku pemrograman python,"Rp45000,-",-5,BUKU,2025-06-13 7:00:00
+PROD-0383,Buku Mewarnai anak,"Rp15000,-",null,buku,"May 29, 2025"
+PROD-0384,LAPTOP gaming i7,,37,elektronik murah,25/07/2025
+PROD-0385,Buku Mewarnai anak,$3.00,-5,buku bacaan,2025-03-13 2:00:00
+PROD-0386,kaos polos combed,45rb,54,pakaian,"Jul 10, 2025"
+PROD-0387,hP android murah,"Rp120000,-",4,elektronik murah,"Oct 07, 2025"
+PROD-0388,POWERBANK 10000mah,null,-5,elektronik murah,1761544800
+PROD-0389,BaJu Bayi,120rb,12,clothes,18/06/2025
+PROD-0390,KAMUS BAHASA INGGRIS,45rb,-5,buku,2026-03-13 7:00:00
+PROD-0391,KEMEJA FLANEL Keren,120000,null,PAKAIAN,2025-12-10 13:00:00
+PROD-0392,KEMEJA FLANEL Keren,120000,6,pakaian,"Dec 17, 2025"
+PROD-0393,baju anak laki-laki,120,12,PAKAIAN,02/01/2026
+PROD-0394,KEMEJA FLANEL Keren,15000,12,PAKAIAN,27/08/2025
+PROD-0395,kaos polos combed,45,null,clothes,2025-03-19 21:00:00
+PROD-0396,POWERBANK 10000mah,null,12,elektronik murah,2025-02-27 13:00:00
+PROD-0397,BAJU  ANAK PEREMPUAN,$1.00,12,clothes,2025-06-20 13:00:00
+PROD-0398,komik jepang lama,null,kosong,buku,07/02/2025
+PROD-0399,KEMEJA FLANEL Keren,45000,12,pakian,03/10/2025
+PROD-0400,charger Type-C fast,120000,-5,ELEKTRONIK,1762059600
+PROD-0401,baju anak laki-laki,45000,8,pakian,21/07/2025
+PROD-0402,BaJu Bayi,45000,12,pakaian,05/03/2025
+PROD-0403,NOVEL FIKSI TERJEMAHAN,null,null,BUKU,2026-01-28 17:00:00
+PROD-0404,komik jepang lama,"Rp45000,-",-5,BUKU,10/10/2025
+PROD-0405,hP android murah,15000,35,ELEKTRONIK,02/12/2025
+PROD-0406,BaJu Bayi,null,kosong,PAKAIAN,19/09/2025
+PROD-0407,hP android murah,15rb,null,elektronik murah,30/03/2025
+PROD-0408,NOVEL FIKSI TERJEMAHAN,Rp 15.000,-5,buku,"Jan 29, 2026"
+PROD-0409,komik jepang lama,15rb,null,buku bacaan,15/11/2025
+PROD-0410,LAPTOP gaming i7,120rb,12,ELEKTRONIK,"Feb 11, 2025"
+PROD-0411,kaos polos combed,120,12,clothes,1773244800
+PROD-0412,charger Type-C fast,"Rp120000,-",-5,elektronik,31/12/2025
+PROD-0413,BAJU  ANAK PEREMPUAN,Rp 45.000,-5,pakaian,19/06/2025
+PROD-0414,KEMEJA FLANEL Keren,,-5,pakian,2025-06-20 7:00:00
+PROD-0415,BaJu Bayi,15rb,12,PAKAIAN,1765782000
+PROD-0416,charger Type-C fast,"Rp45000,-",27,ELEKTRONIK,"Jan 27, 2026"
+PROD-0417,KAMUS BAHASA INGGRIS,Rp 15.000,null,BUKU,28/03/2025
+PROD-0418,Buku Mewarnai anak,15000,61,BUKU,2026-01-08 20:00:00
+PROD-0419,baju anak laki-laki,45000,kosong,PAKAIAN,2025-08-07 10:00:00
+PROD-0420,charger Type-C fast,Rp 45.000,51,elektronik,"Jun 03, 2025"
+PROD-0421,KEMEJA FLANEL Keren,"Rp15000,-",kosong,pakian,"Mar 04, 2026"
+PROD-0422,charger Type-C fast,15000,-5,elektronik murah,1755140400
+PROD-0423,BaJu Bayi,Rp 45.000,12,pakian,"Oct 01, 2025"
+PROD-0424,KAMUS BAHASA INGGRIS,15000,null,buku bacaan,"Feb 17, 2026"
+PROD-0425,kaos polos combed,120,12,clothes,"May 18, 2025"
+PROD-0426,KAMUS BAHASA INGGRIS,$8.00,12,buku,2025-08-09 5:00:00
+PROD-0427,baju anak laki-laki,15,-5,PAKAIAN,2025-01-30 16:00:00
+PROD-0428,KEMEJA FLANEL Keren,"Rp120000,-",12,pakaian,17/02/2025
+PROD-0429,Buku Mewarnai anak,45,null,buku,1743505200
+PROD-0430,Buku Mewarnai anak,Rp 45.000,null,buku bacaan,1764892800
+PROD-0431,buku pemrograman python,120rb,95,BUKU,20/02/2025
+PROD-0432,komik jepang lama,$8.00,12,buku,1768251600
+PROD-0433,buku pemrograman python,120rb,null,BUKU,1769317200
+PROD-0434,LAPTOP gaming i7,120,kosong,ELEKTRONIK,"Feb 16, 2026"
+PROD-0435,LAPTOP gaming i7,15rb,-5,ELEKTRONIK,1765576800
+PROD-0436,BAJU  ANAK PEREMPUAN,"Rp45000,-",null,clothes,1745298000
+PROD-0437,hP android murah,$8.00,kosong,elektronik,"Jun 25, 2025"
+PROD-0438,komik jepang lama,$8.00,kosong,buku bacaan,1758679200
+PROD-0439,KEMEJA FLANEL Keren,120000,67,pakaian,2026-02-27 22:00:00
+PROD-0440,POWERBANK 10000mah,$8.00,null,ELEKTRONIK,2025-02-20 14:00:00
+PROD-0441,kaos polos combed,45rb,kosong,pakaian,"Apr 01, 2025"
+PROD-0442,LAPTOP gaming i7,15000,null,elektronik,27/07/2025
+PROD-0443,Buku Mewarnai anak,"Rp45000,-",74,BUKU,27/06/2025
+PROD-0444,KAMUS BAHASA INGGRIS,15000,null,buku bacaan,1741500000
+PROD-0445,LAPTOP gaming i7,"Rp15000,-",62,elektronik murah,23/10/2025
+PROD-0446,Buku Mewarnai anak,"Rp45000,-",null,BUKU,1738285200
+PROD-0447,BaJu Bayi,120,null,pakaian,1766307600
+PROD-0448,mouse WIRELESS,Rp 120.000,12,elektronik murah,1748149200
+PROD-0449,BAJU  ANAK PEREMPUAN,120,2,clothes,2025-04-16 14:00:00
+PROD-0450,BAJU  ANAK PEREMPUAN,Rp 45.000,-5,pakian,1769706000
+PROD-0451,komik jepang lama,45rb,kosong,buku bacaan,"Apr 04, 2025"
+PROD-0452,mouse WIRELESS,120rb,12,elektronik murah,"Feb 27, 2025"
+PROD-0453,BAJU  ANAK PEREMPUAN,"Rp120000,-",12,PAKAIAN,2025-01-22 16:00:00
+PROD-0454,BAJU  ANAK PEREMPUAN,15000,70,pakian,1738933200
+PROD-0455,kaos polos combed,$8.00,98,clothes,1740567600
+PROD-0456,BAJU  ANAK PEREMPUAN,Rp 120.000,12,PAKAIAN,2026-03-10 21:00:00
+PROD-0457,KEMEJA FLANEL Keren,"Rp120000,-",kosong,pakian,24/02/2025
+PROD-0458,BaJu Bayi,,null,pakian,2025-09-09 8:00:00
+PROD-0459,buku pemrograman python,$1.00,kosong,buku,1759489200
+PROD-0460,BaJu Bayi,Rp 45.000,-5,pakian,2025-04-04 6:00:00
+PROD-0461,BaJu Bayi,null,null,clothes,15/12/2025
+PROD-0462,kaos polos combed,120000,null,PAKAIAN,"Apr 19, 2025"
+PROD-0463,charger Type-C fast,Rp 15.000,kosong,elektronik,2025-06-01 15:00:00
+PROD-0464,BAJU  ANAK PEREMPUAN,"Rp15000,-",12,clothes,2025-11-30 4:00:00
+PROD-0465,BAJU  ANAK PEREMPUAN,"Rp45000,-",-5,clothes,1759046400
+PROD-0466,KEMEJA FLANEL Keren,,-5,pakaian,2025-09-03 8:00:00
+PROD-0467,KEMEJA FLANEL Keren,120,12,pakaian,20/03/2025
+PROD-0468,POWERBANK 10000mah,$1.00,-5,elektronik,"Mar 03, 2026"
+PROD-0469,BAJU  ANAK PEREMPUAN,$8.00,20,clothes,22/11/2025
+PROD-0470,hP android murah,Rp 15.000,12,ELEKTRONIK,1741986000
+PROD-0471,charger Type-C fast,"Rp120000,-",-5,elektronik,"Sep 09, 2025"
+PROD-0472,Buku Mewarnai anak,Rp 120.000,12,buku bacaan,09/07/2025
+PROD-0473,LAPTOP gaming i7,Rp 120.000,80,elektronik,02/12/2025
+PROD-0474,charger Type-C fast,45,null,elektronik,03/08/2025
+PROD-0475,buku pemrograman python,Rp 120.000,null,buku bacaan,02/01/2026
+PROD-0476,LAPTOP gaming i7,15,94,elektronik,2025-12-31 1:00:00
+PROD-0477,Buku Mewarnai anak,45rb,16,buku bacaan,1752775200
+PROD-0478,charger Type-C fast,45rb,12,ELEKTRONIK,01/04/2025
+PROD-0479,buku pemrograman python,45000,-5,buku,2025-03-28 14:00:00
+PROD-0480,NOVEL FIKSI TERJEMAHAN,Rp 120.000,kosong,buku bacaan,"Jan 01, 2025"
+PROD-0481,KEMEJA FLANEL Keren,$8.00,12,clothes,30/11/2025
+PROD-0482,POWERBANK 10000mah,null,12,elektronik murah,1770552000
+PROD-0483,kaos polos combed,120,null,clothes,1765364400
+PROD-0484,kaos polos combed,15,12,PAKAIAN,1771430400
+PROD-0485,hP android murah,15000,12,ELEKTRONIK,2025-10-04 20:00:00
+PROD-0486,komik jepang lama,"Rp45000,-",22,buku bacaan,"Mar 07, 2025"
+PROD-0487,POWERBANK 10000mah,45rb,59,elektronik,2025-07-22 3:00:00
+PROD-0488,KEMEJA FLANEL Keren,15rb,kosong,pakaian,"Feb 04, 2025"
+PROD-0489,mouse WIRELESS,"Rp45000,-",47,elektronik,1758103200
+PROD-0490,Buku Mewarnai anak,15000,-5,BUKU,"Jul 22, 2025"
+PROD-0491,KAMUS BAHASA INGGRIS,$3.00,12,buku bacaan,2025-03-16 16:00:00
+PROD-0492,KEMEJA FLANEL Keren,45,kosong,PAKAIAN,25/07/2025
+PROD-0493,Buku Mewarnai anak,"Rp45000,-",-5,buku,"Jan 30, 2025"
+PROD-0494,mouse WIRELESS,,58,elektronik murah,2025-02-10 15:00:00
+PROD-0495,komik jepang lama,120rb,kosong,BUKU,1762506000
+PROD-0496,KEMEJA FLANEL Keren,"Rp45000,-",kosong,pakaian,1759608000
+PROD-0497,charger Type-C fast,null,44,elektronik,1760360400
+PROD-0498,BaJu Bayi,,96,PAKAIAN,"Jun 30, 2025"
+PROD-0499,komik jepang lama,$3.00,95,buku bacaan,"Jan 24, 2026"
+PROD-0500,KEMEJA FLANEL Keren,,95,pakaian,03/08/2025
+PROD-0501,charger Type-C fast,"Rp45000,-",12,elektronik murah,14/12/2025
+PROD-0502,KEMEJA FLANEL Keren,15,-5,pakian,"Mar 02, 2025"
+PROD-0503,hP android murah,45rb,kosong,elektronik murah,1754895600
+PROD-0504,BAJU  ANAK PEREMPUAN,Rp 45.000,12,clothes,03/02/2025
+PROD-0505,Buku Mewarnai anak,,kosong,buku bacaan,2026-01-18 14:00:00
+PROD-0506,Buku Mewarnai anak,45,12,buku bacaan,"Mar 01, 2025"
+PROD-0507,mouse WIRELESS,Rp 120.000,kosong,ELEKTRONIK,1771585200
+PROD-0508,charger Type-C fast,120rb,kosong,elektronik murah,1740085200
+PROD-0509,charger Type-C fast,"Rp15000,-",90,elektronik,"Feb 21, 2025"
+PROD-0510,baju anak laki-laki,120000,12,pakian,1751569200
+PROD-0511,kaos polos combed,15,12,pakaian,1746993600
+PROD-0512,kaos polos combed,,93,PAKAIAN,25/01/2025
+PROD-0513,buku pemrograman python,Rp 15.000,null,buku bacaan,1773633600
+PROD-0514,kaos polos combed,120,kosong,pakian,16/08/2025
+PROD-0515,buku pemrograman python,45,-5,buku bacaan,"Aug 08, 2025"
+PROD-0516,BaJu Bayi,"Rp15000,-",kosong,pakian,2026-02-19 7:00:00
+PROD-0517,KAMUS BAHASA INGGRIS,Rp 120.000,null,BUKU,2025-08-02 18:00:00
+PROD-0518,kaos polos combed,Rp 120.000,-5,clothes,1756270800
+PROD-0519,buku pemrograman python,"Rp15000,-",kosong,buku bacaan,1773518400
+PROD-0520,LAPTOP gaming i7,45,-5,elektronik,1766253600
+PROD-0521,Buku Mewarnai anak,null,-5,BUKU,05/02/2026
+PROD-0522,buku pemrograman python,,25,buku bacaan,"Jun 01, 2025"
+PROD-0523,charger Type-C fast,15,null,elektronik,2025-12-16 10:00:00
+PROD-0524,LAPTOP gaming i7,Rp 120.000,kosong,ELEKTRONIK,2025-10-19 0:00:00
+PROD-0525,BaJu Bayi,Rp 15.000,16,pakaian,1768078800
+PROD-0526,charger Type-C fast,null,kosong,elektronik,"Feb 16, 2026"
+PROD-0527,KAMUS BAHASA INGGRIS,"Rp120000,-",null,buku bacaan,"Feb 04, 2026"
+PROD-0528,buku pemrograman python,120,12,buku,2025-09-04 12:00:00
+PROD-0529,KEMEJA FLANEL Keren,"Rp45000,-",12,PAKAIAN,2026-03-18 18:00:00
+PROD-0530,BaJu Bayi,$3.00,null,pakaian,1758430800
+PROD-0531,baju anak laki-laki,Rp 15.000,kosong,PAKAIAN,25/07/2025
+PROD-0532,charger Type-C fast,"Rp15000,-",6,ELEKTRONIK,10/05/2025
+PROD-0533,POWERBANK 10000mah,Rp 120.000,kosong,ELEKTRONIK,2025-06-07 21:00:00
+PROD-0534,KEMEJA FLANEL Keren,"Rp45000,-",12,clothes,"Jun 16, 2025"
+PROD-0535,kaos polos combed,Rp 120.000,-5,pakaian,1763233200
+PROD-0536,KEMEJA FLANEL Keren,45rb,81,pakaian,28/11/2025
+PROD-0537,KAMUS BAHASA INGGRIS,null,kosong,buku bacaan,"Mar 04, 2025"
+PROD-0538,komik jepang lama,120000,-5,buku bacaan,21/04/2025
+PROD-0539,BaJu Bayi,15,12,pakaian,21/01/2026
+PROD-0540,buku pemrograman python,,-5,BUKU,2025-01-02 13:00:00
+PROD-0541,komik jepang lama,45rb,-5,buku bacaan,1752112800
+PROD-0542,komik jepang lama,$1.00,95,buku,"Sep 18, 2025"
+PROD-0543,BaJu Bayi,120rb,17,clothes,2026-01-10 5:00:00
+PROD-0544,NOVEL FIKSI TERJEMAHAN,"Rp120000,-",32,BUKU,02/02/2025
+PROD-0545,hP android murah,15000,12,ELEKTRONIK,1757026800
+PROD-0546,BaJu Bayi,45rb,12,pakaian,2025-03-16 17:00:00
+PROD-0547,kaos polos combed,$1.00,null,PAKAIAN,"Jan 20, 2025"
+PROD-0548,KAMUS BAHASA INGGRIS,Rp 15.000,kosong,BUKU,11/11/2025
+PROD-0549,KAMUS BAHASA INGGRIS,$3.00,12,BUKU,1763614800
+PROD-0550,BAJU  ANAK PEREMPUAN,120rb,null,clothes,"Feb 06, 2025"
+PROD-0551,LAPTOP gaming i7,Rp 45.000,31,ELEKTRONIK,"Dec 02, 2025"
+PROD-0552,charger Type-C fast,,null,ELEKTRONIK,2025-12-08 9:00:00
+PROD-0553,komik jepang lama,120rb,null,buku bacaan,"Jul 28, 2025"
+PROD-0554,buku pemrograman python,$1.00,-5,BUKU,04/08/2025
+PROD-0555,mouse WIRELESS,120000,null,elektronik murah,2026-02-28 22:00:00
+PROD-0556,LAPTOP gaming i7,15rb,null,elektronik murah,15/04/2025
+PROD-0557,POWERBANK 10000mah,$8.00,12,elektronik murah,"Nov 28, 2025"
+PROD-0558,charger Type-C fast,"Rp45000,-",-5,elektronik murah,2025-01-05 20:00:00
+PROD-0559,komik jepang lama,"Rp15000,-",71,BUKU,15/07/2025
+PROD-0560,LAPTOP gaming i7,15,-5,elektronik murah,22/10/2025
+PROD-0561,baju anak laki-laki,15000,12,pakaian,1769104800
+PROD-0562,BaJu Bayi,120rb,null,clothes,"Jan 07, 2026"
+PROD-0563,NOVEL FIKSI TERJEMAHAN,Rp 120.000,-5,BUKU,1750744800
+PROD-0564,NOVEL FIKSI TERJEMAHAN,45000,6,buku bacaan,07/02/2025
+PROD-0565,hP android murah,"Rp15000,-",kosong,elektronik murah,04/10/2025
+PROD-0566,buku pemrograman python,Rp 45.000,kosong,buku bacaan,2025-04-27 23:00:00
+PROD-0567,komik jepang lama,Rp 120.000,12,BUKU,2025-04-21 20:00:00
+PROD-0568,NOVEL FIKSI TERJEMAHAN,,null,buku,2025-06-25 13:00:00
+PROD-0569,POWERBANK 10000mah,Rp 120.000,94,ELEKTRONIK,"Apr 25, 2025"
+PROD-0570,BAJU  ANAK PEREMPUAN,$1.00,null,pakaian,30/01/2026
+PROD-0571,Buku Mewarnai anak,Rp 15.000,61,buku bacaan,08/03/2026
+PROD-0572,NOVEL FIKSI TERJEMAHAN,$8.00,-5,BUKU,1761530400
+PROD-0573,KEMEJA FLANEL Keren,"Rp120000,-",12,clothes,16/08/2025
+PROD-0574,komik jepang lama,45,12,BUKU,25/04/2025
+PROD-0575,buku pemrograman python,,-5,BUKU,1743292800
+PROD-0576,buku pemrograman python,null,null,BUKU,2026-02-22 14:00:00
+PROD-0577,buku pemrograman python,45,kosong,buku,1762041600
+PROD-0578,NOVEL FIKSI TERJEMAHAN,45rb,kosong,buku,"Dec 10, 2025"
+PROD-0579,komik jepang lama,"Rp120000,-",-5,buku,"Mar 05, 2026"
+PROD-0580,LAPTOP gaming i7,Rp 45.000,89,elektronik,2025-01-24 17:00:00
+PROD-0581,charger Type-C fast,$8.00,45,elektronik murah,1748203200
+PROD-0582,BaJu Bayi,null,12,clothes,1748898000
+PROD-0583,mouse WIRELESS,"Rp15000,-",kosong,elektronik murah,"Apr 28, 2025"
+PROD-0584,LAPTOP gaming i7,$1.00,null,elektronik murah,1772028000
+PROD-0585,KEMEJA FLANEL Keren,45,kosong,pakian,"Jan 01, 2026"
+PROD-0586,BAJU  ANAK PEREMPUAN,$1.00,-5,pakaian,06/01/2025
+PROD-0587,Buku Mewarnai anak,15,-5,buku bacaan,2025-04-13 13:00:00
+PROD-0588,KAMUS BAHASA INGGRIS,15rb,null,buku bacaan,2025-09-29 22:00:00
+PROD-0589,charger Type-C fast,"Rp15000,-",68,elektronik,2025-11-12 5:00:00
+PROD-0590,baju anak laki-laki,15rb,12,clothes,"Mar 20, 2026"
+PROD-0591,Buku Mewarnai anak,Rp 45.000,null,BUKU,1747998000
+PROD-0592,buku pemrograman python,"Rp45000,-",-5,buku,1759626000
+PROD-0593,kaos polos combed,15000,null,pakian,"Mar 14, 2026"
+PROD-0594,LAPTOP gaming i7,Rp 45.000,-5,elektronik murah,"Sep 30, 2025"
+PROD-0595,baju anak laki-laki,$3.00,null,PAKAIAN,1739167200
+PROD-0596,BaJu Bayi,120rb,-5,pakaian,1769187600
+PROD-0597,BaJu Bayi,$3.00,19,PAKAIAN,2025-12-14 11:00:00
+PROD-0598,BAJU  ANAK PEREMPUAN,Rp 120.000,12,pakian,2025-12-14 5:00:00
+PROD-0599,baju anak laki-laki,120rb,12,pakaian,2025-01-15 6:00:00
+PROD-0600,komik jepang lama,,-5,buku bacaan,2025-01-07 22:00:00
+PROD-0601,charger Type-C fast,"Rp15000,-",99,elektronik murah,2025-02-03 18:00:00
+PROD-0602,KAMUS BAHASA INGGRIS,"Rp45000,-",kosong,BUKU,2025-03-29 1:00:00
+PROD-0603,KAMUS BAHASA INGGRIS,15000,kosong,buku,2025-12-24 18:00:00
+PROD-0604,komik jepang lama,45,1,buku bacaan,"Nov 01, 2025"
+PROD-0605,charger Type-C fast,15,96,elektronik,2025-11-24 0:00:00
+PROD-0606,Buku Mewarnai anak,Rp 120.000,-5,buku,"Feb 12, 2026"
+PROD-0607,komik jepang lama,Rp 120.000,12,BUKU,23/11/2025
+PROD-0608,KAMUS BAHASA INGGRIS,45,-5,buku bacaan,2025-07-04 0:00:00
+PROD-0609,BaJu Bayi,15rb,12,PAKAIAN,27/03/2025
+PROD-0610,buku pemrograman python,"Rp15000,-",12,BUKU,"Jul 26, 2025"
+PROD-0611,KAMUS BAHASA INGGRIS,null,37,buku,"Feb 09, 2025"
+PROD-0612,KEMEJA FLANEL Keren,Rp 120.000,kosong,PAKAIAN,"Sep 14, 2025"
+PROD-0613,KEMEJA FLANEL Keren,120,null,PAKAIAN,14/07/2025
+PROD-0614,BAJU  ANAK PEREMPUAN,"Rp45000,-",72,pakian,2025-12-28 2:00:00
+PROD-0615,buku pemrograman python,null,-5,buku bacaan,"Nov 07, 2025"
+PROD-0616,BaJu Bayi,15000,null,pakaian,2025-05-10 8:00:00
+PROD-0617,KAMUS BAHASA INGGRIS,$1.00,11,buku,"Mar 31, 2025"
+PROD-0618,baju anak laki-laki,45000,kosong,PAKAIAN,1771171200
+PROD-0619,NOVEL FIKSI TERJEMAHAN,15,12,buku bacaan,07/02/2026
+PROD-0620,Buku Mewarnai anak,45rb,59,BUKU,"Jul 03, 2025"
+PROD-0621,charger Type-C fast,"Rp45000,-",98,ELEKTRONIK,1760274000
+PROD-0622,NOVEL FIKSI TERJEMAHAN,15000,null,BUKU,08/07/2025
+PROD-0623,KEMEJA FLANEL Keren,"Rp15000,-",12,pakian,29/08/2025
+PROD-0624,KEMEJA FLANEL Keren,"Rp45000,-",12,PAKAIAN,1758880800
+PROD-0625,mouse WIRELESS,$3.00,null,ELEKTRONIK,2025-09-10 7:00:00
+PROD-0626,buku pemrograman python,45,94,buku bacaan,21/10/2025
+PROD-0627,hP android murah,45rb,12,elektronik murah,"Dec 13, 2025"
+PROD-0628,KAMUS BAHASA INGGRIS,Rp 120.000,12,buku,1739106000
+PROD-0629,baju anak laki-laki,120,12,PAKAIAN,2025-11-14 20:00:00
+PROD-0630,BAJU  ANAK PEREMPUAN,120rb,null,PAKAIAN,1745798400
+PROD-0631,KAMUS BAHASA INGGRIS,120000,null,buku bacaan,"Sep 02, 2025"
+PROD-0632,komik jepang lama,"Rp45000,-",12,buku bacaan,1756728000
+PROD-0633,KEMEJA FLANEL Keren,"Rp15000,-",-5,clothes,19/03/2025
+PROD-0634,NOVEL FIKSI TERJEMAHAN,Rp 45.000,12,buku,1767726000
+PROD-0635,BAJU  ANAK PEREMPUAN,,null,pakian,2025-04-30 0:00:00
+PROD-0636,KEMEJA FLANEL Keren,15000,-5,clothes,2025-01-27 21:00:00
+PROD-0637,BAJU  ANAK PEREMPUAN,"Rp15000,-",kosong,PAKAIAN,11/03/2025
+PROD-0638,POWERBANK 10000mah,Rp 15.000,null,elektronik murah,1759262400
+PROD-0639,komik jepang lama,"Rp45000,-",58,BUKU,24/10/2025
+PROD-0640,LAPTOP gaming i7,120,12,elektronik,2025-01-31 8:00:00
+PROD-0641,BaJu Bayi,45,kosong,PAKAIAN,1743393600
+PROD-0642,POWERBANK 10000mah,120rb,12,ELEKTRONIK,28/02/2026
+PROD-0643,baju anak laki-laki,120,35,clothes,15/04/2025
+PROD-0644,komik jepang lama,"Rp45000,-",kosong,BUKU,08/09/2025
+PROD-0645,KEMEJA FLANEL Keren,Rp 15.000,kosong,PAKAIAN,"Jun 13, 2025"
+PROD-0646,POWERBANK 10000mah,Rp 45.000,null,ELEKTRONIK,1736182800
+PROD-0647,mouse WIRELESS,Rp 45.000,-5,elektronik murah,2025-03-17 7:00:00
+PROD-0648,hP android murah,$3.00,-5,ELEKTRONIK,1762246800
+PROD-0649,POWERBANK 10000mah,null,kosong,ELEKTRONIK,20/06/2025
+PROD-0650,Buku Mewarnai anak,45,50,buku bacaan,1743105600
+PROD-0651,BaJu Bayi,$8.00,75,pakaian,"Apr 02, 2025"
+PROD-0652,hP android murah,45rb,kosong,elektronik,2025-01-04 0:00:00
+PROD-0653,BAJU  ANAK PEREMPUAN,$1.00,kosong,clothes,1762200000
+PROD-0654,NOVEL FIKSI TERJEMAHAN,45,23,buku bacaan,09/11/2025
+PROD-0655,NOVEL FIKSI TERJEMAHAN,15,12,BUKU,13/06/2025
+PROD-0656,kaos polos combed,$3.00,kosong,clothes,1770264000
+PROD-0657,Buku Mewarnai anak,null,null,BUKU,1757437200
+PROD-0658,KEMEJA FLANEL Keren,120000,kosong,PAKAIAN,1750953600
+PROD-0659,NOVEL FIKSI TERJEMAHAN,"Rp45000,-",12,buku bacaan,"Aug 30, 2025"
+PROD-0660,komik jepang lama,"Rp120000,-",kosong,BUKU,18/11/2025
+PROD-0661,BaJu Bayi,120rb,12,pakian,30/09/2025
+PROD-0662,BaJu Bayi,$8.00,12,pakian,2025-03-21 22:00:00
+PROD-0663,baju anak laki-laki,45000,null,clothes,1747652400
+PROD-0664,hP android murah,Rp 15.000,-5,ELEKTRONIK,2025-10-05 12:00:00
+PROD-0665,komik jepang lama,,81,buku,1768258800
+PROD-0666,komik jepang lama,120,kosong,BUKU,07/01/2026
+PROD-0667,POWERBANK 10000mah,120rb,null,elektronik murah,1754658000
+PROD-0668,NOVEL FIKSI TERJEMAHAN,$1.00,12,buku bacaan,25/10/2025
+PROD-0669,mouse WIRELESS,120,kosong,elektronik murah,1767600000
+PROD-0670,komik jepang lama,120rb,kosong,buku bacaan,"Jul 02, 2025"
+PROD-0671,komik jepang lama,45000,-5,buku bacaan,23/03/2026
+PROD-0672,Buku Mewarnai anak,45rb,12,buku bacaan,1746111600
+PROD-0673,kaos polos combed,$3.00,kosong,pakaian,"Feb 22, 2026"
+PROD-0674,LAPTOP gaming i7,null,null,ELEKTRONIK,12/06/2025
+PROD-0675,BAJU  ANAK PEREMPUAN,$1.00,null,PAKAIAN,26/04/2025
+PROD-0676,KAMUS BAHASA INGGRIS,Rp 15.000,12,buku bacaan,19/01/2026
+PROD-0677,komik jepang lama,45rb,null,buku,14/11/2025
+PROD-0678,baju anak laki-laki,120,-5,pakaian,"Jan 01, 2026"
+PROD-0679,POWERBANK 10000mah,15000,null,ELEKTRONIK,04/03/2026
+PROD-0680,komik jepang lama,45,null,buku bacaan,2026-02-07 22:00:00
+PROD-0681,komik jepang lama,Rp 45.000,kosong,buku,"Aug 14, 2025"
+PROD-0682,NOVEL FIKSI TERJEMAHAN,45rb,kosong,BUKU,2025-10-06 15:00:00
+PROD-0683,LAPTOP gaming i7,Rp 120.000,null,ELEKTRONIK,2025-12-05 22:00:00
+PROD-0684,mouse WIRELESS,120000,3,elektronik murah,25/12/2025
+PROD-0685,LAPTOP gaming i7,45rb,40,ELEKTRONIK,2025-06-22 13:00:00
+PROD-0686,mouse WIRELESS,"Rp45000,-",12,elektronik murah,1765278000
+PROD-0687,hP android murah,"Rp45000,-",58,ELEKTRONIK,1765270800
+PROD-0688,buku pemrograman python,null,-5,BUKU,2025-05-30 7:00:00
+PROD-0689,POWERBANK 10000mah,"Rp120000,-",kosong,ELEKTRONIK,1740898800
+PROD-0690,Buku Mewarnai anak,$1.00,kosong,buku bacaan,2025-11-23 18:00:00
+PROD-0691,Buku Mewarnai anak,$8.00,kosong,BUKU,1743040800
+PROD-0692,baju anak laki-laki,"Rp45000,-",null,pakaian,2025-07-01 11:00:00
+PROD-0693,NOVEL FIKSI TERJEMAHAN,45rb,12,buku,"Mar 23, 2025"
+PROD-0694,POWERBANK 10000mah,15000,42,elektronik murah,"Nov 11, 2025"
+PROD-0695,kaos polos combed,"Rp45000,-",98,pakaian,2025-01-14 1:00:00
+PROD-0696,buku pemrograman python,"Rp15000,-",96,buku bacaan,1771182000
+PROD-0697,mouse WIRELESS,"Rp45000,-",-5,elektronik murah,1744286400
+PROD-0698,mouse WIRELESS,$1.00,37,elektronik murah,17/06/2025
+PROD-0699,KAMUS BAHASA INGGRIS,15000,-5,buku,22/02/2026
+PROD-0700,NOVEL FIKSI TERJEMAHAN,Rp 15.000,kosong,buku bacaan,24/12/2025
+PROD-0701,BaJu Bayi,15rb,kosong,pakaian,1738396800
+PROD-0702,KAMUS BAHASA INGGRIS,$3.00,27,BUKU,1742018400
+PROD-0703,KAMUS BAHASA INGGRIS,120000,22,buku,"Jul 14, 2025"
+PROD-0704,KEMEJA FLANEL Keren,45,-5,PAKAIAN,2026-02-13 9:00:00
+PROD-0705,charger Type-C fast,15000,-5,ELEKTRONIK,"Oct 29, 2025"
+PROD-0706,NOVEL FIKSI TERJEMAHAN,15,null,buku bacaan,31/10/2025
+PROD-0707,hP android murah,Rp 120.000,kosong,elektronik,2026-03-22 17:00:00
+PROD-0708,BaJu Bayi,$3.00,null,pakian,1772647200
+PROD-0709,Buku Mewarnai anak,45,-5,buku,26/10/2025
+PROD-0710,buku pemrograman python,Rp 120.000,null,buku,26/09/2025
+PROD-0711,KAMUS BAHASA INGGRIS,45000,kosong,BUKU,2025-08-02 10:00:00
+PROD-0712,buku pemrograman python,null,null,BUKU,1744754400
+PROD-0713,kaos polos combed,$8.00,-5,pakian,"Mar 21, 2026"
+PROD-0714,Buku Mewarnai anak,Rp 45.000,kosong,buku,29/08/2025
+PROD-0715,BAJU  ANAK PEREMPUAN,15,null,pakaian,2025-03-16 17:00:00
+PROD-0716,KAMUS BAHASA INGGRIS,15,21,BUKU,"Mar 02, 2026"
+PROD-0717,mouse WIRELESS,Rp 120.000,61,ELEKTRONIK,2026-02-20 2:00:00
+PROD-0718,komik jepang lama,Rp 45.000,12,buku bacaan,2026-01-18 7:00:00
+PROD-0719,NOVEL FIKSI TERJEMAHAN,120rb,null,buku,2025-07-14 19:00:00
+PROD-0720,POWERBANK 10000mah,"Rp45000,-",-5,elektronik murah,"May 04, 2025"
+PROD-0721,LAPTOP gaming i7,"Rp120000,-",kosong,ELEKTRONIK,07/05/2025
+PROD-0722,komik jepang lama,null,55,BUKU,08/06/2025
+PROD-0723,LAPTOP gaming i7,Rp 15.000,61,elektronik murah,1759125600
+PROD-0724,BAJU  ANAK PEREMPUAN,$3.00,12,PAKAIAN,16/10/2025
+PROD-0725,charger Type-C fast,"Rp15000,-",40,elektronik murah,04/06/2025
+PROD-0726,BaJu Bayi,45,-5,pakaian,12/09/2025
+PROD-0727,komik jepang lama,$3.00,kosong,buku,2025-04-13 2:00:00
+PROD-0728,mouse WIRELESS,45,null,elektronik murah,2025-02-26 11:00:00
+PROD-0729,kaos polos combed,15,null,pakaian,17/01/2025
+PROD-0730,KAMUS BAHASA INGGRIS,45,24,buku,15/04/2025
+PROD-0731,hP android murah,$8.00,12,ELEKTRONIK,22/09/2025
+PROD-0732,BAJU  ANAK PEREMPUAN,Rp 15.000,-5,pakian,04/02/2025
+PROD-0733,KAMUS BAHASA INGGRIS,45,null,buku bacaan,19/03/2026
+PROD-0734,charger Type-C fast,Rp 15.000,12,elektronik murah,1752357600
+PROD-0735,hP android murah,$8.00,-5,elektronik,"Jun 05, 2025"
+PROD-0736,hP android murah,null,null,elektronik,"Mar 11, 2025"
+PROD-0737,buku pemrograman python,Rp 120.000,12,BUKU,2025-10-10 8:00:00
+PROD-0738,BAJU  ANAK PEREMPUAN,"Rp45000,-",null,pakian,1751925600
+PROD-0739,hP android murah,45,kosong,ELEKTRONIK,16/08/2025
+PROD-0740,baju anak laki-laki,$8.00,null,PAKAIAN,"Apr 15, 2025"
+PROD-0741,LAPTOP gaming i7,120,null,elektronik murah,1766250000
+PROD-0742,komik jepang lama,"Rp120000,-",null,buku bacaan,01/10/2025
+PROD-0743,KEMEJA FLANEL Keren,"Rp45000,-",12,pakaian,25/01/2025
+PROD-0744,KAMUS BAHASA INGGRIS,,kosong,buku,"Jan 05, 2025"
+PROD-0745,mouse WIRELESS,null,12,ELEKTRONIK,2025-08-18 3:00:00
+PROD-0746,mouse WIRELESS,Rp 120.000,-5,ELEKTRONIK,2025-11-11 18:00:00
+PROD-0747,mouse WIRELESS,120,77,elektronik murah,"Jul 19, 2025"
+PROD-0748,mouse WIRELESS,$3.00,-5,elektronik murah,2025-05-23 12:00:00
+PROD-0749,BAJU  ANAK PEREMPUAN,45rb,null,pakian,"Jun 26, 2025"
+PROD-0750,BaJu Bayi,Rp 45.000,12,PAKAIAN,"Feb 27, 2025"
+PROD-0751,LAPTOP gaming i7,120000,null,ELEKTRONIK,31/12/2025
+PROD-0752,baju anak laki-laki,null,12,pakian,"May 06, 2025"
+PROD-0753,komik jepang lama,"Rp120000,-",null,BUKU,20/04/2025
+PROD-0754,charger Type-C fast,15rb,12,elektronik,"Dec 08, 2025"
+PROD-0755,Buku Mewarnai anak,Rp 45.000,-5,buku,2025-08-10 17:00:00
+PROD-0756,KEMEJA FLANEL Keren,120,25,pakian,2025-09-08 10:00:00
+PROD-0757,POWERBANK 10000mah,Rp 15.000,12,ELEKTRONIK,2025-05-29 2:00:00
+PROD-0758,hP android murah,"Rp120000,-",kosong,elektronik,1772751600
+PROD-0759,KAMUS BAHASA INGGRIS,120,null,BUKU,25/05/2025
+PROD-0760,NOVEL FIKSI TERJEMAHAN,null,12,BUKU,20/01/2026
+PROD-0761,charger Type-C fast,Rp 120.000,null,elektronik,2025-01-30 18:00:00
+PROD-0762,LAPTOP gaming i7,,12,elektronik murah,"Mar 21, 2026"
+PROD-0763,baju anak laki-laki,120rb,-5,PAKAIAN,21/06/2025
+PROD-0764,kaos polos combed,Rp 45.000,75,clothes,1774065600
+PROD-0765,komik jepang lama,Rp 120.000,null,buku bacaan,2025-09-20 23:00:00
+PROD-0766,BaJu Bayi,45000,null,clothes,"Jan 08, 2026"
+PROD-0767,baju anak laki-laki,120000,-5,pakaian,"Apr 05, 2025"
+PROD-0768,LAPTOP gaming i7,Rp 120.000,97,elektronik,1743994800
+PROD-0769,BAJU  ANAK PEREMPUAN,45000,kosong,pakaian,2026-01-31 11:00:00
+PROD-0770,mouse WIRELESS,Rp 120.000,-5,elektronik,1755457200
+PROD-0771,kaos polos combed,,31,clothes,2025-12-02 9:00:00
+PROD-0772,mouse WIRELESS,null,kosong,elektronik,2025-03-08 11:00:00
+PROD-0773,buku pemrograman python,15rb,kosong,BUKU,1770019200
+PROD-0774,KEMEJA FLANEL Keren,null,null,PAKAIAN,"Jul 31, 2025"
+PROD-0775,LAPTOP gaming i7,$1.00,94,ELEKTRONIK,2025-05-16 0:00:00
+PROD-0776,LAPTOP gaming i7,45rb,12,elektronik,10/01/2026
+PROD-0777,KAMUS BAHASA INGGRIS,null,-5,BUKU,2026-02-04 22:00:00
+PROD-0778,BAJU  ANAK PEREMPUAN,Rp 120.000,-5,pakaian,2025-07-07 18:00:00
+PROD-0779,BaJu Bayi,,12,PAKAIAN,1754287200
+PROD-0780,BaJu Bayi,15000,16,clothes,2025-10-19 20:00:00
+PROD-0781,mouse WIRELESS,Rp 45.000,kosong,elektronik,1759186800
+PROD-0782,hP android murah,null,kosong,elektronik,1769950800
+PROD-0783,buku pemrograman python,"Rp120000,-",12,buku bacaan,05/01/2025
+PROD-0784,LAPTOP gaming i7,45000,12,elektronik,1757437200
+PROD-0785,mouse WIRELESS,15rb,kosong,elektronik murah,"Jan 01, 2026"
+PROD-0786,KAMUS BAHASA INGGRIS,15000,kosong,buku,12/08/2025
+PROD-0787,baju anak laki-laki,15rb,kosong,pakaian,1739811600
+PROD-0788,LAPTOP gaming i7,120,12,ELEKTRONIK,"Feb 02, 2025"
+PROD-0789,buku pemrograman python,$3.00,77,BUKU,2025-04-25 7:00:00
+PROD-0790,buku pemrograman python,$8.00,kosong,BUKU,1749268800
+PROD-0791,baju anak laki-laki,$3.00,29,PAKAIAN,"Aug 08, 2025"
+PROD-0792,LAPTOP gaming i7,,-5,elektronik murah,1747342800
+PROD-0793,LAPTOP gaming i7,"Rp120000,-",12,ELEKTRONIK,1763164800
+PROD-0794,KEMEJA FLANEL Keren,15,kosong,clothes,18/07/2025
+PROD-0795,NOVEL FIKSI TERJEMAHAN,"Rp45000,-",12,BUKU,2025-05-26 16:00:00
+PROD-0796,NOVEL FIKSI TERJEMAHAN,15000,null,buku,18/06/2025
+PROD-0797,NOVEL FIKSI TERJEMAHAN,Rp 45.000,kosong,buku,2025-03-31 19:00:00
+PROD-0798,NOVEL FIKSI TERJEMAHAN,"Rp120000,-",12,buku bacaan,1767434400
+PROD-0799,buku pemrograman python,15000,null,buku bacaan,2025-04-01 17:00:00
+PROD-0800,KAMUS BAHASA INGGRIS,45000,null,buku,"Aug 05, 2025"
+PROD-0801,hP android murah,null,-5,elektronik,"Apr 10, 2025"
+PROD-0802,charger Type-C fast,"Rp45000,-",12,elektronik murah,"Jul 16, 2025"
+PROD-0803,Buku Mewarnai anak,$8.00,-5,BUKU,1771455600
+PROD-0804,NOVEL FIKSI TERJEMAHAN,,12,buku,1764745200
+PROD-0805,mouse WIRELESS,null,55,ELEKTRONIK,26/04/2025
+PROD-0806,baju anak laki-laki,120rb,12,pakian,22/01/2026
+PROD-0807,KEMEJA FLANEL Keren,15rb,12,clothes,"Dec 02, 2025"
+PROD-0808,KAMUS BAHASA INGGRIS,$1.00,12,buku bacaan,2025-10-27 22:00:00
+PROD-0809,mouse WIRELESS,$3.00,12,ELEKTRONIK,27/02/2025
+PROD-0810,NOVEL FIKSI TERJEMAHAN,15rb,kosong,buku bacaan,"Mar 27, 2026"
+PROD-0811,BaJu Bayi,$8.00,null,PAKAIAN,1774267200
+PROD-0812,komik jepang lama,45rb,kosong,buku bacaan,1756962000
+PROD-0813,kaos polos combed,120rb,null,pakian,16/07/2025
+PROD-0814,POWERBANK 10000mah,$1.00,68,ELEKTRONIK,03/06/2025
+PROD-0815,KAMUS BAHASA INGGRIS,$3.00,-5,buku,"Oct 30, 2025"
+PROD-0816,hP android murah,45,kosong,ELEKTRONIK,2025-07-06 5:00:00
+PROD-0817,charger Type-C fast,"Rp120000,-",-5,elektronik,1760677200
+PROD-0818,POWERBANK 10000mah,15000,-5,ELEKTRONIK,21/02/2025
+PROD-0819,NOVEL FIKSI TERJEMAHAN,120000,null,buku,"Mar 15, 2026"
+PROD-0820,KEMEJA FLANEL Keren,120,12,PAKAIAN,1754308800
+PROD-0821,BaJu Bayi,$1.00,kosong,PAKAIAN,1766052000
+PROD-0822,POWERBANK 10000mah,$8.00,19,elektronik,1739484000
+PROD-0823,BaJu Bayi,15rb,81,pakaian,"Jun 02, 2025"
+PROD-0824,BaJu Bayi,120000,kosong,clothes,"Jul 25, 2025"
+PROD-0825,NOVEL FIKSI TERJEMAHAN,"Rp45000,-",kosong,buku bacaan,28/01/2026
+PROD-0826,BaJu Bayi,Rp 120.000,null,pakian,1759273200
+PROD-0827,BaJu Bayi,null,70,pakaian,1753869600
+PROD-0828,charger Type-C fast,15,78,elektronik,"Jun 03, 2025"
+PROD-0829,kaos polos combed,15rb,12,pakaian,06/01/2026
+PROD-0830,komik jepang lama,45rb,-5,buku,"May 21, 2025"
+PROD-0831,KEMEJA FLANEL Keren,15,null,PAKAIAN,1736557200
+PROD-0832,buku pemrograman python,15,-5,buku bacaan,2025-08-25 13:00:00
+PROD-0833,BAJU  ANAK PEREMPUAN,15rb,12,pakaian,2025-07-05 12:00:00
+PROD-0834,buku pemrograman python,Rp 15.000,null,BUKU,"Sep 18, 2025"
+PROD-0835,KAMUS BAHASA INGGRIS,Rp 120.000,12,buku,"Jun 02, 2025"
+PROD-0836,charger Type-C fast,15,12,elektronik,"Mar 08, 2026"
+PROD-0837,buku pemrograman python,45,12,buku bacaan,2025-01-31 13:00:00
+PROD-0838,POWERBANK 10000mah,$3.00,kosong,elektronik murah,1750273200
+PROD-0839,mouse WIRELESS,15rb,null,elektronik,2026-03-25 15:00:00
+PROD-0840,kaos polos combed,45,kosong,pakian,1751079600
+PROD-0841,komik jepang lama,120,21,buku bacaan,"Dec 25, 2025"
+PROD-0842,KAMUS BAHASA INGGRIS,Rp 15.000,-5,buku bacaan,2025-09-26 17:00:00
+PROD-0843,BaJu Bayi,$1.00,kosong,PAKAIAN,2025-10-08 13:00:00
+PROD-0844,baju anak laki-laki,Rp 15.000,kosong,pakian,25/01/2026
+PROD-0845,NOVEL FIKSI TERJEMAHAN,$3.00,null,buku,1760076000
+PROD-0846,KAMUS BAHASA INGGRIS,"Rp45000,-",12,BUKU,"Jan 20, 2025"
+PROD-0847,Buku Mewarnai anak,45rb,kosong,BUKU,2025-12-29 10:00:00
+PROD-0848,mouse WIRELESS,,12,ELEKTRONIK,1764954000
+PROD-0849,BaJu Bayi,null,73,PAKAIAN,"Jan 31, 2026"
+PROD-0850,LAPTOP gaming i7,"Rp15000,-",64,elektronik murah,28/01/2025
+PROD-0851,baju anak laki-laki,"Rp120000,-",4,PAKAIAN,06/03/2026
+PROD-0852,hP android murah,15,null,ELEKTRONIK,"Apr 18, 2025"
+PROD-0853,LAPTOP gaming i7,,12,ELEKTRONIK,2025-01-23 23:00:00
+PROD-0854,KAMUS BAHASA INGGRIS,120rb,kosong,BUKU,"Apr 04, 2025"
+PROD-0855,baju anak laki-laki,$8.00,kosong,pakian,"Oct 25, 2025"
+PROD-0856,baju anak laki-laki,$1.00,12,pakian,1737558000
+PROD-0857,mouse WIRELESS,120,60,elektronik murah,"Jul 16, 2025"
+PROD-0858,hP android murah,15000,-5,elektronik,1756368000
+PROD-0859,kaos polos combed,,null,clothes,2025-02-08 2:00:00
+PROD-0860,mouse WIRELESS,120rb,-5,ELEKTRONIK,"Nov 08, 2025"
+PROD-0861,KEMEJA FLANEL Keren,45rb,12,PAKAIAN,2026-01-08 14:00:00
+PROD-0862,Buku Mewarnai anak,"Rp45000,-",55,BUKU,1746982800
+PROD-0863,baju anak laki-laki,Rp 15.000,kosong,clothes,2025-12-19 5:00:00
+PROD-0864,LAPTOP gaming i7,"Rp120000,-",null,ELEKTRONIK,1747047600
+PROD-0865,charger Type-C fast,15000,null,ELEKTRONIK,1744542000
+PROD-0866,charger Type-C fast,Rp 15.000,-5,ELEKTRONIK,2026-01-10 0:00:00
+PROD-0867,BaJu Bayi,"Rp45000,-",12,pakian,2026-02-25 14:00:00
+PROD-0868,KAMUS BAHASA INGGRIS,45000,-5,buku,"Sep 24, 2025"
+PROD-0869,buku pemrograman python,$3.00,74,buku bacaan,1765134000
+PROD-0870,KAMUS BAHASA INGGRIS,45rb,-5,BUKU,1768032000
+PROD-0871,KEMEJA FLANEL Keren,15000,kosong,clothes,1738033200
+PROD-0872,hP android murah,Rp 120.000,-5,ELEKTRONIK,06/03/2026
+PROD-0873,KAMUS BAHASA INGGRIS,,-5,buku bacaan,2025-05-12 17:00:00
+PROD-0874,charger Type-C fast,45rb,kosong,ELEKTRONIK,28/04/2025
+PROD-0875,KEMEJA FLANEL Keren,120rb,12,pakaian,"Jun 09, 2025"
+PROD-0876,POWERBANK 10000mah,,kosong,elektronik,"Jun 12, 2025"
+PROD-0877,NOVEL FIKSI TERJEMAHAN,Rp 15.000,12,buku,26/09/2025
+PROD-0878,komik jepang lama,"Rp45000,-",66,buku bacaan,1741852800
+PROD-0879,NOVEL FIKSI TERJEMAHAN,Rp 45.000,null,buku,1737435600
+PROD-0880,buku pemrograman python,null,12,buku,2025-09-22 11:00:00
+PROD-0881,BaJu Bayi,45,kosong,pakaian,2025-02-04 12:00:00
+PROD-0882,buku pemrograman python,45rb,kosong,buku,2025-10-22 22:00:00
+PROD-0883,KEMEJA FLANEL Keren,45,12,pakian,2025-09-12 9:00:00
+PROD-0884,kaos polos combed,45000,null,pakian,1768939200
+PROD-0885,KEMEJA FLANEL Keren,$8.00,-5,PAKAIAN,1764723600
+PROD-0886,BAJU  ANAK PEREMPUAN,Rp 15.000,12,pakaian,1741928400
+PROD-0887,buku pemrograman python,"Rp15000,-",94,buku,"Jan 28, 2026"
+PROD-0888,BaJu Bayi,,null,pakaian,"Jul 14, 2025"
+PROD-0889,LAPTOP gaming i7,Rp 15.000,-5,ELEKTRONIK,"Feb 26, 2025"
+PROD-0890,BaJu Bayi,120,68,clothes,13/11/2025
+PROD-0891,hP android murah,Rp 15.000,-5,elektronik,"Dec 30, 2025"
+PROD-0892,charger Type-C fast,"Rp120000,-",12,elektronik,30/05/2025
+PROD-0893,KAMUS BAHASA INGGRIS,$3.00,kosong,buku,1738832400
+PROD-0894,POWERBANK 10000mah,Rp 45.000,null,ELEKTRONIK,"Dec 08, 2025"
+PROD-0895,KAMUS BAHASA INGGRIS,120,null,BUKU,1736607600
+PROD-0896,BAJU  ANAK PEREMPUAN,Rp 120.000,-5,pakian,"Oct 14, 2025"
+PROD-0897,BaJu Bayi,$1.00,null,PAKAIAN,"Jun 23, 2025"
+PROD-0898,charger Type-C fast,15,12,elektronik murah,31/01/2025
+PROD-0899,baju anak laki-laki,$1.00,-5,clothes,08/05/2025
+PROD-0900,buku pemrograman python,15000,null,BUKU,26/04/2025
+PROD-0901,hP android murah,$3.00,kosong,ELEKTRONIK,17/11/2025
+PROD-0902,NOVEL FIKSI TERJEMAHAN,$8.00,12,buku,2025-01-14 17:00:00
+PROD-0903,BAJU  ANAK PEREMPUAN,120,null,clothes,17/11/2025
+PROD-0904,hP android murah,45rb,-5,elektronik,1774054800
+PROD-0905,LAPTOP gaming i7,$3.00,kosong,ELEKTRONIK,1761901200
+PROD-0906,komik jepang lama,45000,74,buku bacaan,"Feb 16, 2025"
+PROD-0907,BAJU  ANAK PEREMPUAN,15,kosong,PAKAIAN,1749697200
+PROD-0908,LAPTOP gaming i7,$8.00,12,elektronik,2025-09-29 9:00:00
+PROD-0909,Buku Mewarnai anak,45rb,-5,buku,2025-05-15 5:00:00
+PROD-0910,komik jepang lama,"Rp120000,-",kosong,buku,2026-02-28 12:00:00
+PROD-0911,NOVEL FIKSI TERJEMAHAN,15rb,-5,BUKU,1743753600
+PROD-0912,LAPTOP gaming i7,$3.00,-5,elektronik,"Mar 21, 2025"
+PROD-0913,LAPTOP gaming i7,15rb,-5,ELEKTRONIK,17/01/2026
+PROD-0914,BAJU  ANAK PEREMPUAN,45000,12,pakian,2025-09-23 16:00:00
+PROD-0915,BaJu Bayi,Rp 45.000,12,pakaian,2025-07-08 7:00:00
+PROD-0916,buku pemrograman python,15000,12,buku bacaan,08/12/2025
+PROD-0917,charger Type-C fast,$1.00,null,elektronik murah,2025-06-28 20:00:00
+PROD-0918,POWERBANK 10000mah,45,null,elektronik murah,"Aug 05, 2025"
+PROD-0919,POWERBANK 10000mah,120,kosong,elektronik murah,2026-01-14 22:00:00
+PROD-0920,POWERBANK 10000mah,$1.00,12,ELEKTRONIK,1760389200
+PROD-0921,hP android murah,Rp 15.000,90,elektronik murah,1750608000
+PROD-0922,charger Type-C fast,120000,kosong,ELEKTRONIK,1769914800
+PROD-0923,LAPTOP gaming i7,15000,kosong,elektronik murah,19/11/2025
+PROD-0924,LAPTOP gaming i7,"Rp45000,-",82,elektronik murah,"Jul 22, 2025"
+PROD-0925,Buku Mewarnai anak,$8.00,12,BUKU,1757196000
+PROD-0926,komik jepang lama,Rp 45.000,kosong,buku bacaan,2026-02-05 15:00:00
+PROD-0927,buku pemrograman python,120rb,12,buku,1770368400
+PROD-0928,hP android murah,Rp 45.000,12,elektronik murah,2025-12-07 6:00:00
+PROD-0929,KAMUS BAHASA INGGRIS,$1.00,kosong,buku,1751173200
+PROD-0930,baju anak laki-laki,null,12,clothes,2026-02-01 18:00:00
+PROD-0931,hP android murah,$1.00,95,elektronik murah,1763845200
+PROD-0932,charger Type-C fast,"Rp120000,-",-5,ELEKTRONIK,02/02/2025
+PROD-0933,charger Type-C fast,null,52,elektronik murah,1737813600
+PROD-0934,KAMUS BAHASA INGGRIS,$3.00,80,BUKU,2025-03-08 3:00:00
+PROD-0935,buku pemrograman python,"Rp15000,-",kosong,buku,13/02/2025
+PROD-0936,LAPTOP gaming i7,$1.00,null,elektronik,1751835600
+PROD-0937,NOVEL FIKSI TERJEMAHAN,Rp 15.000,17,buku,1762387200
+PROD-0938,NOVEL FIKSI TERJEMAHAN,null,null,buku,07/02/2025
+PROD-0939,charger Type-C fast,45000,12,ELEKTRONIK,"Aug 05, 2025"
+PROD-0940,BAJU  ANAK PEREMPUAN,"Rp15000,-",kosong,pakian,2025-06-07 9:00:00
+PROD-0941,NOVEL FIKSI TERJEMAHAN,45rb,12,buku,1756922400
+PROD-0942,baju anak laki-laki,45000,-5,pakaian,08/01/2025
+PROD-0943,KAMUS BAHASA INGGRIS,,kosong,buku bacaan,27/12/2025
+PROD-0944,mouse WIRELESS,$3.00,kosong,ELEKTRONIK,2025-11-24 3:00:00
+PROD-0945,KAMUS BAHASA INGGRIS,"Rp120000,-",12,BUKU,14/08/2025
+PROD-0946,kaos polos combed,15rb,null,clothes,2025-05-01 14:00:00
+PROD-0947,mouse WIRELESS,15,91,ELEKTRONIK,2025-08-14 14:00:00
+PROD-0948,KEMEJA FLANEL Keren,Rp 45.000,12,pakaian,"Jan 11, 2025"
+PROD-0949,POWERBANK 10000mah,Rp 45.000,37,elektronik murah,"Jan 25, 2026"
+PROD-0950,baju anak laki-laki,120rb,-5,clothes,11/12/2025
+PROD-0951,komik jepang lama,120000,-5,buku bacaan,1757883600
+PROD-0952,buku pemrograman python,120,null,buku bacaan,2025-11-12 7:00:00
+PROD-0953,KAMUS BAHASA INGGRIS,"Rp45000,-",null,buku,1748386800
+PROD-0954,mouse WIRELESS,15000,5,elektronik murah,12/04/2025
+PROD-0955,KEMEJA FLANEL Keren,15000,66,pakian,1772618400
+PROD-0956,buku pemrograman python,null,-5,buku bacaan,"Jul 24, 2025"
+PROD-0957,BAJU  ANAK PEREMPUAN,15,-5,pakian,"Oct 03, 2025"
+PROD-0958,charger Type-C fast,45rb,-5,elektronik murah,1742461200
+PROD-0959,baju anak laki-laki,45,12,pakaian,"Jan 15, 2025"
+PROD-0960,hP android murah,45rb,null,elektronik,1749182400
+PROD-0961,baju anak laki-laki,null,null,PAKAIAN,1762236000
+PROD-0962,POWERBANK 10000mah,45000,68,ELEKTRONIK,2026-03-24 6:00:00
+PROD-0963,POWERBANK 10000mah,"Rp120000,-",74,elektronik murah,"Mar 03, 2026"
+PROD-0964,kaos polos combed,"Rp45000,-",12,pakaian,29/08/2025
+PROD-0965,kaos polos combed,null,-5,pakian,1764817200
+PROD-0966,baju anak laki-laki,$3.00,null,pakaian,1742943600
+PROD-0967,buku pemrograman python,120000,-5,buku,"Mar 17, 2026"
+PROD-0968,KAMUS BAHASA INGGRIS,45,99,BUKU,"Mar 05, 2026"
+PROD-0969,baju anak laki-laki,45,37,PAKAIAN,1750240800
+PROD-0970,mouse WIRELESS,Rp 15.000,kosong,ELEKTRONIK,2025-09-22 18:00:00
+PROD-0971,KEMEJA FLANEL Keren,120000,12,clothes,2025-01-17 16:00:00
+PROD-0972,Buku Mewarnai anak,"Rp120000,-",-5,buku,1767668400
+PROD-0973,NOVEL FIKSI TERJEMAHAN,null,-5,BUKU,2026-01-13 8:00:00
+PROD-0974,KAMUS BAHASA INGGRIS,120rb,null,buku,"Jan 12, 2026"
+PROD-0975,kaos polos combed,15000,12,pakaian,"Dec 28, 2025"
+PROD-0976,hP android murah,15000,12,elektronik murah,"Jan 07, 2026"
+PROD-0977,KAMUS BAHASA INGGRIS,45000,-5,BUKU,"Sep 24, 2025"
+PROD-0978,Buku Mewarnai anak,45,-5,buku bacaan,"Oct 23, 2025"
+PROD-0979,mouse WIRELESS,"Rp15000,-",92,ELEKTRONIK,06/10/2025
+PROD-0980,Buku Mewarnai anak,"Rp45000,-",null,buku bacaan,16/01/2026
+PROD-0981,mouse WIRELESS,"Rp15000,-",kosong,ELEKTRONIK,29/01/2025
+PROD-0982,LAPTOP gaming i7,120,-5,elektronik murah,1773468000
+PROD-0983,KAMUS BAHASA INGGRIS,"Rp15000,-",-5,BUKU,27/01/2026
+PROD-0984,komik jepang lama,15,12,buku,17/02/2025
+PROD-0985,komik jepang lama,15000,11,buku,09/04/2025
+PROD-0986,NOVEL FIKSI TERJEMAHAN,120rb,kosong,buku,17/03/2026
+PROD-0987,LAPTOP gaming i7,$3.00,kosong,elektronik murah,2025-08-24 23:00:00
+PROD-0988,buku pemrograman python,45000,56,buku,"Feb 16, 2026"
+PROD-0989,NOVEL FIKSI TERJEMAHAN,120,56,buku,2026-01-11 12:00:00
+PROD-0990,komik jepang lama,15,12,BUKU,1768885200
+PROD-0991,NOVEL FIKSI TERJEMAHAN,15000,kosong,buku,"Jan 23, 2025"
+PROD-0992,Buku Mewarnai anak,120rb,12,buku bacaan,2025-10-22 8:00:00
+PROD-0993,NOVEL FIKSI TERJEMAHAN,Rp 120.000,kosong,BUKU,21/09/2025
+PROD-0994,KAMUS BAHASA INGGRIS,120000,12,buku,2026-02-01 2:00:00
+PROD-0995,NOVEL FIKSI TERJEMAHAN,,null,BUKU,1773561600
+PROD-0996,Buku Mewarnai anak,45,kosong,buku bacaan,1761498000
+PROD-0997,charger Type-C fast,Rp 15.000,-5,elektronik murah,"Sep 15, 2025"
+PROD-0998,komik jepang lama,15rb,25,buku,2025-12-31 14:00:00
+PROD-0999,Buku Mewarnai anak,Rp 120.000,null,buku,1739577600
+PROD-1000,POWERBANK 10000mah,Rp 120.000,kosong,ELEKTRONIK,27/08/2025
+PROD-1001,charger Type-C fast,Rp 120.000,98,elektronik,1771344000
+PROD-1002,BAJU  ANAK PEREMPUAN,Rp 15.000,-5,pakaian,1762416000
+PROD-1003,kaos polos combed,null,12,pakaian,"Sep 05, 2025"
+PROD-1004,charger Type-C fast,$3.00,12,elektronik murah,09/08/2025
+PROD-1005,kaos polos combed,15rb,-5,pakaian,2025-10-22 15:00:00
+PROD-1006,kaos polos combed,120,12,pakaian,2025-01-08 2:00:00
+PROD-1007,BaJu Bayi,$1.00,kosong,PAKAIAN,2025-09-14 20:00:00
+PROD-1008,mouse WIRELESS,45rb,12,ELEKTRONIK,1762221600
+PROD-1009,baju anak laki-laki,120rb,50,clothes,2025-12-19 14:00:00
+PROD-1010,mouse WIRELESS,15000,kosong,elektronik murah,31/12/2025
+PROD-1011,KAMUS BAHASA INGGRIS,"Rp45000,-",kosong,buku bacaan,1746644400
+PROD-1012,BAJU  ANAK PEREMPUAN,15rb,12,pakaian,1742058000
+PROD-1013,NOVEL FIKSI TERJEMAHAN,"Rp45000,-",kosong,buku,"Jun 11, 2025"
+PROD-1014,POWERBANK 10000mah,$3.00,null,ELEKTRONIK,2025-12-23 9:00:00
+PROD-1015,mouse WIRELESS,45,17,ELEKTRONIK,1746381600
+PROD-1016,POWERBANK 10000mah,120000,49,elektronik murah,"Jul 03, 2025"
+PROD-1017,buku pemrograman python,120,kosong,buku,"Mar 19, 2026"
+PROD-1018,KAMUS BAHASA INGGRIS,$8.00,-5,buku,"Jan 27, 2025"
+PROD-1019,mouse WIRELESS,"Rp45000,-",-5,elektronik,1754654400
+PROD-1020,Buku Mewarnai anak,Rp 120.000,kosong,buku,2025-06-21 11:00:00
+PROD-1021,buku pemrograman python,120000,58,buku,01/06/2025
+PROD-1022,baju anak laki-laki,,-5,clothes,"Apr 24, 2025"
+PROD-1023,mouse WIRELESS,$1.00,12,elektronik murah,2025-04-03 9:00:00
+PROD-1024,Buku Mewarnai anak,15rb,-5,buku bacaan,17/06/2025
+PROD-1025,BAJU  ANAK PEREMPUAN,Rp 45.000,4,pakian,2025-05-28 12:00:00
+PROD-1026,NOVEL FIKSI TERJEMAHAN,$8.00,99,buku,"Sep 21, 2025"
+PROD-1027,KEMEJA FLANEL Keren,Rp 120.000,null,pakian,02/04/2025
+PROD-1028,baju anak laki-laki,null,null,pakian,1740124800
+PROD-1029,mouse WIRELESS,$8.00,null,elektronik,1760544000
+PROD-1030,kaos polos combed,Rp 45.000,kosong,clothes,1773950400
+PROD-1031,NOVEL FIKSI TERJEMAHAN,15rb,12,buku,04/09/2025
+PROD-1032,POWERBANK 10000mah,15000,null,elektronik murah,2025-07-17 7:00:00
+PROD-1033,BaJu Bayi,$3.00,kosong,pakaian,17/08/2025
+PROD-1034,hP android murah,"Rp120000,-",12,elektronik murah,"Mar 25, 2025"
+PROD-1035,baju anak laki-laki,Rp 45.000,kosong,clothes,2025-04-28 2:00:00
+PROD-1036,komik jepang lama,"Rp120000,-",kosong,BUKU,16/08/2025
+PROD-1037,komik jepang lama,15,12,buku bacaan,"Oct 23, 2025"
+PROD-1038,BAJU  ANAK PEREMPUAN,45000,13,clothes,"Aug 04, 2025"
+PROD-1039,LAPTOP gaming i7,120rb,kosong,elektronik,2025-06-10 20:00:00
+PROD-1040,KAMUS BAHASA INGGRIS,120000,null,buku bacaan,1745485200
+PROD-1041,kaos polos combed,"Rp15000,-",kosong,clothes,2025-04-17 0:00:00
+PROD-1042,NOVEL FIKSI TERJEMAHAN,120rb,98,buku,1760986800
+PROD-1043,BAJU  ANAK PEREMPUAN,$3.00,54,PAKAIAN,2025-07-06 8:00:00
+PROD-1044,POWERBANK 10000mah,$8.00,-5,ELEKTRONIK,2026-03-26 23:00:00
+PROD-1045,charger Type-C fast,120000,kosong,elektronik murah,1740099600
+PROD-1046,BaJu Bayi,"Rp45000,-",kosong,pakian,03/01/2026
+PROD-1047,BAJU  ANAK PEREMPUAN,120,kosong,pakian,22/03/2026
+PROD-1048,hP android murah,15000,33,elektronik murah,2025-06-17 1:00:00
+PROD-1049,Buku Mewarnai anak,15000,-5,BUKU,1763366400
+PROD-1050,hP android murah,Rp 120.000,kosong,elektronik murah,13/03/2026
+PROD-1051,Buku Mewarnai anak,"Rp15000,-",12,buku,1760421600
+PROD-1052,POWERBANK 10000mah,120000,12,elektronik,2025-07-08 23:00:00
+PROD-1053,NOVEL FIKSI TERJEMAHAN,$1.00,40,buku,2025-11-27 22:00:00
+PROD-1054,BAJU  ANAK PEREMPUAN,"Rp45000,-",kosong,pakaian,1737291600
+PROD-1055,hP android murah,45,null,elektronik,1769011200
+PROD-1056,KEMEJA FLANEL Keren,"Rp15000,-",kosong,clothes,11/11/2025
+PROD-1057,kaos polos combed,$1.00,43,clothes,15/02/2025
+PROD-1058,KAMUS BAHASA INGGRIS,Rp 120.000,kosong,buku,2025-08-09 0:00:00
+PROD-1059,mouse WIRELESS,"Rp45000,-",-5,ELEKTRONIK,2025-09-13 18:00:00
+PROD-1060,LAPTOP gaming i7,120000,kosong,ELEKTRONIK,17/04/2025
+PROD-1061,BAJU  ANAK PEREMPUAN,15rb,12,pakaian,"Aug 12, 2025"
+PROD-1062,buku pemrograman python,"Rp15000,-",null,buku bacaan,2025-11-16 6:00:00
+PROD-1063,hP android murah,120000,-5,ELEKTRONIK,02/03/2026
+PROD-1064,komik jepang lama,$1.00,null,BUKU,2025-03-01 18:00:00
+PROD-1065,LAPTOP gaming i7,15,50,elektronik,"Jun 08, 2025"
+PROD-1066,LAPTOP gaming i7,$8.00,null,elektronik,2025-02-03 0:00:00
+PROD-1067,Buku Mewarnai anak,Rp 120.000,kosong,buku bacaan,2025-05-13 14:00:00
+PROD-1068,Buku Mewarnai anak,15,-5,buku bacaan,1739732400
+PROD-1069,BAJU  ANAK PEREMPUAN,Rp 45.000,-5,pakian,04/05/2025
+PROD-1070,KAMUS BAHASA INGGRIS,,kosong,buku,"May 30, 2025"
+PROD-1071,BAJU  ANAK PEREMPUAN,120000,null,pakaian,31/10/2025
+PROD-1072,baju anak laki-laki,Rp 15.000,12,pakian,1764219600
+PROD-1073,Buku Mewarnai anak,Rp 15.000,12,buku bacaan,2025-05-12 3:00:00
+PROD-1074,LAPTOP gaming i7,Rp 15.000,null,ELEKTRONIK,2025-08-18 17:00:00
+PROD-1075,Buku Mewarnai anak,15000,20,buku,05/06/2025
+PROD-1076,komik jepang lama,45000,13,buku,1739721600
+PROD-1077,mouse WIRELESS,$8.00,12,ELEKTRONIK,29/08/2025
+PROD-1078,kaos polos combed,null,kosong,clothes,30/01/2026
+PROD-1079,Buku Mewarnai anak,"Rp120000,-",kosong,BUKU,2025-06-22 12:00:00
+PROD-1080,baju anak laki-laki,15000,-5,PAKAIAN,18/01/2026
+PROD-1081,hP android murah,"Rp45000,-",-5,elektronik murah,"Apr 27, 2025"
+PROD-1082,hP android murah,120rb,kosong,elektronik,"Aug 12, 2025"
+PROD-1083,baju anak laki-laki,45,13,PAKAIAN,09/04/2025
+PROD-1084,komik jepang lama,45rb,12,BUKU,1772229600
+PROD-1085,kaos polos combed,,kosong,PAKAIAN,1745355600
+PROD-1086,charger Type-C fast,"Rp15000,-",-5,ELEKTRONIK,1769144400
+PROD-1087,NOVEL FIKSI TERJEMAHAN,120rb,12,buku bacaan,28/02/2025
+PROD-1088,mouse WIRELESS,45,93,ELEKTRONIK,2025-10-23 16:00:00
+PROD-1089,LAPTOP gaming i7,$3.00,null,ELEKTRONIK,1741878000
+PROD-1090,hP android murah,$1.00,kosong,ELEKTRONIK,10/08/2025
+PROD-1091,baju anak laki-laki,45,kosong,clothes,31/03/2025
+PROD-1092,KEMEJA FLANEL Keren,45000,12,pakaian,"Jul 01, 2025"
+PROD-1093,mouse WIRELESS,null,null,elektronik murah,2025-12-28 17:00:00
+PROD-1094,Buku Mewarnai anak,"Rp45000,-",-5,buku bacaan,2025-03-30 22:00:00
+PROD-1095,LAPTOP gaming i7,Rp 120.000,null,elektronik murah,1743642000
+PROD-1096,hP android murah,15rb,null,elektronik murah,14/08/2025
+PROD-1097,NOVEL FIKSI TERJEMAHAN,120000,18,buku,1759352400
+PROD-1098,mouse WIRELESS,Rp 120.000,null,elektronik murah,2025-08-02 10:00:00
+PROD-1099,POWERBANK 10000mah,Rp 15.000,12,elektronik murah,25/05/2025
+PROD-1100,hP android murah,$8.00,12,ELEKTRONIK,2025-04-20 13:00:00
+PROD-1101,hP android murah,Rp 120.000,57,elektronik,1742752800
+PROD-1102,KAMUS BAHASA INGGRIS,45,null,BUKU,06/09/2025
+PROD-1103,baju anak laki-laki,Rp 15.000,-5,clothes,"Apr 08, 2025"
+PROD-1104,KEMEJA FLANEL Keren,15000,-5,PAKAIAN,1753034400
+PROD-1105,KAMUS BAHASA INGGRIS,45,null,BUKU,02/03/2026
+PROD-1106,LAPTOP gaming i7,15rb,-5,elektronik murah,22/09/2025
+PROD-1107,mouse WIRELESS,Rp 15.000,kosong,elektronik,1753405200
+PROD-1108,charger Type-C fast,null,13,ELEKTRONIK,2025-06-06 13:00:00
+PROD-1109,KAMUS BAHASA INGGRIS,$8.00,99,buku bacaan,2025-07-08 2:00:00
+PROD-1110,LAPTOP gaming i7,45000,kosong,elektronik,2025-07-14 18:00:00
+PROD-1111,komik jepang lama,Rp 120.000,-5,BUKU,2025-03-27 22:00:00
+PROD-1112,mouse WIRELESS,Rp 45.000,null,elektronik,2025-12-19 20:00:00
+PROD-1113,charger Type-C fast,45rb,26,ELEKTRONIK,24/09/2025
+PROD-1114,BAJU  ANAK PEREMPUAN,$3.00,12,pakaian,17/07/2025
+PROD-1115,Buku Mewarnai anak,45rb,kosong,buku bacaan,"May 19, 2025"
+PROD-1116,buku pemrograman python,45rb,kosong,buku bacaan,18/10/2025
+PROD-1117,POWERBANK 10000mah,,null,elektronik,1738224000
+PROD-1118,POWERBANK 10000mah,45rb,12,ELEKTRONIK,2025-05-01 23:00:00
+PROD-1119,KAMUS BAHASA INGGRIS,120,12,buku,2025-03-06 21:00:00
+PROD-1120,baju anak laki-laki,Rp 120.000,4,pakian,"Sep 19, 2025"
+PROD-1121,LAPTOP gaming i7,,null,elektronik,1774321200
+PROD-1122,charger Type-C fast,45rb,12,ELEKTRONIK,"Mar 19, 2026"
+PROD-1123,kaos polos combed,45,43,pakian,14/09/2025
+PROD-1124,POWERBANK 10000mah,15000,null,elektronik,22/05/2025
+PROD-1125,POWERBANK 10000mah,$8.00,kosong,elektronik murah,1749520800
+PROD-1126,mouse WIRELESS,15,null,elektronik,1752058800
+PROD-1127,komik jepang lama,45rb,kosong,buku bacaan,2025-06-08 6:00:00
+PROD-1128,KEMEJA FLANEL Keren,Rp 15.000,12,clothes,2025-03-17 10:00:00
+PROD-1129,buku pemrograman python,,null,BUKU,"Dec 06, 2025"
+PROD-1130,BAJU  ANAK PEREMPUAN,15rb,kosong,pakaian,1742893200
+PROD-1131,buku pemrograman python,15rb,12,BUKU,2025-09-20 8:00:00
+PROD-1132,Buku Mewarnai anak,null,44,buku,10/03/2025
+PROD-1133,baju anak laki-laki,45,12,pakian,2026-03-16 8:00:00
+PROD-1134,KAMUS BAHASA INGGRIS,45,-5,BUKU,2025-09-25 3:00:00
+PROD-1135,POWERBANK 10000mah,120rb,90,ELEKTRONIK,2025-06-14 16:00:00
+PROD-1136,hP android murah,120rb,null,elektronik murah,15/06/2025
+PROD-1137,mouse WIRELESS,Rp 120.000,47,ELEKTRONIK,02/01/2025
+PROD-1138,NOVEL FIKSI TERJEMAHAN,Rp 45.000,null,buku,1753678800
+PROD-1139,KEMEJA FLANEL Keren,Rp 45.000,-5,pakaian,12/11/2025
+PROD-1140,buku pemrograman python,120rb,null,buku bacaan,"Jul 18, 2025"
+PROD-1141,komik jepang lama,45,-5,buku bacaan,1752645600
+PROD-1142,Buku Mewarnai anak,Rp 120.000,null,BUKU,2025-01-19 10:00:00
+PROD-1143,BaJu Bayi,15000,kosong,clothes,05/02/2025
+PROD-1144,KAMUS BAHASA INGGRIS,Rp 45.000,12,buku,1774490400
+PROD-1145,hP android murah,120000,12,elektronik,"Jun 20, 2025"
+PROD-1146,KEMEJA FLANEL Keren,$1.00,kosong,clothes,1739242800
+PROD-1147,buku pemrograman python,15,12,buku bacaan,08/03/2026
+PROD-1148,NOVEL FIKSI TERJEMAHAN,,kosong,BUKU,1755115200
+PROD-1149,LAPTOP gaming i7,Rp 15.000,12,elektronik,2025-04-18 11:00:00
+PROD-1150,BaJu Bayi,"Rp45000,-",-5,clothes,"May 02, 2025"
+PROD-1151,kaos polos combed,45000,12,PAKAIAN,1771736400
+PROD-1152,kaos polos combed,Rp 45.000,12,clothes,25/05/2025
+PROD-1153,charger Type-C fast,15000,12,elektronik murah,2025-07-03 17:00:00
+PROD-1154,BAJU  ANAK PEREMPUAN,45,null,pakian,2026-01-06 23:00:00
+PROD-1155,LAPTOP gaming i7,15,kosong,elektronik murah,20/04/2025
+PROD-1156,baju anak laki-laki,Rp 15.000,75,clothes,2025-10-23 3:00:00
+PROD-1157,komik jepang lama,$1.00,null,BUKU,"Nov 16, 2025"
+PROD-1158,hP android murah,Rp 45.000,null,elektronik,1763920800
+PROD-1159,baju anak laki-laki,"Rp15000,-",kosong,pakian,1760378400
+PROD-1160,buku pemrograman python,15rb,kosong,buku,21/01/2025
+PROD-1161,hP android murah,Rp 120.000,73,ELEKTRONIK,04/09/2025
+PROD-1162,buku pemrograman python,120,12,BUKU,1749052800
+PROD-1163,kaos polos combed,"Rp120000,-",-5,pakian,1773363600
+PROD-1164,POWERBANK 10000mah,120000,kosong,ELEKTRONIK,2025-10-02 18:00:00
+PROD-1165,POWERBANK 10000mah,"Rp15000,-",null,elektronik,"Jan 22, 2025"
+PROD-1166,charger Type-C fast,15000,12,elektronik,"Apr 20, 2025"
+PROD-1167,kaos polos combed,15000,42,pakian,"Apr 01, 2025"
+PROD-1168,buku pemrograman python,"Rp15000,-",63,buku,25/03/2026
+PROD-1169,buku pemrograman python,45rb,kosong,BUKU,"Nov 10, 2025"
+PROD-1170,buku pemrograman python,null,12,buku bacaan,06/02/2025
+PROD-1171,Buku Mewarnai anak,15rb,kosong,buku,"Jan 28, 2025"
+PROD-1172,buku pemrograman python,"Rp45000,-",12,BUKU,1752566400
+PROD-1173,komik jepang lama,"Rp45000,-",-5,buku,2025-01-14 20:00:00
+PROD-1174,BAJU  ANAK PEREMPUAN,45000,null,pakian,1736258400
+PROD-1175,POWERBANK 10000mah,120,12,elektronik murah,2026-03-04 11:00:00
+PROD-1176,mouse WIRELESS,120000,-5,elektronik,1771088400
+PROD-1177,KAMUS BAHASA INGGRIS,15,12,BUKU,"Mar 12, 2026"
+PROD-1178,LAPTOP gaming i7,120rb,12,ELEKTRONIK,08/04/2025
+PROD-1179,baju anak laki-laki,$1.00,null,pakian,"Nov 16, 2025"
+PROD-1180,BAJU  ANAK PEREMPUAN,null,null,PAKAIAN,1744826400
+PROD-1181,hP android murah,$3.00,12,elektronik,"Mar 25, 2025"
+PROD-1182,charger Type-C fast,120000,-5,ELEKTRONIK,23/08/2025
+PROD-1183,komik jepang lama,Rp 45.000,12,buku bacaan,2025-02-27 4:00:00
+PROD-1184,kaos polos combed,15rb,null,PAKAIAN,"Feb 10, 2025"
+PROD-1185,kaos polos combed,$1.00,83,PAKAIAN,2025-10-11 6:00:00
+PROD-1186,baju anak laki-laki,Rp 15.000,12,clothes,04/04/2025
+PROD-1187,komik jepang lama,15rb,null,BUKU,2025-11-01 17:00:00
+PROD-1188,charger Type-C fast,15rb,12,elektronik,03/12/2025
+PROD-1189,KEMEJA FLANEL Keren,15,null,pakaian,20/07/2025
+PROD-1190,baju anak laki-laki,120,-5,PAKAIAN,13/02/2025
+PROD-1191,BAJU  ANAK PEREMPUAN,45rb,null,clothes,2025-07-20 22:00:00
+PROD-1192,charger Type-C fast,null,kosong,ELEKTRONIK,2025-07-12 23:00:00
+PROD-1193,mouse WIRELESS,15rb,null,ELEKTRONIK,"Nov 10, 2025"
+PROD-1194,mouse WIRELESS,$1.00,12,elektronik murah,1754514000
+PROD-1195,charger Type-C fast,120000,-5,elektronik murah,"Jan 10, 2026"
+PROD-1196,Buku Mewarnai anak,15rb,67,buku bacaan,1760886000
+PROD-1197,charger Type-C fast,"Rp120000,-",kosong,elektronik murah,1758168000
+PROD-1198,hP android murah,Rp 120.000,12,elektronik murah,1759420800
+PROD-1199,baju anak laki-laki,$1.00,-5,clothes,2025-04-09 11:00:00
+PROD-1200,hP android murah,$3.00,12,elektronik murah,1753884000
+PROD-1201,kaos polos combed,120000,null,pakian,1771225200
+PROD-1202,BaJu Bayi,Rp 120.000,kosong,PAKAIAN,1742846400
+PROD-1203,mouse WIRELESS,"Rp15000,-",null,elektronik,17/08/2025
+PROD-1204,LAPTOP gaming i7,$1.00,17,ELEKTRONIK,2025-02-11 14:00:00
+PROD-1205,NOVEL FIKSI TERJEMAHAN,15rb,12,BUKU,2025-01-26 15:00:00
+PROD-1206,mouse WIRELESS,120rb,83,ELEKTRONIK,1756414800
+PROD-1207,LAPTOP gaming i7,45000,kosong,elektronik,"Jun 20, 2025"
+PROD-1208,NOVEL FIKSI TERJEMAHAN,120000,null,buku,2026-03-14 10:00:00
+PROD-1209,BaJu Bayi,120000,12,pakaian,27/01/2025
+PROD-1210,BAJU  ANAK PEREMPUAN,15rb,52,pakian,27/02/2026
+PROD-1211,hP android murah,15000,-5,ELEKTRONIK,"Feb 04, 2025"
+PROD-1212,mouse WIRELESS,120000,-5,elektronik murah,2025-07-23 23:00:00
+PROD-1213,NOVEL FIKSI TERJEMAHAN,Rp 15.000,kosong,buku,2025-04-18 2:00:00
+PROD-1214,hP android murah,"Rp15000,-",18,elektronik murah,1764756000
+PROD-1215,Buku Mewarnai anak,null,12,buku bacaan,"Mar 03, 2025"
+PROD-1216,baju anak laki-laki,$1.00,-5,pakian,2026-03-22 7:00:00
+PROD-1217,komik jepang lama,$3.00,68,BUKU,2025-05-23 0:00:00
+PROD-1218,baju anak laki-laki,$8.00,45,clothes,"Dec 24, 2025"
+PROD-1219,hP android murah,Rp 120.000,33,elektronik,27/11/2025
+PROD-1220,kaos polos combed,Rp 45.000,12,PAKAIAN,14/06/2025
+PROD-1221,KAMUS BAHASA INGGRIS,null,kosong,BUKU,"Jun 30, 2025"
+PROD-1222,BaJu Bayi,45rb,20,pakian,2025-04-11 23:00:00
+PROD-1223,komik jepang lama,$1.00,-5,buku,2026-03-12 9:00:00
+PROD-1224,mouse WIRELESS,15,kosong,elektronik,"Mar 24, 2026"
+PROD-1225,buku pemrograman python,Rp 15.000,kosong,buku bacaan,2025-08-18 3:00:00
+PROD-1226,NOVEL FIKSI TERJEMAHAN,,kosong,buku,1739322000
+PROD-1227,baju anak laki-laki,15rb,-5,pakian,05/02/2025
+PROD-1228,Buku Mewarnai anak,"Rp15000,-",27,buku,1740870000
+PROD-1229,LAPTOP gaming i7,Rp 45.000,kosong,elektronik,2025-08-03 20:00:00
+PROD-1230,BAJU  ANAK PEREMPUAN,120000,86,pakaian,"Feb 09, 2025"
+PROD-1231,BaJu Bayi,120,54,pakian,"Sep 27, 2025"
+PROD-1232,POWERBANK 10000mah,15000,54,elektronik murah,2026-01-06 12:00:00
+PROD-1233,KEMEJA FLANEL Keren,"Rp120000,-",12,PAKAIAN,"Dec 28, 2025"
+PROD-1234,baju anak laki-laki,Rp 45.000,kosong,PAKAIAN,1748361600
+PROD-1235,KAMUS BAHASA INGGRIS,Rp 15.000,null,buku,"Aug 22, 2025"
+PROD-1236,KAMUS BAHASA INGGRIS,Rp 45.000,kosong,buku,1768312800
+PROD-1237,KAMUS BAHASA INGGRIS,$3.00,12,BUKU,"Jul 04, 2025"
+PROD-1238,hP android murah,45,12,ELEKTRONIK,"Oct 30, 2025"
+PROD-1239,Buku Mewarnai anak,$8.00,kosong,buku bacaan,1737939600
+PROD-1240,baju anak laki-laki,Rp 120.000,-5,PAKAIAN,2025-07-23 17:00:00
+PROD-1241,BaJu Bayi,$1.00,kosong,pakaian,2025-05-23 20:00:00
+PROD-1242,kaos polos combed,15000,-5,pakaian,15/04/2025
+PROD-1243,KAMUS BAHASA INGGRIS,Rp 45.000,52,buku bacaan,"Sep 02, 2025"
+PROD-1244,mouse WIRELESS,"Rp45000,-",kosong,elektronik,2025-04-30 19:00:00
+PROD-1245,kaos polos combed,"Rp120000,-",kosong,PAKAIAN,09/05/2025
+PROD-1246,LAPTOP gaming i7,Rp 15.000,kosong,elektronik,"Oct 27, 2025"
+PROD-1247,Buku Mewarnai anak,45,kosong,buku bacaan,"Jan 24, 2025"
+PROD-1248,komik jepang lama,45rb,-5,buku,31/03/2025
+PROD-1249,POWERBANK 10000mah,$8.00,35,elektronik,07/06/2025
+PROD-1250,hP android murah,null,12,elektronik murah,"Aug 03, 2025"
+PROD-1251,KEMEJA FLANEL Keren,$3.00,-5,PAKAIAN,"Aug 08, 2025"
+PROD-1252,LAPTOP gaming i7,Rp 120.000,12,elektronik,"May 19, 2025"
+PROD-1253,komik jepang lama,120,-5,buku,07/04/2025
+PROD-1254,Buku Mewarnai anak,120,null,BUKU,1773799200
+PROD-1255,mouse WIRELESS,$8.00,null,elektronik murah,2025-02-14 11:00:00
+PROD-1256,charger Type-C fast,45rb,6,elektronik,28/03/2025
+PROD-1257,NOVEL FIKSI TERJEMAHAN,120000,-5,buku bacaan,2025-02-10 9:00:00
+PROD-1258,hP android murah,"Rp45000,-",99,ELEKTRONIK,22/11/2025
+PROD-1259,LAPTOP gaming i7,,-5,elektronik,"Nov 27, 2025"
+PROD-1260,NOVEL FIKSI TERJEMAHAN,null,32,BUKU,1745031600
+PROD-1261,buku pemrograman python,$3.00,kosong,BUKU,26/09/2025
+PROD-1262,NOVEL FIKSI TERJEMAHAN,"Rp15000,-",-5,BUKU,2025-12-08 3:00:00
+PROD-1263,charger Type-C fast,45000,kosong,elektronik murah,2025-04-22 16:00:00
+PROD-1264,LAPTOP gaming i7,"Rp15000,-",null,elektronik,1761879600
+PROD-1265,mouse WIRELESS,"Rp15000,-",null,elektronik,1771135200
+PROD-1266,LAPTOP gaming i7,"Rp45000,-",-5,ELEKTRONIK,26/06/2025
+PROD-1267,buku pemrograman python,15,43,buku,1752577200
+PROD-1268,buku pemrograman python,null,null,buku bacaan,06/05/2025
+PROD-1269,KAMUS BAHASA INGGRIS,15,null,buku bacaan,10/08/2025
+PROD-1270,buku pemrograman python,$1.00,null,buku bacaan,1757818800
+PROD-1271,kaos polos combed,$1.00,12,clothes,"Sep 23, 2025"
+PROD-1272,mouse WIRELESS,"Rp120000,-",12,elektronik,1750708800
+PROD-1273,baju anak laki-laki,$3.00,28,PAKAIAN,31/10/2025
+PROD-1274,buku pemrograman python,Rp 45.000,12,buku bacaan,1773248400
+PROD-1275,LAPTOP gaming i7,$3.00,-5,elektronik,13/04/2025
+PROD-1276,charger Type-C fast,15000,-5,elektronik murah,"Sep 06, 2025"
+PROD-1277,Buku Mewarnai anak,45,12,buku bacaan,13/03/2025
+PROD-1278,BaJu Bayi,120,12,clothes,2025-11-14 1:00:00
+PROD-1279,buku pemrograman python,Rp 120.000,15,BUKU,"Sep 07, 2025"
+PROD-1280,komik jepang lama,"Rp120000,-",49,BUKU,2025-10-04 1:00:00
+PROD-1281,mouse WIRELESS,120,kosong,elektronik murah,"Mar 18, 2026"
+PROD-1282,hP android murah,"Rp120000,-",55,ELEKTRONIK,"Mar 02, 2026"
+PROD-1283,Buku Mewarnai anak,,51,buku bacaan,1749902400
+PROD-1284,BaJu Bayi,,null,pakaian,1759982400
+PROD-1285,POWERBANK 10000mah,15,kosong,elektronik murah,20/01/2025
+PROD-1286,baju anak laki-laki,45rb,null,pakaian,1760097600
+PROD-1287,hP android murah,null,null,elektronik,"Sep 27, 2025"
+PROD-1288,LAPTOP gaming i7,120,12,elektronik murah,1756364400
+PROD-1289,hP android murah,$3.00,63,elektronik,1765965600
+PROD-1290,KAMUS BAHASA INGGRIS,120000,26,BUKU,2025-09-04 15:00:00
+PROD-1291,LAPTOP gaming i7,15,kosong,elektronik murah,2026-02-13 18:00:00
+PROD-1292,BaJu Bayi,,kosong,pakaian,"Feb 10, 2025"
+PROD-1293,kaos polos combed,"Rp45000,-",93,pakaian,"Jul 24, 2025"
+PROD-1294,hP android murah,"Rp15000,-",-5,ELEKTRONIK,2025-07-18 6:00:00
+PROD-1295,BAJU  ANAK PEREMPUAN,45000,kosong,clothes,1738404000
+PROD-1296,BAJU  ANAK PEREMPUAN,"Rp45000,-",kosong,clothes,2026-03-03 19:00:00
+PROD-1297,mouse WIRELESS,"Rp120000,-",-5,elektronik murah,"Dec 11, 2025"
+PROD-1298,mouse WIRELESS,120000,null,elektronik,1747832400
+PROD-1299,Buku Mewarnai anak,Rp 15.000,12,buku,1759237200
+PROD-1300,LAPTOP gaming i7,120rb,null,ELEKTRONIK,"Sep 14, 2025"
+PROD-1301,NOVEL FIKSI TERJEMAHAN,,kosong,buku,08/06/2025
+PROD-1302,hP android murah,Rp 120.000,-5,ELEKTRONIK,2026-03-08 15:00:00
+PROD-1303,POWERBANK 10000mah,"Rp120000,-",kosong,elektronik murah,1742256000
+PROD-1304,kaos polos combed,$8.00,12,pakaian,27/07/2025
+PROD-1305,baju anak laki-laki,Rp 45.000,kosong,clothes,"Jan 22, 2025"
+PROD-1306,NOVEL FIKSI TERJEMAHAN,$1.00,12,BUKU,2025-09-08 23:00:00
+PROD-1307,LAPTOP gaming i7,120000,-5,ELEKTRONIK,"Jan 24, 2025"
+PROD-1308,BAJU  ANAK PEREMPUAN,,null,PAKAIAN,2025-02-12 7:00:00
+PROD-1309,POWERBANK 10000mah,15rb,kosong,ELEKTRONIK,2025-05-22 13:00:00
+PROD-1310,BaJu Bayi,"Rp120000,-",12,PAKAIAN,2025-02-12 21:00:00
+PROD-1311,charger Type-C fast,$3.00,kosong,ELEKTRONIK,"Jul 24, 2025"
+PROD-1312,baju anak laki-laki,15000,12,pakian,2025-11-02 11:00:00
+PROD-1313,KEMEJA FLANEL Keren,Rp 45.000,-5,clothes,2025-12-15 20:00:00
+PROD-1314,charger Type-C fast,120rb,63,elektronik murah,29/01/2025
+PROD-1315,hP android murah,120000,null,ELEKTRONIK,"Aug 23, 2025"
+PROD-1316,mouse WIRELESS,120rb,54,elektronik murah,2025-08-29 18:00:00
+PROD-1317,charger Type-C fast,45rb,null,elektronik,1771599600
+PROD-1318,NOVEL FIKSI TERJEMAHAN,45,34,buku,"May 01, 2025"
+PROD-1319,NOVEL FIKSI TERJEMAHAN,$1.00,95,buku bacaan,1756771200
+PROD-1320,BAJU  ANAK PEREMPUAN,"Rp120000,-",null,PAKAIAN,1769716800
+PROD-1321,BAJU  ANAK PEREMPUAN,"Rp45000,-",12,PAKAIAN,1754485200
+PROD-1322,KAMUS BAHASA INGGRIS,Rp 120.000,59,BUKU,"Jul 23, 2025"
+PROD-1323,hP android murah,120rb,-5,elektronik,1770782400
+PROD-1324,charger Type-C fast,Rp 15.000,kosong,elektronik murah,14/09/2025
+PROD-1325,kaos polos combed,null,13,clothes,1758074400
+PROD-1326,NOVEL FIKSI TERJEMAHAN,45,53,buku,31/05/2025
+PROD-1327,Buku Mewarnai anak,null,-5,buku,"Dec 20, 2025"
+PROD-1328,baju anak laki-laki,,60,clothes,1766073600
+PROD-1329,buku pemrograman python,$3.00,31,BUKU,03/12/2025
+PROD-1330,BAJU  ANAK PEREMPUAN,,-5,clothes,"Mar 16, 2026"
+PROD-1331,baju anak laki-laki,$1.00,kosong,pakaian,1752825600
+PROD-1332,POWERBANK 10000mah,45rb,12,elektronik murah,"Jan 12, 2025"
+PROD-1333,buku pemrograman python,"Rp120000,-",-5,BUKU,1739613600
+PROD-1334,mouse WIRELESS,15,-5,elektronik murah,1767171600
+PROD-1335,mouse WIRELESS,15000,-5,ELEKTRONIK,15/04/2025
+PROD-1336,hP android murah,"Rp120000,-",kosong,elektronik,1767081600
+PROD-1337,KEMEJA FLANEL Keren,15000,41,pakaian,1743681600
+PROD-1338,hP android murah,Rp 15.000,null,elektronik,"Oct 02, 2025"
+PROD-1339,komik jepang lama,Rp 15.000,kosong,buku bacaan,"Nov 06, 2025"
+PROD-1340,NOVEL FIKSI TERJEMAHAN,120,7,buku bacaan,1773817200
+PROD-1341,hP android murah,15000,8,elektronik,"Mar 28, 2025"
+PROD-1342,hP android murah,120000,kosong,elektronik,1745154000
+PROD-1343,LAPTOP gaming i7,$8.00,-5,elektronik,2025-01-21 23:00:00
+PROD-1344,POWERBANK 10000mah,120rb,-5,elektronik,2025-04-29 15:00:00
+PROD-1345,mouse WIRELESS,120,-5,elektronik,1742630400
+PROD-1346,komik jepang lama,120rb,-5,buku,19/11/2025
+PROD-1347,NOVEL FIKSI TERJEMAHAN,120,null,BUKU,2025-03-17 1:00:00
+PROD-1348,charger Type-C fast,15rb,kosong,ELEKTRONIK,"Feb 05, 2026"
+PROD-1349,KEMEJA FLANEL Keren,"Rp15000,-",88,clothes,"Jan 09, 2026"
+PROD-1350,baju anak laki-laki,15,71,pakaian,1768258800
+PROD-1351,BaJu Bayi,$1.00,kosong,clothes,1744092000
+PROD-1352,charger Type-C fast,45,74,elektronik murah,2025-12-09 15:00:00
+PROD-1353,mouse WIRELESS,120000,78,ELEKTRONIK,2025-01-20 1:00:00
+PROD-1354,charger Type-C fast,"Rp45000,-",88,elektronik,31/08/2025
+PROD-1355,BaJu Bayi,120rb,null,pakaian,09/09/2025
+PROD-1356,kaos polos combed,120rb,-5,pakaian,27/10/2025
+PROD-1357,BaJu Bayi,"Rp120000,-",null,pakaian,08/03/2026
+PROD-1358,LAPTOP gaming i7,"Rp120000,-",12,elektronik,22/01/2025
+PROD-1359,KEMEJA FLANEL Keren,15000,kosong,PAKAIAN,1746943200
+PROD-1360,LAPTOP gaming i7,15,48,ELEKTRONIK,"Nov 06, 2025"
+PROD-1361,Buku Mewarnai anak,15000,19,buku bacaan,"Mar 01, 2025"
+PROD-1362,mouse WIRELESS,"Rp45000,-",32,elektronik,10/10/2025
+PROD-1363,KEMEJA FLANEL Keren,45000,-5,pakian,"Mar 18, 2025"
+PROD-1364,hP android murah,,kosong,elektronik murah,2025-12-17 3:00:00
+PROD-1365,POWERBANK 10000mah,Rp 45.000,12,ELEKTRONIK,07/12/2025
+PROD-1366,baju anak laki-laki,$1.00,null,PAKAIAN,"Oct 02, 2025"
+PROD-1367,hP android murah,Rp 45.000,null,elektronik,"Jan 29, 2026"
+PROD-1368,Buku Mewarnai anak,45,12,BUKU,"Jan 09, 2026"
+PROD-1369,LAPTOP gaming i7,45rb,-5,elektronik,1760792400
+PROD-1370,POWERBANK 10000mah,Rp 15.000,kosong,elektronik murah,"Apr 16, 2025"
+PROD-1371,BaJu Bayi,$3.00,null,clothes,2025-08-09 11:00:00
+PROD-1372,BAJU  ANAK PEREMPUAN,120000,kosong,pakian,1738447200
+PROD-1373,hP android murah,,null,elektronik murah,1769385600
+PROD-1374,mouse WIRELESS,"Rp15000,-",kosong,elektronik murah,"Jul 08, 2025"
+PROD-1375,LAPTOP gaming i7,45,-5,ELEKTRONIK,1762894800
+PROD-1376,kaos polos combed,Rp 120.000,12,pakaian,2025-01-27 15:00:00
+PROD-1377,kaos polos combed,Rp 120.000,33,pakian,1739304000
+PROD-1378,komik jepang lama,$1.00,-5,BUKU,"Jul 21, 2025"
+PROD-1379,KEMEJA FLANEL Keren,Rp 120.000,-5,pakian,24/04/2025
+PROD-1380,LAPTOP gaming i7,45rb,-5,elektronik murah,13/05/2025
+PROD-1381,mouse WIRELESS,45,51,elektronik,"Feb 14, 2025"
+PROD-1382,BAJU  ANAK PEREMPUAN,120rb,null,pakaian,24/03/2026
+PROD-1383,kaos polos combed,Rp 120.000,-5,clothes,1745996400
+PROD-1384,charger Type-C fast,45,-5,ELEKTRONIK,2026-03-09 0:00:00
+PROD-1385,POWERBANK 10000mah,"Rp15000,-",-5,elektronik,17/02/2025
+PROD-1386,hP android murah,45rb,null,elektronik,"Sep 30, 2025"
+PROD-1387,BaJu Bayi,$8.00,null,pakaian,2025-10-18 21:00:00
+PROD-1388,BaJu Bayi,120000,null,clothes,1765008000
+PROD-1389,KEMEJA FLANEL Keren,"Rp15000,-",null,clothes,"Aug 25, 2025"
+PROD-1390,BaJu Bayi,,-5,PAKAIAN,19/11/2025
+PROD-1391,BaJu Bayi,45rb,kosong,pakian,1755979200
+PROD-1392,hP android murah,45rb,kosong,elektronik,1765360800
+PROD-1393,LAPTOP gaming i7,$3.00,null,elektronik,1752069600
+PROD-1394,buku pemrograman python,45rb,-5,buku,25/10/2025
+PROD-1395,KEMEJA FLANEL Keren,Rp 15.000,12,pakian,1741093200
+PROD-1396,komik jepang lama,120,kosong,buku,31/07/2025
+PROD-1397,KAMUS BAHASA INGGRIS,120000,12,buku bacaan,1756098000
+PROD-1398,NOVEL FIKSI TERJEMAHAN,$1.00,-5,buku bacaan,19/06/2025
+PROD-1399,POWERBANK 10000mah,,12,ELEKTRONIK,1741150800
+PROD-1400,BaJu Bayi,15,12,clothes,20/04/2025
+PROD-1401,baju anak laki-laki,"Rp15000,-",-5,pakian,24/06/2025
+PROD-1402,mouse WIRELESS,,null,elektronik murah,2025-05-25 14:00:00
+PROD-1403,KEMEJA FLANEL Keren,15000,12,pakian,2025-06-25 12:00:00
+PROD-1404,KAMUS BAHASA INGGRIS,45000,-5,buku,"Mar 15, 2026"
+PROD-1405,KEMEJA FLANEL Keren,120,26,pakaian,1762768800
+PROD-1406,KEMEJA FLANEL Keren,120000,-5,PAKAIAN,10/06/2025
+PROD-1407,kaos polos combed,120,kosong,clothes,"Jul 05, 2025"
+PROD-1408,charger Type-C fast,15,-5,elektronik,23/01/2025
+PROD-1409,hP android murah,45000,12,elektronik murah,2025-08-28 13:00:00
+PROD-1410,POWERBANK 10000mah,Rp 15.000,62,ELEKTRONIK,"Sep 16, 2025"
+PROD-1411,NOVEL FIKSI TERJEMAHAN,"Rp45000,-",-5,BUKU,2025-08-07 17:00:00
+PROD-1412,KAMUS BAHASA INGGRIS,Rp 15.000,null,buku,13/01/2025
+PROD-1413,BaJu Bayi,null,71,PAKAIAN,1758016800
+PROD-1414,KEMEJA FLANEL Keren,null,10,clothes,"Sep 02, 2025"
+PROD-1415,komik jepang lama,"Rp45000,-",12,BUKU,17/06/2025
+PROD-1416,KEMEJA FLANEL Keren,Rp 120.000,null,pakian,1769220000
+PROD-1417,mouse WIRELESS,15,90,elektronik murah,2025-07-24 20:00:00
+PROD-1418,NOVEL FIKSI TERJEMAHAN,120000,12,buku bacaan,16/11/2025
+PROD-1419,Buku Mewarnai anak,$8.00,null,buku,"Aug 05, 2025"
+PROD-1420,buku pemrograman python,"Rp15000,-",kosong,buku,"Jul 30, 2025"
+PROD-1421,komik jepang lama,45000,12,BUKU,21/07/2025
+PROD-1422,LAPTOP gaming i7,,12,ELEKTRONIK,"Dec 06, 2025"
+PROD-1423,BaJu Bayi,$3.00,-5,PAKAIAN,11/08/2025
+PROD-1424,KEMEJA FLANEL Keren,Rp 15.000,kosong,pakaian,17/07/2025
+PROD-1425,KEMEJA FLANEL Keren,120,kosong,pakaian,2026-01-04 13:00:00
+PROD-1426,baju anak laki-laki,$1.00,47,clothes,1744822800
+PROD-1427,KAMUS BAHASA INGGRIS,45rb,3,buku,08/01/2026
+PROD-1428,POWERBANK 10000mah,$3.00,null,ELEKTRONIK,1740160800
+PROD-1429,charger Type-C fast,null,null,elektronik murah,15/02/2025
+PROD-1430,POWERBANK 10000mah,$8.00,null,elektronik murah,06/03/2026
+PROD-1431,charger Type-C fast,Rp 45.000,92,elektronik murah,"Mar 09, 2026"
+PROD-1432,KAMUS BAHASA INGGRIS,120000,kosong,buku,1757224800
+PROD-1433,KEMEJA FLANEL Keren,45,null,pakaian,12/07/2025
+PROD-1434,NOVEL FIKSI TERJEMAHAN,15rb,-5,BUKU,23/10/2025
+PROD-1435,LAPTOP gaming i7,$3.00,-5,ELEKTRONIK,"May 25, 2025"
+PROD-1436,LAPTOP gaming i7,45rb,12,ELEKTRONIK,"Aug 22, 2025"
+PROD-1437,KEMEJA FLANEL Keren,"Rp120000,-",kosong,PAKAIAN,1738119600
+PROD-1438,baju anak laki-laki,"Rp15000,-",28,pakaian,"Dec 06, 2025"
+PROD-1439,BaJu Bayi,$8.00,39,pakaian,23/01/2026
+PROD-1440,BAJU  ANAK PEREMPUAN,"Rp15000,-",-5,PAKAIAN,11/05/2025
+PROD-1441,BAJU  ANAK PEREMPUAN,45,kosong,pakaian,"Mar 04, 2026"
+PROD-1442,mouse WIRELESS,$3.00,13,elektronik,"Feb 23, 2026"
+PROD-1443,Buku Mewarnai anak,120,kosong,BUKU,2025-12-22 9:00:00
+PROD-1444,Buku Mewarnai anak,"Rp15000,-",null,BUKU,1741618800
+PROD-1445,kaos polos combed,45rb,54,pakaian,01/10/2025
+PROD-1446,KAMUS BAHASA INGGRIS,45,-5,BUKU,"Nov 28, 2025"
+PROD-1447,kaos polos combed,Rp 15.000,kosong,clothes,2025-10-17 10:00:00
+PROD-1448,baju anak laki-laki,15000,12,pakian,1773864000
+PROD-1449,kaos polos combed,"Rp120000,-",23,pakian,2025-03-07 8:00:00
+PROD-1450,Buku Mewarnai anak,15rb,null,BUKU,"Mar 10, 2025"
+PROD-1451,mouse WIRELESS,"Rp15000,-",-5,elektronik,29/01/2025
+PROD-1452,hP android murah,45rb,12,elektronik murah,23/06/2025
+PROD-1453,KEMEJA FLANEL Keren,"Rp120000,-",51,clothes,"Jul 25, 2025"
+PROD-1454,charger Type-C fast,45,null,ELEKTRONIK,2026-01-15 20:00:00
+PROD-1455,hP android murah,"Rp120000,-",12,elektronik,21/03/2025
+PROD-1456,Buku Mewarnai anak,null,kosong,buku,1751817600
+PROD-1457,BaJu Bayi,,65,clothes,2026-01-16 2:00:00
+PROD-1458,Buku Mewarnai anak,45rb,12,buku,23/05/2025
+PROD-1459,KEMEJA FLANEL Keren,120,null,clothes,04/12/2025
+PROD-1460,KEMEJA FLANEL Keren,$8.00,12,pakaian,"Feb 27, 2026"
+PROD-1461,komik jepang lama,15,kosong,buku,2025-10-22 16:00:00
+PROD-1462,BAJU  ANAK PEREMPUAN,$1.00,12,PAKAIAN,2025-04-03 1:00:00
+PROD-1463,baju anak laki-laki,45000,12,PAKAIAN,1751626800
+PROD-1464,buku pemrograman python,45rb,kosong,buku bacaan,1740722400
+PROD-1465,LAPTOP gaming i7,"Rp45000,-",kosong,ELEKTRONIK,09/02/2026
+PROD-1466,charger Type-C fast,"Rp45000,-",kosong,ELEKTRONIK,"Feb 24, 2026"
+PROD-1467,mouse WIRELESS,$1.00,100,elektronik,18/01/2025
+PROD-1468,BaJu Bayi,120rb,kosong,pakaian,1738044000
+PROD-1469,NOVEL FIKSI TERJEMAHAN,120rb,53,buku bacaan,1769734800
+PROD-1470,kaos polos combed,$3.00,kosong,clothes,"Jan 20, 2025"
+PROD-1471,hP android murah,120000,-5,ELEKTRONIK,2026-01-06 2:00:00
+PROD-1472,buku pemrograman python,null,-5,buku bacaan,2025-05-08 4:00:00
+PROD-1473,kaos polos combed,120000,kosong,pakian,2025-01-13 10:00:00
+PROD-1474,kaos polos combed,120,12,clothes,"Apr 26, 2025"
+PROD-1475,LAPTOP gaming i7,Rp 45.000,kosong,elektronik murah,28/01/2026
+PROD-1476,hP android murah,45,kosong,ELEKTRONIK,"May 05, 2025"
+PROD-1477,mouse WIRELESS,15rb,kosong,elektronik murah,1768298400
+PROD-1478,kaos polos combed,"Rp120000,-",23,pakian,1743022800
+PROD-1479,KEMEJA FLANEL Keren,Rp 120.000,12,clothes,"Mar 20, 2025"
+PROD-1480,LAPTOP gaming i7,45,-5,ELEKTRONIK,1762538400
+PROD-1481,BaJu Bayi,120rb,null,clothes,1770825600
+PROD-1482,charger Type-C fast,$3.00,null,ELEKTRONIK,01/06/2025
+PROD-1483,BaJu Bayi,120,98,pakian,1771430400
+PROD-1484,baju anak laki-laki,"Rp120000,-",12,PAKAIAN,03/01/2026
+PROD-1485,BAJU  ANAK PEREMPUAN,45rb,-5,pakian,1741536000
+PROD-1486,hP android murah,120000,12,elektronik murah,1752706800
+PROD-1487,BAJU  ANAK PEREMPUAN,120,-5,PAKAIAN,2025-01-12 18:00:00
+PROD-1488,Buku Mewarnai anak,15000,-5,BUKU,"Jun 07, 2025"
+PROD-1489,KAMUS BAHASA INGGRIS,$1.00,-5,buku,21/03/2025
+PROD-1490,buku pemrograman python,15000,null,BUKU,"Jan 27, 2025"
+PROD-1491,buku pemrograman python,Rp 15.000,null,buku,19/04/2025
+PROD-1492,BaJu Bayi,,55,clothes,1767830400
+PROD-1493,LAPTOP gaming i7,120,38,elektronik,2025-07-30 13:00:00
+PROD-1494,POWERBANK 10000mah,45000,12,elektronik murah,1756623600
+PROD-1495,charger Type-C fast,"Rp120000,-",null,ELEKTRONIK,1771891200
+PROD-1496,LAPTOP gaming i7,"Rp120000,-",-5,ELEKTRONIK,1746468000
+PROD-1497,charger Type-C fast,Rp 45.000,kosong,elektronik,"Mar 01, 2025"
+PROD-1498,BAJU  ANAK PEREMPUAN,,-5,pakian,2026-03-07 3:00:00
+PROD-1499,buku pemrograman python,"Rp120000,-",kosong,BUKU,"Aug 02, 2025"
+PROD-1500,KAMUS BAHASA INGGRIS,45,kosong,buku bacaan,2026-01-10 22:00:00
+PROD-1501,hP android murah,120rb,kosong,elektronik,"Feb 08, 2026"
+PROD-1502,BAJU  ANAK PEREMPUAN,45000,12,pakaian,2025-03-06 2:00:00
+PROD-1503,POWERBANK 10000mah,$8.00,kosong,elektronik,1738476000
+PROD-1504,kaos polos combed,120,12,pakaian,"Apr 13, 2025"
+PROD-1505,komik jepang lama,"Rp120000,-",42,BUKU,1755140400
+PROD-1506,komik jepang lama,"Rp15000,-",kosong,buku,02/02/2026
+PROD-1507,hP android murah,45000,null,ELEKTRONIK,"Feb 14, 2025"
+PROD-1508,buku pemrograman python,Rp 120.000,kosong,buku,24/01/2026
+PROD-1509,kaos polos combed,120,12,pakian,09/08/2025
+PROD-1510,BAJU  ANAK PEREMPUAN,120000,42,clothes,"May 05, 2025"
+PROD-1511,buku pemrograman python,$3.00,-5,buku,2025-03-26 10:00:00
+PROD-1512,Buku Mewarnai anak,null,43,BUKU,"Feb 20, 2025"
+PROD-1513,mouse WIRELESS,45000,-5,elektronik,21/12/2025
+PROD-1514,KAMUS BAHASA INGGRIS,15rb,12,buku,2025-09-25 23:00:00
+PROD-1515,charger Type-C fast,120rb,-5,elektronik murah,03/06/2025
+PROD-1516,baju anak laki-laki,"Rp15000,-",null,clothes,1771945200
+PROD-1517,KEMEJA FLANEL Keren,null,-5,clothes,"Apr 15, 2025"
+PROD-1518,baju anak laki-laki,null,null,clothes,27/07/2025
+PROD-1519,hP android murah,45000,12,elektronik,06/07/2025
+PROD-1520,baju anak laki-laki,$3.00,-5,pakaian,1765566000
+PROD-1521,kaos polos combed,,-5,pakaian,02/02/2025
+PROD-1522,mouse WIRELESS,45rb,12,elektronik,09/01/2025
+PROD-1523,KAMUS BAHASA INGGRIS,15000,-5,buku,1771354800
+PROD-1524,buku pemrograman python,15000,12,buku bacaan,"Dec 23, 2025"
+PROD-1525,baju anak laki-laki,$1.00,12,pakaian,2026-01-22 16:00:00
+PROD-1526,Buku Mewarnai anak,120rb,12,buku bacaan,1742940000
+PROD-1527,hP android murah,"Rp45000,-",94,elektronik murah,"Jul 13, 2025"
+PROD-1528,hP android murah,Rp 45.000,38,elektronik,"Jul 01, 2025"
+PROD-1529,LAPTOP gaming i7,null,12,elektronik murah,1736661600
+PROD-1530,KEMEJA FLANEL Keren,Rp 45.000,kosong,pakaian,10/05/2025
+PROD-1531,baju anak laki-laki,null,-5,PAKAIAN,"Jun 13, 2025"
+PROD-1532,mouse WIRELESS,15rb,null,elektronik,1766689200
+PROD-1533,komik jepang lama,120,null,BUKU,1749052800
+PROD-1534,kaos polos combed,15000,kosong,clothes,"Apr 02, 2025"
+PROD-1535,baju anak laki-laki,Rp 120.000,kosong,pakian,1752555600
+PROD-1536,komik jepang lama,120rb,-5,buku,2025-01-30 5:00:00
+PROD-1537,BAJU  ANAK PEREMPUAN,45000,null,PAKAIAN,10/11/2025
+PROD-1538,buku pemrograman python,15000,null,BUKU,2025-02-27 23:00:00
+PROD-1539,buku pemrograman python,45000,kosong,buku bacaan,06/11/2025
+PROD-1540,hP android murah,120000,2,ELEKTRONIK,1739491200
+PROD-1541,POWERBANK 10000mah,Rp 120.000,kosong,elektronik,1749549600
+PROD-1542,Buku Mewarnai anak,$1.00,64,BUKU,06/02/2025
+PROD-1543,kaos polos combed,120rb,null,pakian,"Jan 09, 2026"
+PROD-1544,charger Type-C fast,null,12,elektronik,2025-01-17 10:00:00
+PROD-1545,komik jepang lama,$8.00,72,buku bacaan,2025-07-19 9:00:00
+PROD-1546,POWERBANK 10000mah,45,12,elektronik,1761469200
+PROD-1547,komik jepang lama,120rb,12,buku bacaan,"May 07, 2025"
+PROD-1548,baju anak laki-laki,45rb,-5,pakaian,14/11/2025
+PROD-1549,komik jepang lama,"Rp45000,-",-5,BUKU,"Jul 27, 2025"
+PROD-1550,LAPTOP gaming i7,45,-5,ELEKTRONIK,2025-07-02 8:00:00
+PROD-1551,BaJu Bayi,120000,-5,clothes,1741057200
+PROD-1552,LAPTOP gaming i7,Rp 15.000,null,elektronik,30/04/2025
+PROD-1553,komik jepang lama,Rp 45.000,12,buku,2025-01-09 21:00:00
+PROD-1554,NOVEL FIKSI TERJEMAHAN,$8.00,-5,buku bacaan,1754791200
+PROD-1555,KEMEJA FLANEL Keren,Rp 45.000,kosong,clothes,11/07/2025
+PROD-1556,buku pemrograman python,$8.00,12,BUKU,03/11/2025
+PROD-1557,POWERBANK 10000mah,120000,kosong,elektronik murah,1740862800
+PROD-1558,komik jepang lama,15,12,buku,1740787200
+PROD-1559,POWERBANK 10000mah,"Rp120000,-",kosong,elektronik murah,1769407200
+PROD-1560,KAMUS BAHASA INGGRIS,120rb,kosong,buku bacaan,27/06/2025
+PROD-1561,baju anak laki-laki,"Rp120000,-",72,PAKAIAN,28/05/2025
+PROD-1562,Buku Mewarnai anak,45000,-5,buku,"Jan 15, 2025"
+PROD-1563,BAJU  ANAK PEREMPUAN,$1.00,kosong,pakian,"Mar 07, 2026"
+PROD-1564,buku pemrograman python,"Rp120000,-",null,buku bacaan,1745017200
+PROD-1565,KAMUS BAHASA INGGRIS,45,kosong,buku,13/10/2025
+PROD-1566,charger Type-C fast,Rp 120.000,kosong,ELEKTRONIK,09/02/2025
+PROD-1567,kaos polos combed,$1.00,-5,PAKAIAN,1768111200
+PROD-1568,KEMEJA FLANEL Keren,15,-5,pakian,2025-01-12 16:00:00
+PROD-1569,POWERBANK 10000mah,null,38,elektronik murah,2025-02-15 5:00:00
+PROD-1570,LAPTOP gaming i7,120,83,ELEKTRONIK,1746590400
+PROD-1571,POWERBANK 10000mah,120000,95,elektronik murah,1742374800
+PROD-1572,buku pemrograman python,120,null,BUKU,05/08/2025
+PROD-1573,hP android murah,Rp 15.000,41,elektronik murah,2025-10-12 6:00:00
+PROD-1574,BaJu Bayi,"Rp120000,-",kosong,pakian,"Oct 20, 2025"
+PROD-1575,hP android murah,Rp 45.000,16,elektronik,1753210800
+PROD-1576,charger Type-C fast,"Rp45000,-",null,elektronik,"Jul 08, 2025"
+PROD-1577,hP android murah,15rb,kosong,elektronik murah,"Oct 14, 2025"
+PROD-1578,KEMEJA FLANEL Keren,Rp 15.000,kosong,pakian,2025-07-01 17:00:00
+PROD-1579,KAMUS BAHASA INGGRIS,45rb,kosong,buku,1746381600
+PROD-1580,BAJU  ANAK PEREMPUAN,,12,pakian,06/01/2025
+PROD-1581,Buku Mewarnai anak,15000,null,buku,"Mar 31, 2025"
+PROD-1582,baju anak laki-laki,45000,50,clothes,01/03/2025
+PROD-1583,Buku Mewarnai anak,"Rp15000,-",kosong,buku bacaan,19/09/2025
+PROD-1584,komik jepang lama,15rb,-5,BUKU,1767196800
+PROD-1585,mouse WIRELESS,$1.00,-5,elektronik,"Aug 30, 2025"
+PROD-1586,buku pemrograman python,null,12,buku,"Feb 28, 2026"
+PROD-1587,baju anak laki-laki,"Rp120000,-",null,clothes,2025-05-25 19:00:00
+PROD-1588,Buku Mewarnai anak,45rb,12,BUKU,"Nov 14, 2025"
+PROD-1589,KEMEJA FLANEL Keren,15,-5,clothes,"Sep 02, 2025"
+PROD-1590,charger Type-C fast,null,70,elektronik,1744264800
+PROD-1591,komik jepang lama,15,kosong,buku,31/08/2025
+PROD-1592,LAPTOP gaming i7,120rb,kosong,ELEKTRONIK,2026-02-28 22:00:00
+PROD-1593,POWERBANK 10000mah,Rp 15.000,56,elektronik,1752926400
+PROD-1594,mouse WIRELESS,,null,elektronik murah,2026-03-12 19:00:00
+PROD-1595,POWERBANK 10000mah,$8.00,-5,elektronik murah,2026-01-03 22:00:00
+PROD-1596,LAPTOP gaming i7,15rb,null,elektronik murah,09/09/2025
+PROD-1597,NOVEL FIKSI TERJEMAHAN,45rb,-5,BUKU,"Aug 11, 2025"
+PROD-1598,Buku Mewarnai anak,45000,null,buku bacaan,2025-07-06 21:00:00
+PROD-1599,komik jepang lama,15000,61,BUKU,"Nov 25, 2025"
+PROD-1600,BaJu Bayi,,-5,pakian,08/01/2025
+PROD-1601,BaJu Bayi,120000,53,clothes,1752559200
+PROD-1602,BaJu Bayi,45000,null,pakian,2025-02-24 1:00:00
+PROD-1603,kaos polos combed,null,null,pakaian,"Jun 01, 2025"
+PROD-1604,hP android murah,$1.00,80,ELEKTRONIK,1740776400
+PROD-1605,komik jepang lama,Rp 15.000,20,buku,1749873600
+PROD-1606,POWERBANK 10000mah,Rp 120.000,100,elektronik murah,02/08/2025
+PROD-1607,mouse WIRELESS,$1.00,12,elektronik murah,"May 17, 2025"
+PROD-1608,kaos polos combed,$3.00,null,pakian,"Nov 16, 2025"
+PROD-1609,KEMEJA FLANEL Keren,Rp 45.000,95,pakaian,"Nov 21, 2025"
+PROD-1610,kaos polos combed,Rp 15.000,null,clothes,1759287600
+PROD-1611,NOVEL FIKSI TERJEMAHAN,120,12,buku bacaan,04/09/2025
+PROD-1612,KAMUS BAHASA INGGRIS,120000,-5,BUKU,1742925600
+PROD-1613,charger Type-C fast,null,12,elektronik murah,26/02/2026
+PROD-1614,hP android murah,120rb,-5,elektronik,1740636000
+PROD-1615,baju anak laki-laki,"Rp120000,-",kosong,pakian,2025-10-26 20:00:00
+PROD-1616,Buku Mewarnai anak,"Rp45000,-",12,BUKU,"Jan 18, 2025"
+PROD-1617,Buku Mewarnai anak,,kosong,buku bacaan,12/02/2026
+PROD-1618,charger Type-C fast,45rb,null,elektronik murah,2025-02-03 3:00:00
+PROD-1619,mouse WIRELESS,null,kosong,elektronik,1756371600
+PROD-1620,charger Type-C fast,$8.00,-5,elektronik murah,"May 18, 2025"
+PROD-1621,kaos polos combed,45000,12,pakaian,"Mar 27, 2025"
+PROD-1622,hP android murah,45,12,elektronik murah,1747731600
+PROD-1623,BAJU  ANAK PEREMPUAN,45000,kosong,pakian,"Aug 22, 2025"
+PROD-1624,NOVEL FIKSI TERJEMAHAN,$1.00,null,buku,2026-03-01 21:00:00
+PROD-1625,mouse WIRELESS,45,2,elektronik murah,2025-08-17 15:00:00
+PROD-1626,LAPTOP gaming i7,"Rp45000,-",12,elektronik murah,09/04/2025
+PROD-1627,POWERBANK 10000mah,Rp 15.000,12,elektronik murah,2025-05-11 22:00:00
+PROD-1628,kaos polos combed,Rp 15.000,64,clothes,2025-06-22 7:00:00
+PROD-1629,LAPTOP gaming i7,,12,elektronik,2025-08-05 21:00:00
+PROD-1630,KAMUS BAHASA INGGRIS,Rp 15.000,kosong,buku bacaan,2025-07-18 16:00:00
+PROD-1631,KEMEJA FLANEL Keren,120000,71,PAKAIAN,07/09/2025
+PROD-1632,KEMEJA FLANEL Keren,Rp 15.000,34,PAKAIAN,30/04/2025
+PROD-1633,Buku Mewarnai anak,,null,buku,"Feb 20, 2025"
+PROD-1634,hP android murah,Rp 15.000,kosong,elektronik,15/02/2026
+PROD-1635,charger Type-C fast,"Rp120000,-",null,elektronik murah,"Oct 17, 2025"
+PROD-1636,hP android murah,Rp 45.000,kosong,ELEKTRONIK,2025-09-12 8:00:00
+PROD-1637,POWERBANK 10000mah,15,null,elektronik,31/01/2025
+PROD-1638,LAPTOP gaming i7,45,kosong,elektronik,2025-03-08 4:00:00
+PROD-1639,BaJu Bayi,15,-5,PAKAIAN,2025-05-03 12:00:00
+PROD-1640,baju anak laki-laki,120000,null,pakian,"Mar 25, 2025"
+PROD-1641,kaos polos combed,120000,13,PAKAIAN,1747058400
+PROD-1642,BAJU  ANAK PEREMPUAN,120rb,76,pakian,"Jan 18, 2025"
+PROD-1643,mouse WIRELESS,"Rp45000,-",null,elektronik murah,"Apr 24, 2025"
+PROD-1644,KAMUS BAHASA INGGRIS,15000,12,buku,1769590800
+PROD-1645,mouse WIRELESS,null,12,ELEKTRONIK,"Jan 08, 2025"
+PROD-1646,mouse WIRELESS,$8.00,-5,elektronik murah,"Aug 31, 2025"
+PROD-1647,kaos polos combed,120rb,12,clothes,2025-06-08 23:00:00
+PROD-1648,BAJU  ANAK PEREMPUAN,$3.00,kosong,pakaian,"Sep 12, 2025"
+PROD-1649,NOVEL FIKSI TERJEMAHAN,,90,buku bacaan,1745215200
+PROD-1650,POWERBANK 10000mah,45,-5,elektronik murah,1752962400
+PROD-1651,POWERBANK 10000mah,Rp 15.000,null,elektronik,"Oct 31, 2025"
+PROD-1652,mouse WIRELESS,null,kosong,ELEKTRONIK,1768424400
+PROD-1653,KAMUS BAHASA INGGRIS,Rp 45.000,kosong,buku,16/07/2025
+PROD-1654,KEMEJA FLANEL Keren,$8.00,12,clothes,28/05/2025
+PROD-1655,KEMEJA FLANEL Keren,Rp 120.000,12,pakaian,20/10/2025
+PROD-1656,KEMEJA FLANEL Keren,Rp 15.000,null,PAKAIAN,"Mar 16, 2026"
+PROD-1657,hP android murah,120,91,ELEKTRONIK,05/04/2025
+PROD-1658,BaJu Bayi,15000,12,clothes,14/08/2025
+PROD-1659,LAPTOP gaming i7,"Rp120000,-",null,elektronik murah,"Dec 10, 2025"
+PROD-1660,charger Type-C fast,45rb,-5,ELEKTRONIK,2025-05-30 12:00:00
+PROD-1661,hP android murah,45000,kosong,elektronik,16/08/2025
+PROD-1662,BAJU  ANAK PEREMPUAN,$8.00,null,pakaian,"Feb 11, 2025"
+PROD-1663,LAPTOP gaming i7,120rb,null,elektronik murah,"Jun 09, 2025"
+PROD-1664,charger Type-C fast,"Rp45000,-",-5,elektronik,"Jan 30, 2025"
+PROD-1665,BAJU  ANAK PEREMPUAN,15000,-5,pakian,1765566000
+PROD-1666,mouse WIRELESS,120000,null,elektronik,2025-08-12 17:00:00
+PROD-1667,POWERBANK 10000mah,120,12,elektronik murah,2025-05-29 14:00:00
+PROD-1668,charger Type-C fast,,null,ELEKTRONIK,15/09/2025
+PROD-1669,mouse WIRELESS,Rp 15.000,12,elektronik murah,1746608400
+PROD-1670,mouse WIRELESS,45000,null,elektronik murah,12/07/2025
+PROD-1671,NOVEL FIKSI TERJEMAHAN,45rb,kosong,BUKU,1758708000
+PROD-1672,kaos polos combed,$8.00,-5,pakaian,1757185200
+PROD-1673,mouse WIRELESS,$3.00,32,ELEKTRONIK,2026-03-22 19:00:00
+PROD-1674,BaJu Bayi,45,12,PAKAIAN,"Mar 24, 2026"
+PROD-1675,kaos polos combed,15000,null,PAKAIAN,"Oct 24, 2025"
+PROD-1676,baju anak laki-laki,Rp 45.000,-5,pakaian,2025-12-10 18:00:00
+PROD-1677,KAMUS BAHASA INGGRIS,"Rp15000,-",8,buku,1761015600
+PROD-1678,hP android murah,$1.00,kosong,elektronik murah,"Apr 02, 2025"
+PROD-1679,LAPTOP gaming i7,120000,12,elektronik murah,"Jun 15, 2025"
+PROD-1680,hP android murah,120,null,ELEKTRONIK,1744041600
+PROD-1681,KAMUS BAHASA INGGRIS,"Rp15000,-",null,buku,03/08/2025
+PROD-1682,BaJu Bayi,"Rp120000,-",12,pakaian,02/03/2025
+PROD-1683,baju anak laki-laki,Rp 45.000,null,pakaian,25/03/2026
+PROD-1684,buku pemrograman python,45,kosong,buku,2025-11-26 0:00:00
+PROD-1685,baju anak laki-laki,"Rp120000,-",-5,clothes,"Jan 26, 2026"
+PROD-1686,komik jepang lama,15rb,null,BUKU,03/02/2026
+PROD-1687,KEMEJA FLANEL Keren,Rp 120.000,2,PAKAIAN,22/07/2025
+PROD-1688,KEMEJA FLANEL Keren,"Rp15000,-",kosong,PAKAIAN,2025-11-29 9:00:00
+PROD-1689,mouse WIRELESS,"Rp15000,-",-5,ELEKTRONIK,2025-02-21 9:00:00
+PROD-1690,Buku Mewarnai anak,45000,-5,buku,09/06/2025
+PROD-1691,Buku Mewarnai anak,$1.00,null,buku,"Feb 06, 2025"
+PROD-1692,LAPTOP gaming i7,120000,kosong,ELEKTRONIK,"May 10, 2025"
+PROD-1693,mouse WIRELESS,$3.00,-5,elektronik,1742284800
+PROD-1694,hP android murah,$3.00,kosong,elektronik,30/09/2025
+PROD-1695,buku pemrograman python,Rp 45.000,kosong,BUKU,21/05/2025
+PROD-1696,KAMUS BAHASA INGGRIS,120000,-5,buku,15/06/2025
+PROD-1697,POWERBANK 10000mah,45rb,null,ELEKTRONIK,1763535600
+PROD-1698,BAJU  ANAK PEREMPUAN,Rp 120.000,-5,pakian,"Nov 07, 2025"
+PROD-1699,BAJU  ANAK PEREMPUAN,120000,12,pakaian,2026-02-06 20:00:00
+PROD-1700,KEMEJA FLANEL Keren,120,null,PAKAIAN,"Jun 18, 2025"
+PROD-1701,NOVEL FIKSI TERJEMAHAN,120,kosong,buku bacaan,"Sep 17, 2025"
+PROD-1702,LAPTOP gaming i7,null,null,elektronik,1760216400
+PROD-1703,BaJu Bayi,null,kosong,PAKAIAN,17/08/2025
+PROD-1704,BAJU  ANAK PEREMPUAN,Rp 15.000,kosong,pakian,29/04/2025
+PROD-1705,LAPTOP gaming i7,"Rp15000,-",-5,ELEKTRONIK,1769115600
+PROD-1706,komik jepang lama,"Rp120000,-",12,buku,1736247600
+PROD-1707,hP android murah,null,12,ELEKTRONIK,12/04/2025
+PROD-1708,Buku Mewarnai anak,45,59,BUKU,26/03/2025
+PROD-1709,buku pemrograman python,"Rp120000,-",null,BUKU,23/09/2025
+PROD-1710,NOVEL FIKSI TERJEMAHAN,Rp 120.000,12,BUKU,"Mar 11, 2026"
+PROD-1711,mouse WIRELESS,Rp 120.000,-5,ELEKTRONIK,2025-04-09 13:00:00
+PROD-1712,BaJu Bayi,15rb,null,pakaian,"Feb 21, 2025"
+PROD-1713,hP android murah,Rp 120.000,12,elektronik murah,1746972000
+PROD-1714,BAJU  ANAK PEREMPUAN,120000,-5,clothes,1760328000
+PROD-1715,POWERBANK 10000mah,120000,12,elektronik,2026-02-18 11:00:00
+PROD-1716,POWERBANK 10000mah,Rp 45.000,53,ELEKTRONIK,"Dec 29, 2025"
+PROD-1717,LAPTOP gaming i7,null,59,ELEKTRONIK,1764291600
+PROD-1718,hP android murah,$3.00,12,ELEKTRONIK,2025-12-11 2:00:00
+PROD-1719,LAPTOP gaming i7,15rb,12,elektronik,"Jul 29, 2025"
+PROD-1720,BaJu Bayi,"Rp120000,-",48,PAKAIAN,1752642000
+PROD-1721,hP android murah,15rb,12,elektronik,"Jan 04, 2026"
+PROD-1722,komik jepang lama,,80,buku,22/02/2026
+PROD-1723,BAJU  ANAK PEREMPUAN,120000,kosong,pakian,17/08/2025
+PROD-1724,KAMUS BAHASA INGGRIS,15,null,BUKU,2025-03-23 20:00:00
+PROD-1725,NOVEL FIKSI TERJEMAHAN,,-5,buku,2025-06-24 18:00:00
+PROD-1726,POWERBANK 10000mah,"Rp15000,-",73,elektronik,"Jan 06, 2026"
+PROD-1727,komik jepang lama,,kosong,BUKU,"Sep 16, 2025"
+PROD-1728,mouse WIRELESS,Rp 120.000,null,ELEKTRONIK,"Aug 06, 2025"
+PROD-1729,baju anak laki-laki,45rb,null,clothes,15/01/2025
+PROD-1730,hP android murah,Rp 45.000,null,elektronik,"Mar 03, 2025"
+PROD-1731,KEMEJA FLANEL Keren,Rp 45.000,12,PAKAIAN,2025-05-24 13:00:00
+PROD-1732,komik jepang lama,"Rp15000,-",kosong,BUKU,03/08/2025
+PROD-1733,BAJU  ANAK PEREMPUAN,null,kosong,pakian,"Oct 27, 2025"
+PROD-1734,buku pemrograman python,120rb,95,buku,22/09/2025
+PROD-1735,baju anak laki-laki,120rb,-5,PAKAIAN,1762480800
+PROD-1736,NOVEL FIKSI TERJEMAHAN,45rb,null,buku bacaan,2025-03-11 12:00:00
+PROD-1737,POWERBANK 10000mah,"Rp120000,-",-5,elektronik murah,1770152400
+PROD-1738,buku pemrograman python,$1.00,-5,buku,"Jan 30, 2025"
+PROD-1739,NOVEL FIKSI TERJEMAHAN,15000,12,buku,"Oct 22, 2025"
+PROD-1740,baju anak laki-laki,"Rp120000,-",71,clothes,"Mar 06, 2025"
+PROD-1741,baju anak laki-laki,45,null,clothes,26/01/2025
+PROD-1742,Buku Mewarnai anak,Rp 45.000,57,buku bacaan,"Apr 29, 2025"
+PROD-1743,kaos polos combed,15000,-5,pakian,1760540400
+PROD-1744,buku pemrograman python,$1.00,-5,BUKU,22/11/2025
+PROD-1745,kaos polos combed,45000,null,pakaian,"Feb 20, 2026"
+PROD-1746,buku pemrograman python,Rp 120.000,12,buku bacaan,1747958400
+PROD-1747,baju anak laki-laki,$8.00,kosong,PAKAIAN,"Jan 22, 2025"
+PROD-1748,hP android murah,"Rp15000,-",31,elektronik murah,"Dec 12, 2025"
+PROD-1749,hP android murah,"Rp45000,-",kosong,elektronik,"Jan 05, 2026"
+PROD-1750,BAJU  ANAK PEREMPUAN,null,12,pakaian,"Jul 12, 2025"
+PROD-1751,Buku Mewarnai anak,Rp 45.000,12,buku,"Aug 05, 2025"
+PROD-1752,KEMEJA FLANEL Keren,120,-5,pakian,"Feb 17, 2025"
+PROD-1753,hP android murah,"Rp120000,-",-5,elektronik,2025-12-07 4:00:00
+PROD-1754,KEMEJA FLANEL Keren,120rb,kosong,clothes,1746396000
+PROD-1755,BAJU  ANAK PEREMPUAN,120000,kosong,clothes,"Feb 28, 2026"
+PROD-1756,charger Type-C fast,15rb,12,ELEKTRONIK,2025-04-03 3:00:00
+PROD-1757,POWERBANK 10000mah,45000,kosong,elektronik murah,2025-08-14 8:00:00
+PROD-1758,POWERBANK 10000mah,Rp 45.000,50,ELEKTRONIK,1750489200
+PROD-1759,kaos polos combed,45,null,pakian,22/05/2025
+PROD-1760,baju anak laki-laki,45rb,kosong,clothes,"Dec 28, 2025"
+PROD-1761,Buku Mewarnai anak,15,kosong,BUKU,26/06/2025
+PROD-1762,baju anak laki-laki,null,-5,PAKAIAN,"Aug 18, 2025"
+PROD-1763,buku pemrograman python,Rp 15.000,kosong,buku bacaan,"Mar 29, 2025"
+PROD-1764,POWERBANK 10000mah,$3.00,-5,elektronik murah,1755752400
+PROD-1765,baju anak laki-laki,,-5,PAKAIAN,2026-01-16 12:00:00
+PROD-1766,POWERBANK 10000mah,45000,28,elektronik murah,"Jul 23, 2025"
+PROD-1767,KAMUS BAHASA INGGRIS,$3.00,12,BUKU,"Jul 08, 2025"
+PROD-1768,Buku Mewarnai anak,45rb,kosong,BUKU,1740963600
+PROD-1769,KAMUS BAHASA INGGRIS,15000,-5,buku bacaan,1760504400
+PROD-1770,BaJu Bayi,null,95,PAKAIAN,10/02/2025
+PROD-1771,buku pemrograman python,45rb,kosong,BUKU,31/01/2025
+PROD-1772,kaos polos combed,15rb,null,pakaian,1760256000
+PROD-1773,buku pemrograman python,45,12,buku bacaan,"May 28, 2025"
+PROD-1774,KAMUS BAHASA INGGRIS,$1.00,null,BUKU,05/12/2025
+PROD-1775,BaJu Bayi,120,null,pakian,1737360000
+PROD-1776,KAMUS BAHASA INGGRIS,$8.00,kosong,BUKU,1760774400
+PROD-1777,BAJU  ANAK PEREMPUAN,Rp 120.000,12,PAKAIAN,"Jul 14, 2025"
+PROD-1778,komik jepang lama,120,12,buku bacaan,1753603200
+PROD-1779,kaos polos combed,15000,-5,clothes,1752181200
+PROD-1780,baju anak laki-laki,"Rp15000,-",null,pakian,"Mar 14, 2026"
+PROD-1781,baju anak laki-laki,45rb,12,PAKAIAN,1745031600
+PROD-1782,buku pemrograman python,15,kosong,BUKU,1761292800
+PROD-1783,charger Type-C fast,"Rp15000,-",kosong,ELEKTRONIK,07/02/2026
+PROD-1784,komik jepang lama,15,-5,BUKU,"Mar 19, 2026"
+PROD-1785,KEMEJA FLANEL Keren,45,12,pakaian,"Mar 23, 2025"
+PROD-1786,baju anak laki-laki,"Rp15000,-",-5,clothes,25/08/2025
+PROD-1787,baju anak laki-laki,15,null,PAKAIAN,"Sep 11, 2025"
+PROD-1788,KEMEJA FLANEL Keren,15000,kosong,pakaian,30/12/2025
+PROD-1789,mouse WIRELESS,15,kosong,ELEKTRONIK,18/03/2026
+PROD-1790,kaos polos combed,Rp 45.000,null,pakian,01/04/2025
+PROD-1791,baju anak laki-laki,120,null,pakaian,"Jul 26, 2025"
+PROD-1792,NOVEL FIKSI TERJEMAHAN,$8.00,12,BUKU,1757109600
+PROD-1793,POWERBANK 10000mah,"Rp120000,-",null,ELEKTRONIK,2025-01-29 12:00:00
+PROD-1794,LAPTOP gaming i7,$3.00,-5,elektronik,1762707600
+PROD-1795,charger Type-C fast,120000,null,elektronik,"Dec 22, 2025"
+PROD-1796,LAPTOP gaming i7,Rp 15.000,-5,elektronik murah,"Apr 04, 2025"
+PROD-1797,BAJU  ANAK PEREMPUAN,45rb,-5,clothes,06/04/2025
+PROD-1798,NOVEL FIKSI TERJEMAHAN,45,null,buku bacaan,2026-01-17 19:00:00
+PROD-1799,hP android murah,15,null,elektronik murah,28/07/2025
+PROD-1800,charger Type-C fast,45,-5,elektronik murah,1742133600
+PROD-0002,mouse WIRELESS,"Rp15000,-",-5,ELEKTRONIK,2025-07-31 16:00:00
+PROD-1172,KEMEJA FLANEL Keren,Rp 45.000,10,PAKAIAN,2025-06-04 16:00:00
+PROD-0334,POWERBANK 10000mah,Rp 120.000,43,elektronik,19/04/2025
+PROD-1147,BAJU  ANAK PEREMPUAN,45000,48,PAKAIAN,1758326400
+PROD-0263,KAMUS BAHASA INGGRIS,$3.00,kosong,BUKU,1757167200
+PROD-0025,mouse WIRELESS,15000,kosong,ELEKTRONIK,"Mar 06, 2026"
+PROD-0175,komik jepang lama,45000,12,buku,1758427200
+PROD-1189,NOVEL FIKSI TERJEMAHAN,Rp 45.000,kosong,buku,16/04/2025
+PROD-0500,buku pemrograman python,$3.00,null,buku bacaan,1758452400
+PROD-1188,Buku Mewarnai anak,45000,-5,buku,"Mar 02, 2026"
+PROD-1486,buku pemrograman python,,null,buku bacaan,1735786800
+PROD-0376,NOVEL FIKSI TERJEMAHAN,15,null,buku,2025-03-17 10:00:00
+PROD-1470,KEMEJA FLANEL Keren,15000,kosong,pakaian,2025-08-27 6:00:00
+PROD-0053,Buku Mewarnai anak,15,-5,BUKU,1770498000
+PROD-1698,KEMEJA FLANEL Keren,,kosong,clothes,12/06/2025
+PROD-0711,LAPTOP gaming i7,120000,-5,elektronik,2025-11-15 12:00:00
+PROD-1107,hP android murah,"Rp45000,-",12,ELEKTRONIK,14/05/2025
+PROD-0870,buku pemrograman python,45,49,BUKU,08/12/2025
+PROD-1521,BAJU  ANAK PEREMPUAN,Rp 120.000,61,PAKAIAN,1752850800
+PROD-0102,kaos polos combed,null,55,pakaian,27/09/2025
+PROD-0378,BaJu Bayi,15rb,-5,pakaian,2025-03-14 3:00:00
+PROD-1656,BAJU  ANAK PEREMPUAN,45000,kosong,clothes,15/01/2025
+PROD-0016,POWERBANK 10000mah,Rp 45.000,12,elektronik murah,21/08/2025
+PROD-0826,mouse WIRELESS,120rb,-5,elektronik murah,"Oct 02, 2025"
+PROD-0631,mouse WIRELESS,120000,12,ELEKTRONIK,09/03/2026
+PROD-1674,POWERBANK 10000mah,"Rp120000,-",kosong,elektronik murah,1755885600
+PROD-0118,NOVEL FIKSI TERJEMAHAN,Rp 120.000,25,BUKU,2025-11-10 1:00:00
+PROD-1582,LAPTOP gaming i7,45000,38,ELEKTRONIK,2025-08-26 23:00:00
+PROD-0809,KAMUS BAHASA INGGRIS,120,null,BUKU,"Aug 19, 2025"
+PROD-0729,kaos polos combed,$1.00,-5,pakaian,26/03/2026
+PROD-0451,BAJU  ANAK PEREMPUAN,45rb,-5,pakian,1772409600
+PROD-1036,mouse WIRELESS,$3.00,-5,ELEKTRONIK,"Mar 08, 2025"
+PROD-0613,mouse WIRELESS,"Rp45000,-",67,ELEKTRONIK,18/02/2026
+PROD-0442,KAMUS BAHASA INGGRIS,Rp 120.000,12,buku,08/10/2025
+PROD-0122,NOVEL FIKSI TERJEMAHAN,$8.00,12,buku,2025-12-14 14:00:00
+PROD-0656,KAMUS BAHASA INGGRIS,$1.00,-5,buku bacaan,"Mar 01, 2026"
+PROD-0805,charger Type-C fast,"Rp15000,-",12,elektronik murah,"May 23, 2025"
+PROD-0489,kaos polos combed,120000,12,clothes,"Nov 02, 2025"
+PROD-0892,charger Type-C fast,120,27,elektronik murah,1773680400
+PROD-1630,KEMEJA FLANEL Keren,120000,31,pakian,2025-03-09 9:00:00
+PROD-1143,BAJU  ANAK PEREMPUAN,,50,pakian,2026-01-26 21:00:00
+PROD-1225,mouse WIRELESS,45,12,ELEKTRONIK,"Mar 04, 2026"
+PROD-0475,LAPTOP gaming i7,Rp 120.000,kosong,elektronik,31/01/2026
+PROD-0486,KEMEJA FLANEL Keren,$8.00,-5,clothes,1743282000
+PROD-1247,mouse WIRELESS,45000,-5,elektronik,1751738400
+PROD-1541,BAJU  ANAK PEREMPUAN,15rb,84,pakaian,1737262800
+PROD-0252,BaJu Bayi,$3.00,12,PAKAIAN,23/03/2026
+PROD-0782,BAJU  ANAK PEREMPUAN,15000,15,pakian,20/02/2025
+PROD-0936,charger Type-C fast,"Rp15000,-",kosong,ELEKTRONIK,1753178400
+PROD-0717,baju anak laki-laki,15rb,kosong,clothes,27/11/2025
+PROD-0527,LAPTOP gaming i7,"Rp120000,-",-5,ELEKTRONIK,1737028800
+PROD-1699,NOVEL FIKSI TERJEMAHAN,"Rp120000,-",58,BUKU,"Nov 06, 2025"
+PROD-0007,charger Type-C fast,120000,kosong,elektronik,"Apr 27, 2025"
+PROD-1299,komik jepang lama,$1.00,12,buku,2025-08-03 7:00:00
+PROD-0421,BaJu Bayi,"Rp45000,-",null,PAKAIAN,2025-04-16 6:00:00
+PROD-1579,komik jepang lama,$1.00,-5,buku,"Mar 13, 2026"
+PROD-0374,kaos polos combed,45000,kosong,pakaian,2026-03-25 5:00:00
+PROD-0125,charger Type-C fast,15000,null,ELEKTRONIK,"Aug 18, 2025"
+PROD-1492,KAMUS BAHASA INGGRIS,45000,null,BUKU,19/11/2025
+PROD-1728,LAPTOP gaming i7,Rp 15.000,12,elektronik murah,1766649600
+PROD-0222,NOVEL FIKSI TERJEMAHAN,Rp 45.000,kosong,BUKU,2025-01-22 21:00:00
+PROD-1065,baju anak laki-laki,"Rp45000,-",kosong,pakian,08/06/2025
+PROD-0568,LAPTOP gaming i7,15,12,ELEKTRONIK,"Jan 02, 2025"
+PROD-0415,KEMEJA FLANEL Keren,,12,pakian,18/09/2025
+PROD-0887,komik jepang lama,,kosong,BUKU,1763845200
+PROD-0037,KEMEJA FLANEL Keren,15,kosong,clothes,15/01/2026
+PROD-1092,komik jepang lama,120rb,null,buku,"May 19, 2025"
+PROD-1215,NOVEL FIKSI TERJEMAHAN,15000,80,buku bacaan,1750899600
+PROD-0671,komik jepang lama,45rb,null,BUKU,12/02/2026
+PROD-0361,NOVEL FIKSI TERJEMAHAN,"Rp45000,-",1,buku bacaan,16/01/2025
+PROD-0238,charger Type-C fast,45rb,-5,elektronik,2025-01-17 2:00:00
+PROD-1083,Buku Mewarnai anak,$8.00,kosong,buku,2025-02-28 10:00:00
+PROD-0671,KAMUS BAHASA INGGRIS,$8.00,kosong,buku bacaan,"Mar 22, 2025"
+PROD-1613,baju anak laki-laki,45rb,35,PAKAIAN,2025-02-03 12:00:00
+PROD-0748,BaJu Bayi,Rp 120.000,kosong,PAKAIAN,1741539600
+PROD-1487,Buku Mewarnai anak,45rb,null,buku,1748354400
+PROD-1181,hP android murah,Rp 120.000,-5,elektronik murah,2025-02-24 8:00:00
+PROD-0376,kaos polos combed,"Rp120000,-",15,pakaian,1751245200
+PROD-0701,baju anak laki-laki,Rp 15.000,12,pakian,"Feb 15, 2026"
+PROD-0768,BAJU  ANAK PEREMPUAN,15,kosong,pakian,1738108800
+PROD-1069,POWERBANK 10000mah,$1.00,kosong,elektronik,19/05/2025
+PROD-0959,Buku Mewarnai anak,$3.00,-5,BUKU,"Apr 12, 2025"
+PROD-0757,BaJu Bayi,"Rp15000,-",null,clothes,01/05/2025
+PROD-1243,charger Type-C fast,120rb,-5,ELEKTRONIK,2025-08-20 2:00:00
+PROD-0033,komik jepang lama,Rp 15.000,null,buku,"Jan 30, 2025"
+PROD-0632,LAPTOP gaming i7,$8.00,null,ELEKTRONIK,09/03/2025
+PROD-0385,mouse WIRELESS,$3.00,-5,elektronik,2025-05-07 12:00:00
+PROD-1294,mouse WIRELESS,45,-5,ELEKTRONIK,06/11/2025
+PROD-0548,hP android murah,15,-5,elektronik murah,2025-08-20 21:00:00
+PROD-0128,hP android murah,15rb,null,elektronik,2025-12-13 1:00:00
+PROD-1403,kaos polos combed,"Rp15000,-",kosong,pakian,2025-10-30 18:00:00
+PROD-0913,KEMEJA FLANEL Keren,"Rp45000,-",kosong,pakaian,1766383200
+PROD-1169,KEMEJA FLANEL Keren,120,47,pakaian,"Feb 03, 2025"
+PROD-0153,kaos polos combed,"Rp120000,-",85,pakian,2025-11-21 11:00:00
+PROD-1237,charger Type-C fast,"Rp45000,-",12,elektronik,2025-04-07 3:00:00
+PROD-1703,Buku Mewarnai anak,null,kosong,buku,2025-07-23 17:00:00
+PROD-0718,komik jepang lama,"Rp120000,-",kosong,BUKU,1748804400
+PROD-0834,kaos polos combed,Rp 120.000,12,PAKAIAN,"Nov 24, 2025"
+PROD-0753,charger Type-C fast,45000,19,elektronik murah,2026-02-16 9:00:00
+PROD-0731,charger Type-C fast,$8.00,kosong,elektronik murah,"May 20, 2025"
+PROD-0245,charger Type-C fast,"Rp45000,-",-5,ELEKTRONIK,25/07/2025
+PROD-0539,charger Type-C fast,,12,elektronik,"Oct 27, 2025"
+PROD-1070,buku pemrograman python,120,12,buku bacaan,"Mar 08, 2025"
+PROD-1159,komik jepang lama,"Rp45000,-",60,buku bacaan,14/10/2025
+PROD-0944,NOVEL FIKSI TERJEMAHAN,15000,kosong,buku bacaan,11/10/2025
+PROD-1614,NOVEL FIKSI TERJEMAHAN,Rp 120.000,12,BUKU,1752134400
+PROD-0518,hP android murah,null,29,elektronik,"Mar 31, 2025"
+PROD-0799,komik jepang lama,$3.00,68,buku bacaan,2025-12-29 4:00:00
+PROD-1016,LAPTOP gaming i7,$3.00,7,elektronik,26/01/2025
+PROD-1793,LAPTOP gaming i7,120,-5,elektronik murah,12/07/2025
+PROD-1552,mouse WIRELESS,"Rp120000,-",null,elektronik,1751367600
+PROD-0262,charger Type-C fast,,-5,elektronik,1765314000
+PROD-0720,mouse WIRELESS,15rb,50,elektronik,"Jan 08, 2025"
+PROD-0778,POWERBANK 10000mah,Rp 120.000,12,elektronik,14/07/2025
+PROD-1247,charger Type-C fast,45000,12,elektronik,"Mar 16, 2025"
+PROD-1066,POWERBANK 10000mah,Rp 120.000,kosong,elektronik,2025-03-28 19:00:00
+PROD-0687,NOVEL FIKSI TERJEMAHAN,$1.00,kosong,BUKU,2025-07-17 3:00:00
+PROD-0739,BaJu Bayi,$8.00,null,pakian,1771830000
+PROD-1163,kaos polos combed,$3.00,kosong,PAKAIAN,14/06/2025
+PROD-1657,KEMEJA FLANEL Keren,Rp 15.000,kosong,pakian,10/01/2025
+PROD-1372,komik jepang lama,45000,kosong,BUKU,"Mar 25, 2026"
+PROD-1753,buku pemrograman python,"Rp15000,-",null,BUKU,"Dec 14, 2025"
+PROD-0094,POWERBANK 10000mah,,59,elektronik,1755500400
+PROD-1330,Buku Mewarnai anak,$1.00,12,BUKU,"Oct 08, 2025"
+PROD-0997,NOVEL FIKSI TERJEMAHAN,45rb,kosong,buku bacaan,"Mar 06, 2025"
+PROD-0601,NOVEL FIKSI TERJEMAHAN,"Rp120000,-",97,buku bacaan,24/02/2026
+PROD-1273,BAJU  ANAK PEREMPUAN,$1.00,12,pakian,"Oct 30, 2025"
+PROD-1708,BaJu Bayi,45,29,clothes,2025-01-30 8:00:00
+PROD-0267,BaJu Bayi,45000,28,pakaian,2025-11-11 13:00:00
+PROD-0552,POWERBANK 10000mah,15,16,elektronik,24/06/2025
+PROD-0967,komik jepang lama,45rb,1,BUKU,"May 10, 2025"
+PROD-1254,kaos polos combed,Rp 45.000,-5,clothes,15/06/2025
+PROD-0267,BaJu Bayi,$3.00,null,pakian,1769731200
+PROD-0294,BAJU  ANAK PEREMPUAN,45000,90,pakaian,1773507600
+PROD-0007,BAJU  ANAK PEREMPUAN,Rp 45.000,kosong,pakian,2025-05-05 15:00:00
+PROD-0134,KEMEJA FLANEL Keren,45,kosong,pakaian,1758873600
+PROD-0575,KEMEJA FLANEL Keren,45,12,pakaian,"Jan 15, 2026"
+PROD-0686,LAPTOP gaming i7,Rp 120.000,kosong,ELEKTRONIK,1759510800
+PROD-0858,KAMUS BAHASA INGGRIS,Rp 120.000,-5,BUKU,2026-01-01 22:00:00
+PROD-1519,NOVEL FIKSI TERJEMAHAN,15000,-5,BUKU,2025-12-20 7:00:00
+PROD-0265,BaJu Bayi,15,6,pakian,1752559200
+PROD-1099,KAMUS BAHASA INGGRIS,120,12,buku,15/05/2025
+PROD-0907,NOVEL FIKSI TERJEMAHAN,$1.00,kosong,buku,1737316800
+PROD-1758,KEMEJA FLANEL Keren,120rb,94,pakaian,1737453600
+PROD-1730,BaJu Bayi,120rb,-5,clothes,17/10/2025
+PROD-0573,kaos polos combed,45000,null,clothes,1750867200
+PROD-1440,baju anak laki-laki,120rb,null,PAKAIAN,"Feb 22, 2026"
+PROD-1654,Buku Mewarnai anak,120000,87,BUKU,18/05/2025
+PROD-0692,Buku Mewarnai anak,"Rp15000,-",12,buku,27/02/2025
+PROD-1557,NOVEL FIKSI TERJEMAHAN,Rp 15.000,12,BUKU,2026-01-10 0:00:00
+PROD-0534,LAPTOP gaming i7,Rp 120.000,12,ELEKTRONIK,1749362400
+PROD-0787,BAJU  ANAK PEREMPUAN,$3.00,kosong,pakaian,21/10/2025
+PROD-0344,KAMUS BAHASA INGGRIS,45000,null,BUKU,2025-10-20 20:00:00
+PROD-0348,komik jepang lama,Rp 120.000,null,buku,"Aug 31, 2025"
+PROD-1066,KAMUS BAHASA INGGRIS,15000,12,buku bacaan,"Mar 21, 2026"
+PROD-1776,charger Type-C fast,,12,elektronik murah,1761451200
+PROD-1210,kaos polos combed,120rb,null,clothes,1773637200
+PROD-1715,charger Type-C fast,45000,kosong,elektronik murah,1742288400
+PROD-0233,baju anak laki-laki,45,kosong,PAKAIAN,2025-03-10 8:00:00
+PROD-1718,komik jepang lama,"Rp45000,-",83,buku,"Oct 06, 2025"
+PROD-0265,LAPTOP gaming i7,"Rp120000,-",12,ELEKTRONIK,1748196000
+PROD-0378,BaJu Bayi,"Rp120000,-",-5,pakaian,"Nov 07, 2025"
+PROD-0027,BaJu Bayi,"Rp15000,-",null,clothes,"Sep 24, 2025"
+PROD-1652,NOVEL FIKSI TERJEMAHAN,45000,-5,buku,2025-12-22 21:00:00
+PROD-0673,KEMEJA FLANEL Keren,"Rp45000,-",kosong,clothes,"Feb 04, 2026"
+PROD-1262,KAMUS BAHASA INGGRIS,45,19,BUKU,03/04/2025
+PROD-0990,KEMEJA FLANEL Keren,45000,null,pakaian,27/09/2025
+PROD-0069,BAJU  ANAK PEREMPUAN,120rb,-5,pakaian,14/03/2025
+PROD-1793,NOVEL FIKSI TERJEMAHAN,45000,-5,BUKU,1755068400
+PROD-1751,mouse WIRELESS,15000,87,elektronik,13/02/2026
+PROD-1333,buku pemrograman python,45000,66,BUKU,"May 11, 2025"
+PROD-0251,NOVEL FIKSI TERJEMAHAN,$3.00,null,BUKU,10/01/2026
+PROD-0633,NOVEL FIKSI TERJEMAHAN,,kosong,buku,"Feb 08, 2025"
+PROD-1508,KAMUS BAHASA INGGRIS,"Rp45000,-",-5,buku bacaan,2025-07-07 22:00:00
+PROD-1660,KEMEJA FLANEL Keren,"Rp15000,-",70,clothes,11/01/2025
+PROD-0580,POWERBANK 10000mah,"Rp15000,-",kosong,ELEKTRONIK,"Feb 28, 2026"
+PROD-0147,BAJU  ANAK PEREMPUAN,null,null,pakian,1750096800
+PROD-0299,mouse WIRELESS,Rp 45.000,kosong,elektronik,"Jan 19, 2025"
+PROD-0446,BaJu Bayi,120rb,57,PAKAIAN,26/01/2026
+PROD-0124,charger Type-C fast,120,17,elektronik,"Aug 16, 2025"
+PROD-0358,hP android murah,120,12,ELEKTRONIK,08/07/2025
+PROD-1083,kaos polos combed,,6,pakaian,1745996400
+PROD-1201,charger Type-C fast,45,null,ELEKTRONIK,15/11/2025
+PROD-0757,baju anak laki-laki,Rp 120.000,kosong,pakaian,1768122000
+PROD-0340,BAJU  ANAK PEREMPUAN,120000,12,pakian,2026-03-14 7:00:00
+PROD-0471,baju anak laki-laki,45000,12,PAKAIAN,"Feb 07, 2025"
+PROD-0420,baju anak laki-laki,$1.00,-5,clothes,09/04/2025
+PROD-0272,baju anak laki-laki,$8.00,12,pakian,1739682000
+PROD-0862,buku pemrograman python,$3.00,12,buku bacaan,23/10/2025
+PROD-1055,komik jepang lama,15000,kosong,buku bacaan,17/03/2026
+PROD-0183,kaos polos combed,Rp 45.000,12,clothes,1755198000
+PROD-0792,NOVEL FIKSI TERJEMAHAN,45rb,kosong,buku,06/03/2025
+PROD-0227,KAMUS BAHASA INGGRIS,45000,22,BUKU,"Jan 03, 2026"
+PROD-0256,baju anak laki-laki,$3.00,-5,pakaian,"Jan 05, 2025"
+PROD-0994,Buku Mewarnai anak,Rp 15.000,12,buku bacaan,2025-01-21 15:00:00
+PROD-0017,buku pemrograman python,45000,kosong,buku bacaan,06/11/2025
+PROD-1254,LAPTOP gaming i7,Rp 45.000,-5,elektronik murah,1763272800
+PROD-0063,POWERBANK 10000mah,45rb,12,ELEKTRONIK,1749556800
+PROD-1562,komik jepang lama,15,-5,buku,1765558800
+PROD-1488,KAMUS BAHASA INGGRIS,45rb,-5,buku bacaan,09/10/2025

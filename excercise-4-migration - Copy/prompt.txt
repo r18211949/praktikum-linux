@@ -1,0 +1,5 @@
+Skenario Toko online lama mau migrate ke platform baru. Database lama dump-nya messy banget. Anda diminta clean-up sebelum import ke DB baru.
+Generate Data Prompt:
+Generate ﬁle produk-lama.csv sebanyak 2000 baris dengan kolom: kode_produk,  nama_produk, harga, stok, kategori, last_updated. Constraints:
+Harga messy: ada yang "Rp 15.000", "15000", "15rb", "15.000", "Rp15000,-",  "$1.20" (campuran USD), null, kosong Nama produk inconsistent capitalization: "baju anak laki-laki", "BAJU  ANAK PEREMPUAN", "BaJu Bayi", ada extra whitespace Kategori ada typo: "pakaian", "PAKAIAN", "pakian", "clothes"
+Last updated campuran format termasuk Unix epoch Beberapa baris produk duplikat (kode_produk sama tapi data lain beda — keep yang last_updated paling baru)

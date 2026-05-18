@@ -1,0 +1,4 @@
+Generate 500 order records dalam format JSON Lines (satu order per baris).
+Setiap order:
+Constraints:
+Tiap order punya 1-5 items Sebagian (sekitar 10%) total tidak sama dengan sum(qty × price) items — bug yang harus dicari Customer ID bisa muncul di banyak order (repeat customer) Tanggal span 1 bulan terakhir
